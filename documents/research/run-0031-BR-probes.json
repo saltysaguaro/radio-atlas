@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://centova5.transmissaodigital.com:20104/live",
+    "checkedAt": "2026-09-08T04:26:40.507010+00:00",
+    "catalogMatches": [
+      {
+        "id": "7ada8a81-5ae1-418c-8f18-51d2f38d86a4",
+        "name": "Bossa Jazz Brasil",
+        "country": "BR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac",
+    "checkedAt": "2026-09-08T04:26:40.507092+00:00",
+    "catalogMatches": [
+      {
+        "id": "447a1a5f-aee6-4b21-b85f-10ceb1896ad3",
+        "name": "Alpha FM 101.7 MHz (São Paulo - SP)",
+        "country": "BR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://antenaone.crossradio.com.br/stream/1;",
+    "checkedAt": "2026-09-08T04:26:40.507078+00:00",
+    "catalogMatches": [
+      {
+        "id": "570cc99a-9159-4d91-9a8f-96ddb5b30797",
+        "name": "Rádio Antena 1 94.7 FM",
+        "country": "BR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
+    "checkedAt": "2026-09-08T04:26:40.507140+00:00",
+    "catalogMatches": [
+      {
+        "id": "901c92bd-a757-449a-b8ce-652b079fd38a",
+        "name": "Rádio Mix 106.3 FM",
+        "country": "BR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

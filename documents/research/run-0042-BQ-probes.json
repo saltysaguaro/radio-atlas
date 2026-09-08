@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://kadushi.westream.cloud:8100/xstream",
+    "checkedAt": "2026-09-08T15:36:14.116166+00:00",
+    "catalogMatches": [
+      {
+        "id": "3e84059f-d864-4e15-bc25-05d3281869fc",
+        "name": "Alpha 93.1 FM Riscado",
+        "country": "BQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://megahitfm.krioyohosting.com:1012/stream",
+    "checkedAt": "2026-09-08T15:36:14.116222+00:00",
+    "catalogMatches": [
+      {
+        "id": "4922824c-0f93-4d25-b6cc-be67c8c8b34d",
+        "name": "Mega Hit FM",
+        "country": "BQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://auds1.intacs.com/tropicalspiceradio",
+    "checkedAt": "2026-09-08T15:36:14.116231+00:00",
+    "catalogMatches": [
+      {
+        "id": "4cc8aaeb-b624-42e1-8b87-69f18950b65f",
+        "name": "TROPICAL SPICE RADIO",
+        "country": "BQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://caribspy.com/proxy/solidfm/stream/;?type=http&nocache=107036",
+    "checkedAt": "2026-09-08T15:36:14.116312+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

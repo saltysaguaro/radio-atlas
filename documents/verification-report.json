@@ -1,0 +1,1273 @@
+{
+  "metadata": {
+    "generatedAt": "2026-09-05T16:48:14.136993+00:00",
+    "completedAt": "2026-09-05T16:52:15.932260+00:00",
+    "source": "https://www.radio-browser.info/",
+    "sourceApi": "de1.api.radio-browser.info",
+    "stationCount": 32605,
+    "countriesWithStations": 212,
+    "countriesAtTarget": 115,
+    "totalCountriesAndTerritories": 250,
+    "countryStationLimit": null,
+    "sourceRecords": 64178,
+    "candidateRecords": 62457,
+    "checkedEndpoints": 54765,
+    "sourceWasCached": true,
+    "sourceRetrievedAt": "2026-09-05T16:29:36.609183+00:00",
+    "verification": "HTTPS with valid TLS, pinned public addresses at every redirect, direct audio content type and a 4096-byte sample. Point-in-time availability; not editorial certification or guaranteed playback.",
+    "ranking": "All passing distinct feeds, ordered by directory clicks and votes; no per-country limit. Not national audience ratings.",
+    "locatedStations": 7589
+  },
+  "coverage": [
+    {
+      "code": "AF",
+      "country": "Afghanistan",
+      "verified": 45
+    },
+    {
+      "code": "AL",
+      "country": "Albania",
+      "verified": 23
+    },
+    {
+      "code": "DZ",
+      "country": "Algeria",
+      "verified": 48
+    },
+    {
+      "code": "AS",
+      "country": "American Samoa",
+      "verified": 5
+    },
+    {
+      "code": "AD",
+      "country": "Andorra",
+      "verified": 6
+    },
+    {
+      "code": "AO",
+      "country": "Angola",
+      "verified": 8
+    },
+    {
+      "code": "AI",
+      "country": "Anguilla",
+      "verified": 2
+    },
+    {
+      "code": "AQ",
+      "country": "Antarctica",
+      "verified": 6
+    },
+    {
+      "code": "AG",
+      "country": "Antigua and Barbuda",
+      "verified": 2
+    },
+    {
+      "code": "AR",
+      "country": "Argentina",
+      "verified": 843
+    },
+    {
+      "code": "AM",
+      "country": "Armenia",
+      "verified": 8
+    },
+    {
+      "code": "AW",
+      "country": "Aruba",
+      "verified": 3
+    },
+    {
+      "code": "AU",
+      "country": "Australia",
+      "verified": 753
+    },
+    {
+      "code": "AT",
+      "country": "Austria",
+      "verified": 228
+    },
+    {
+      "code": "AZ",
+      "country": "Azerbaijan",
+      "verified": 19
+    },
+    {
+      "code": "BS",
+      "country": "Bahamas",
+      "verified": 4
+    },
+    {
+      "code": "BH",
+      "country": "Bahrain",
+      "verified": 4
+    },
+    {
+      "code": "BD",
+      "country": "Bangladesh",
+      "verified": 14
+    },
+    {
+      "code": "BB",
+      "country": "Barbados",
+      "verified": 7
+    },
+    {
+      "code": "BY",
+      "country": "Belarus",
+      "verified": 39
+    },
+    {
+      "code": "BE",
+      "country": "Belgium",
+      "verified": 295
+    },
+    {
+      "code": "BZ",
+      "country": "Belize",
+      "verified": 1
+    },
+    {
+      "code": "BJ",
+      "country": "Benin",
+      "verified": 3
+    },
+    {
+      "code": "BM",
+      "country": "Bermuda",
+      "verified": 5
+    },
+    {
+      "code": "BT",
+      "country": "Bhutan",
+      "verified": 1
+    },
+    {
+      "code": "BO",
+      "country": "Bolivia",
+      "verified": 55
+    },
+    {
+      "code": "BA",
+      "country": "Bosnia and Herzegovina",
+      "verified": 50
+    },
+    {
+      "code": "BW",
+      "country": "Botswana",
+      "verified": 0
+    },
+    {
+      "code": "BV",
+      "country": "Bouvet Island",
+      "verified": 0
+    },
+    {
+      "code": "BR",
+      "country": "Brazil",
+      "verified": 1008
+    },
+    {
+      "code": "IO",
+      "country": "British Indian Ocean Territory",
+      "verified": 6
+    },
+    {
+      "code": "VG",
+      "country": "British Virgin Islands",
+      "verified": 0
+    },
+    {
+      "code": "BN",
+      "country": "Brunei",
+      "verified": 4
+    },
+    {
+      "code": "BG",
+      "country": "Bulgaria",
+      "verified": 111
+    },
+    {
+      "code": "BF",
+      "country": "Burkina Faso",
+      "verified": 4
+    },
+    {
+      "code": "BI",
+      "country": "Burundi",
+      "verified": 0
+    },
+    {
+      "code": "KH",
+      "country": "Cambodia",
+      "verified": 5
+    },
+    {
+      "code": "CM",
+      "country": "Cameroon",
+      "verified": 1
+    },
+    {
+      "code": "CA",
+      "country": "Canada",
+      "verified": 750
+    },
+    {
+      "code": "CV",
+      "country": "Cape Verde",
+      "verified": 15
+    },
+    {
+      "code": "BQ",
+      "country": "Caribbean Netherlands",
+      "verified": 8
+    },
+    {
+      "code": "KY",
+      "country": "Cayman Islands",
+      "verified": 6
+    },
+    {
+      "code": "CF",
+      "country": "Central African Republic",
+      "verified": 2
+    },
+    {
+      "code": "TD",
+      "country": "Chad",
+      "verified": 1
+    },
+    {
+      "code": "CL",
+      "country": "Chile",
+      "verified": 392
+    },
+    {
+      "code": "CN",
+      "country": "China",
+      "verified": 1080
+    },
+    {
+      "code": "CX",
+      "country": "Christmas Island",
+      "verified": 1
+    },
+    {
+      "code": "CC",
+      "country": "Cocos (Keeling) Islands",
+      "verified": 1
+    },
+    {
+      "code": "CO",
+      "country": "Colombia",
+      "verified": 494
+    },
+    {
+      "code": "KM",
+      "country": "Comoros",
+      "verified": 0
+    },
+    {
+      "code": "CG",
+      "country": "Congo",
+      "verified": 1
+    },
+    {
+      "code": "CK",
+      "country": "Cook Islands",
+      "verified": 0
+    },
+    {
+      "code": "CR",
+      "country": "Costa Rica",
+      "verified": 38
+    },
+    {
+      "code": "HR",
+      "country": "Croatia",
+      "verified": 107
+    },
+    {
+      "code": "CU",
+      "country": "Cuba",
+      "verified": 12
+    },
+    {
+      "code": "CW",
+      "country": "Cura\u00e7ao",
+      "verified": 17
+    },
+    {
+      "code": "CY",
+      "country": "Cyprus",
+      "verified": 26
+    },
+    {
+      "code": "CZ",
+      "country": "Czechia",
+      "verified": 183
+    },
+    {
+      "code": "CD",
+      "country": "DR Congo",
+      "verified": 11
+    },
+    {
+      "code": "DK",
+      "country": "Denmark",
+      "verified": 124
+    },
+    {
+      "code": "DJ",
+      "country": "Djibouti",
+      "verified": 0
+    },
+    {
+      "code": "DM",
+      "country": "Dominica",
+      "verified": 5
+    },
+    {
+      "code": "DO",
+      "country": "Dominican Republic",
+      "verified": 81
+    },
+    {
+      "code": "EC",
+      "country": "Ecuador",
+      "verified": 122
+    },
+    {
+      "code": "EG",
+      "country": "Egypt",
+      "verified": 29
+    },
+    {
+      "code": "SV",
+      "country": "El Salvador",
+      "verified": 40
+    },
+    {
+      "code": "GQ",
+      "country": "Equatorial Guinea",
+      "verified": 0
+    },
+    {
+      "code": "ER",
+      "country": "Eritrea",
+      "verified": 1
+    },
+    {
+      "code": "EE",
+      "country": "Estonia",
+      "verified": 86
+    },
+    {
+      "code": "SZ",
+      "country": "Eswatini",
+      "verified": 0
+    },
+    {
+      "code": "ET",
+      "country": "Ethiopia",
+      "verified": 22
+    },
+    {
+      "code": "FK",
+      "country": "Falkland Islands",
+      "verified": 4
+    },
+    {
+      "code": "FO",
+      "country": "Faroe Islands",
+      "verified": 6
+    },
+    {
+      "code": "FJ",
+      "country": "Fiji",
+      "verified": 6
+    },
+    {
+      "code": "FI",
+      "country": "Finland",
+      "verified": 87
+    },
+    {
+      "code": "FR",
+      "country": "France",
+      "verified": 1561
+    },
+    {
+      "code": "GF",
+      "country": "French Guiana",
+      "verified": 3
+    },
+    {
+      "code": "PF",
+      "country": "French Polynesia",
+      "verified": 6
+    },
+    {
+      "code": "TF",
+      "country": "French Southern and Antarctic Lands",
+      "verified": 0
+    },
+    {
+      "code": "GA",
+      "country": "Gabon",
+      "verified": 0
+    },
+    {
+      "code": "GM",
+      "country": "Gambia",
+      "verified": 0
+    },
+    {
+      "code": "GE",
+      "country": "Georgia",
+      "verified": 12
+    },
+    {
+      "code": "DE",
+      "country": "Germany",
+      "verified": 4341
+    },
+    {
+      "code": "GH",
+      "country": "Ghana",
+      "verified": 75
+    },
+    {
+      "code": "GI",
+      "country": "Gibraltar",
+      "verified": 6
+    },
+    {
+      "code": "GR",
+      "country": "Greece",
+      "verified": 1227
+    },
+    {
+      "code": "GL",
+      "country": "Greenland",
+      "verified": 5
+    },
+    {
+      "code": "GD",
+      "country": "Grenada",
+      "verified": 3
+    },
+    {
+      "code": "GP",
+      "country": "Guadeloupe",
+      "verified": 10
+    },
+    {
+      "code": "GU",
+      "country": "Guam",
+      "verified": 3
+    },
+    {
+      "code": "GT",
+      "country": "Guatemala",
+      "verified": 58
+    },
+    {
+      "code": "GG",
+      "country": "Guernsey",
+      "verified": 1
+    },
+    {
+      "code": "GN",
+      "country": "Guinea",
+      "verified": 4
+    },
+    {
+      "code": "GW",
+      "country": "Guinea-Bissau",
+      "verified": 1
+    },
+    {
+      "code": "GY",
+      "country": "Guyana",
+      "verified": 7
+    },
+    {
+      "code": "HT",
+      "country": "Haiti",
+      "verified": 22
+    },
+    {
+      "code": "HM",
+      "country": "Heard Island and McDonald Islands",
+      "verified": 0
+    },
+    {
+      "code": "HN",
+      "country": "Honduras",
+      "verified": 31
+    },
+    {
+      "code": "HK",
+      "country": "Hong Kong",
+      "verified": 20
+    },
+    {
+      "code": "HU",
+      "country": "Hungary",
+      "verified": 188
+    },
+    {
+      "code": "IS",
+      "country": "Iceland",
+      "verified": 6
+    },
+    {
+      "code": "IN",
+      "country": "India",
+      "verified": 537
+    },
+    {
+      "code": "ID",
+      "country": "Indonesia",
+      "verified": 365
+    },
+    {
+      "code": "IR",
+      "country": "Iran",
+      "verified": 17
+    },
+    {
+      "code": "IQ",
+      "country": "Iraq",
+      "verified": 14
+    },
+    {
+      "code": "IE",
+      "country": "Ireland",
+      "verified": 119
+    },
+    {
+      "code": "IM",
+      "country": "Isle of Man",
+      "verified": 7
+    },
+    {
+      "code": "IL",
+      "country": "Israel",
+      "verified": 85
+    },
+    {
+      "code": "IT",
+      "country": "Italy",
+      "verified": 855
+    },
+    {
+      "code": "CI",
+      "country": "Ivory Coast",
+      "verified": 11
+    },
+    {
+      "code": "JM",
+      "country": "Jamaica",
+      "verified": 33
+    },
+    {
+      "code": "JP",
+      "country": "Japan",
+      "verified": 69
+    },
+    {
+      "code": "JE",
+      "country": "Jersey",
+      "verified": 2
+    },
+    {
+      "code": "JO",
+      "country": "Jordan",
+      "verified": 8
+    },
+    {
+      "code": "KZ",
+      "country": "Kazakhstan",
+      "verified": 17
+    },
+    {
+      "code": "KE",
+      "country": "Kenya",
+      "verified": 33
+    },
+    {
+      "code": "KI",
+      "country": "Kiribati",
+      "verified": 1
+    },
+    {
+      "code": "XK",
+      "country": "Kosovo",
+      "verified": 6
+    },
+    {
+      "code": "KW",
+      "country": "Kuwait",
+      "verified": 8
+    },
+    {
+      "code": "KG",
+      "country": "Kyrgyzstan",
+      "verified": 6
+    },
+    {
+      "code": "LA",
+      "country": "Laos",
+      "verified": 3
+    },
+    {
+      "code": "LV",
+      "country": "Latvia",
+      "verified": 50
+    },
+    {
+      "code": "LB",
+      "country": "Lebanon",
+      "verified": 33
+    },
+    {
+      "code": "LS",
+      "country": "Lesotho",
+      "verified": 1
+    },
+    {
+      "code": "LR",
+      "country": "Liberia",
+      "verified": 0
+    },
+    {
+      "code": "LY",
+      "country": "Libya",
+      "verified": 4
+    },
+    {
+      "code": "LI",
+      "country": "Liechtenstein",
+      "verified": 1
+    },
+    {
+      "code": "LT",
+      "country": "Lithuania",
+      "verified": 47
+    },
+    {
+      "code": "LU",
+      "country": "Luxembourg",
+      "verified": 20
+    },
+    {
+      "code": "MO",
+      "country": "Macau",
+      "verified": 4
+    },
+    {
+      "code": "MG",
+      "country": "Madagascar",
+      "verified": 8
+    },
+    {
+      "code": "MW",
+      "country": "Malawi",
+      "verified": 7
+    },
+    {
+      "code": "MY",
+      "country": "Malaysia",
+      "verified": 43
+    },
+    {
+      "code": "MV",
+      "country": "Maldives",
+      "verified": 3
+    },
+    {
+      "code": "ML",
+      "country": "Mali",
+      "verified": 12
+    },
+    {
+      "code": "MT",
+      "country": "Malta",
+      "verified": 6
+    },
+    {
+      "code": "MH",
+      "country": "Marshall Islands",
+      "verified": 2
+    },
+    {
+      "code": "MQ",
+      "country": "Martinique",
+      "verified": 6
+    },
+    {
+      "code": "MR",
+      "country": "Mauritania",
+      "verified": 0
+    },
+    {
+      "code": "MU",
+      "country": "Mauritius",
+      "verified": 9
+    },
+    {
+      "code": "YT",
+      "country": "Mayotte",
+      "verified": 2
+    },
+    {
+      "code": "MX",
+      "country": "Mexico",
+      "verified": 1217
+    },
+    {
+      "code": "FM",
+      "country": "Micronesia",
+      "verified": 0
+    },
+    {
+      "code": "MD",
+      "country": "Moldova",
+      "verified": 60
+    },
+    {
+      "code": "MC",
+      "country": "Monaco",
+      "verified": 5
+    },
+    {
+      "code": "MN",
+      "country": "Mongolia",
+      "verified": 5
+    },
+    {
+      "code": "ME",
+      "country": "Montenegro",
+      "verified": 35
+    },
+    {
+      "code": "MS",
+      "country": "Montserrat",
+      "verified": 0
+    },
+    {
+      "code": "MA",
+      "country": "Morocco",
+      "verified": 43
+    },
+    {
+      "code": "MZ",
+      "country": "Mozambique",
+      "verified": 5
+    },
+    {
+      "code": "MM",
+      "country": "Myanmar",
+      "verified": 4
+    },
+    {
+      "code": "NA",
+      "country": "Namibia",
+      "verified": 12
+    },
+    {
+      "code": "NR",
+      "country": "Nauru",
+      "verified": 0
+    },
+    {
+      "code": "NP",
+      "country": "Nepal",
+      "verified": 19
+    },
+    {
+      "code": "NL",
+      "country": "Netherlands",
+      "verified": 799
+    },
+    {
+      "code": "NC",
+      "country": "New Caledonia",
+      "verified": 6
+    },
+    {
+      "code": "NZ",
+      "country": "New Zealand",
+      "verified": 118
+    },
+    {
+      "code": "NI",
+      "country": "Nicaragua",
+      "verified": 18
+    },
+    {
+      "code": "NE",
+      "country": "Niger",
+      "verified": 1
+    },
+    {
+      "code": "NG",
+      "country": "Nigeria",
+      "verified": 55
+    },
+    {
+      "code": "NU",
+      "country": "Niue",
+      "verified": 0
+    },
+    {
+      "code": "NF",
+      "country": "Norfolk Island",
+      "verified": 0
+    },
+    {
+      "code": "KP",
+      "country": "North Korea",
+      "verified": 3
+    },
+    {
+      "code": "MK",
+      "country": "North Macedonia",
+      "verified": 27
+    },
+    {
+      "code": "MP",
+      "country": "Northern Mariana Islands",
+      "verified": 0
+    },
+    {
+      "code": "NO",
+      "country": "Norway",
+      "verified": 102
+    },
+    {
+      "code": "OM",
+      "country": "Oman",
+      "verified": 2
+    },
+    {
+      "code": "PK",
+      "country": "Pakistan",
+      "verified": 40
+    },
+    {
+      "code": "PW",
+      "country": "Palau",
+      "verified": 1
+    },
+    {
+      "code": "PS",
+      "country": "Palestine",
+      "verified": 5
+    },
+    {
+      "code": "PA",
+      "country": "Panama",
+      "verified": 23
+    },
+    {
+      "code": "PG",
+      "country": "Papua New Guinea",
+      "verified": 0
+    },
+    {
+      "code": "PY",
+      "country": "Paraguay",
+      "verified": 22
+    },
+    {
+      "code": "PE",
+      "country": "Peru",
+      "verified": 190
+    },
+    {
+      "code": "PH",
+      "country": "Philippines",
+      "verified": 307
+    },
+    {
+      "code": "PN",
+      "country": "Pitcairn Islands",
+      "verified": 0
+    },
+    {
+      "code": "PL",
+      "country": "Poland",
+      "verified": 496
+    },
+    {
+      "code": "PT",
+      "country": "Portugal",
+      "verified": 172
+    },
+    {
+      "code": "PR",
+      "country": "Puerto Rico",
+      "verified": 32
+    },
+    {
+      "code": "QA",
+      "country": "Qatar",
+      "verified": 5
+    },
+    {
+      "code": "RO",
+      "country": "Romania",
+      "verified": 586
+    },
+    {
+      "code": "RU",
+      "country": "Russia",
+      "verified": 1134
+    },
+    {
+      "code": "RW",
+      "country": "Rwanda",
+      "verified": 3
+    },
+    {
+      "code": "RE",
+      "country": "R\u00e9union",
+      "verified": 30
+    },
+    {
+      "code": "BL",
+      "country": "Saint Barth\u00e9lemy",
+      "verified": 0
+    },
+    {
+      "code": "SH",
+      "country": "Saint Helena, Ascension and Tristan da Cunha",
+      "verified": 2
+    },
+    {
+      "code": "KN",
+      "country": "Saint Kitts and Nevis",
+      "verified": 0
+    },
+    {
+      "code": "LC",
+      "country": "Saint Lucia",
+      "verified": 8
+    },
+    {
+      "code": "MF",
+      "country": "Saint Martin",
+      "verified": 0
+    },
+    {
+      "code": "PM",
+      "country": "Saint Pierre and Miquelon",
+      "verified": 2
+    },
+    {
+      "code": "VC",
+      "country": "Saint Vincent and the Grenadines",
+      "verified": 11
+    },
+    {
+      "code": "WS",
+      "country": "Samoa",
+      "verified": 0
+    },
+    {
+      "code": "SM",
+      "country": "San Marino",
+      "verified": 1
+    },
+    {
+      "code": "SA",
+      "country": "Saudi Arabia",
+      "verified": 35
+    },
+    {
+      "code": "SN",
+      "country": "Senegal",
+      "verified": 27
+    },
+    {
+      "code": "RS",
+      "country": "Serbia",
+      "verified": 198
+    },
+    {
+      "code": "SC",
+      "country": "Seychelles",
+      "verified": 0
+    },
+    {
+      "code": "SL",
+      "country": "Sierra Leone",
+      "verified": 1
+    },
+    {
+      "code": "SG",
+      "country": "Singapore",
+      "verified": 31
+    },
+    {
+      "code": "SX",
+      "country": "Sint Maarten",
+      "verified": 1
+    },
+    {
+      "code": "SK",
+      "country": "Slovakia",
+      "verified": 71
+    },
+    {
+      "code": "SI",
+      "country": "Slovenia",
+      "verified": 53
+    },
+    {
+      "code": "SB",
+      "country": "Solomon Islands",
+      "verified": 0
+    },
+    {
+      "code": "SO",
+      "country": "Somalia",
+      "verified": 2
+    },
+    {
+      "code": "ZA",
+      "country": "South Africa",
+      "verified": 137
+    },
+    {
+      "code": "GS",
+      "country": "South Georgia",
+      "verified": 0
+    },
+    {
+      "code": "KR",
+      "country": "South Korea",
+      "verified": 9
+    },
+    {
+      "code": "SS",
+      "country": "South Sudan",
+      "verified": 2
+    },
+    {
+      "code": "ES",
+      "country": "Spain",
+      "verified": 834
+    },
+    {
+      "code": "LK",
+      "country": "Sri Lanka",
+      "verified": 39
+    },
+    {
+      "code": "SD",
+      "country": "Sudan",
+      "verified": 2
+    },
+    {
+      "code": "SR",
+      "country": "Suriname",
+      "verified": 5
+    },
+    {
+      "code": "SJ",
+      "country": "Svalbard and Jan Mayen",
+      "verified": 0
+    },
+    {
+      "code": "SE",
+      "country": "Sweden",
+      "verified": 150
+    },
+    {
+      "code": "CH",
+      "country": "Switzerland",
+      "verified": 383
+    },
+    {
+      "code": "SY",
+      "country": "Syria",
+      "verified": 18
+    },
+    {
+      "code": "ST",
+      "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "verified": 0
+    },
+    {
+      "code": "TW",
+      "country": "Taiwan",
+      "verified": 36
+    },
+    {
+      "code": "TJ",
+      "country": "Tajikistan",
+      "verified": 0
+    },
+    {
+      "code": "TZ",
+      "country": "Tanzania",
+      "verified": 10
+    },
+    {
+      "code": "TH",
+      "country": "Thailand",
+      "verified": 39
+    },
+    {
+      "code": "TL",
+      "country": "Timor-Leste",
+      "verified": 0
+    },
+    {
+      "code": "TG",
+      "country": "Togo",
+      "verified": 3
+    },
+    {
+      "code": "TK",
+      "country": "Tokelau",
+      "verified": 0
+    },
+    {
+      "code": "TO",
+      "country": "Tonga",
+      "verified": 3
+    },
+    {
+      "code": "TT",
+      "country": "Trinidad and Tobago",
+      "verified": 17
+    },
+    {
+      "code": "TN",
+      "country": "Tunisia",
+      "verified": 31
+    },
+    {
+      "code": "TM",
+      "country": "Turkmenistan",
+      "verified": 1
+    },
+    {
+      "code": "TC",
+      "country": "Turks and Caicos Islands",
+      "verified": 0
+    },
+    {
+      "code": "TV",
+      "country": "Tuvalu",
+      "verified": 0
+    },
+    {
+      "code": "TR",
+      "country": "T\u00fcrkiye",
+      "verified": 367
+    },
+    {
+      "code": "UG",
+      "country": "Uganda",
+      "verified": 94
+    },
+    {
+      "code": "UA",
+      "country": "Ukraine",
+      "verified": 172
+    },
+    {
+      "code": "AE",
+      "country": "United Arab Emirates",
+      "verified": 621
+    },
+    {
+      "code": "GB",
+      "country": "United Kingdom",
+      "verified": 1302
+    },
+    {
+      "code": "US",
+      "country": "United States",
+      "verified": 4595
+    },
+    {
+      "code": "UM",
+      "country": "United States Minor Outlying Islands",
+      "verified": 17
+    },
+    {
+      "code": "VI",
+      "country": "United States Virgin Islands",
+      "verified": 3
+    },
+    {
+      "code": "UY",
+      "country": "Uruguay",
+      "verified": 91
+    },
+    {
+      "code": "UZ",
+      "country": "Uzbekistan",
+      "verified": 3
+    },
+    {
+      "code": "VU",
+      "country": "Vanuatu",
+      "verified": 3
+    },
+    {
+      "code": "VA",
+      "country": "Vatican City",
+      "verified": 13
+    },
+    {
+      "code": "VE",
+      "country": "Venezuela",
+      "verified": 133
+    },
+    {
+      "code": "VN",
+      "country": "Vietnam",
+      "verified": 11
+    },
+    {
+      "code": "WF",
+      "country": "Wallis and Futuna",
+      "verified": 1
+    },
+    {
+      "code": "EH",
+      "country": "Western Sahara",
+      "verified": 0
+    },
+    {
+      "code": "YE",
+      "country": "Yemen",
+      "verified": 9
+    },
+    {
+      "code": "ZM",
+      "country": "Zambia",
+      "verified": 4
+    },
+    {
+      "code": "ZW",
+      "country": "Zimbabwe",
+      "verified": 3
+    },
+    {
+      "code": "AX",
+      "country": "\u00c5land Islands",
+      "verified": 1
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://s14.myradiostream.com/10064/;.mp3",
+    "checkedAt": "2026-09-08T11:34:18.738362+00:00",
+    "catalogMatches": [
+      {
+        "id": "cc20bea1-aeea-4801-8f62-6aaab144f150",
+        "name": "Family FM 99.5 (Witthyu Krousar)",
+        "country": "KH"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://listen.radioking.com/radio/318317/stream/365846",
+    "checkedAt": "2026-09-08T11:34:18.738414+00:00",
+    "catalogMatches": [
+      {
+        "id": "5bfc4b1a-def1-44ab-8d6d-e7c63820f781",
+        "name": "Pop Radio 21",
+        "country": "KH"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live.sangkemtv.com/radio.mp3",
+    "checkedAt": "2026-09-08T11:34:18.738420+00:00",
+    "catalogMatches": [
+      {
+        "id": "65b508f2-e022-4831-9dd5-b98d5a348452",
+        "name": "Sangkem Radio",
+        "country": "KH"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.radio.co/sd48fd711d/listen",
+    "checkedAt": "2026-09-08T11:34:18.738480+00:00",
+    "catalogMatches": [
+      {
+        "id": "053872d7-f972-4db7-b19c-993e6553141d",
+        "name": "LDP Radio",
+        "country": "KH"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

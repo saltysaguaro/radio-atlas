@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://a8.my-control-panel.com:8670/radio.mp3",
+    "checkedAt": "2026-09-08T14:35:16.214394+00:00",
+    "catalogMatches": [
+      {
+        "id": "d0cdbba0-70d5-45d8-ac11-ad9c8008a15d",
+        "name": "RCV+ Radio Cabo Verde Jovem",
+        "country": "CV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://a3.asurahosting.com/listen/rcv/radio.mp3",
+    "checkedAt": "2026-09-08T14:35:16.214443+00:00",
+    "catalogMatches": [
+      {
+        "id": "d1ff9b22-40ed-43ae-b823-194642c358ac",
+        "name": "RCV Radio Cabo Verde direct",
+        "country": "CV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://a13.my-control-panel.com/listen/rte/radio.mp3",
+    "checkedAt": "2026-09-08T14:35:16.214449+00:00",
+    "catalogMatches": [
+      {
+        "id": "df690da2-ec6a-4fc0-9153-58fb341d2605",
+        "name": "RTE – Radio Educativa",
+        "country": "CV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.cvhosting.uk/listen/radio_atlantico/radio.mp3",
+    "checkedAt": "2026-09-08T14:35:16.214521+00:00",
+    "catalogMatches": [
+      {
+        "id": "65e8c590-e232-475e-ba85-4419a1b6347a",
+        "name": "Radio Atlantico",
+        "country": "CV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

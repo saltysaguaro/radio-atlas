@@ -1,0 +1,610 @@
+{
+  "catalogGeneratedAt": "2026-09-05T16:48:14.136993+00:00",
+  "movedToCountryLocation": [
+    {
+      "id": "247e4d32-39b8-48d7-a86a-ec6effea7723",
+      "name": "Radio Energia 97 FM",
+      "country": "BR",
+      "sourceLat": -24.465900690594616,
+      "sourceLon": -46.1865234375
+    },
+    {
+      "id": "78525119-ac0d-48ad-bd5d-bae5ed512dba",
+      "name": "Irie FM",
+      "country": "JM",
+      "sourceLat": 16.88796169044702,
+      "sourceLon": -76.89290004833386
+    },
+    {
+      "id": "a2624589-8279-4be3-9ea0-514dcd29cef8",
+      "name": "V\u00f5mba FM",
+      "country": "EE",
+      "sourceLat": 60.14884057111667,
+      "sourceLon": 24.87953782081604
+    },
+    {
+      "id": "c0500a45-1322-4020-b45b-a9dd680a2787",
+      "name": "Emisora de Radio \"ATodaMecha\"",
+      "country": "CU",
+      "sourceLat": 20.92296241226858,
+      "sourceLon": -79.36523437500001
+    },
+    {
+      "id": "be61261d-ba40-4ab1-a045-34f0c49b0ca6",
+      "name": "Exclusively Daft Punk",
+      "country": "AE",
+      "sourceLat": 25.253278838952788,
+      "sourceLon": 51.51359496733171
+    },
+    {
+      "id": "37980c08-4c94-4cc6-92b0-bf5d31dde421",
+      "name": "\u0417\u0430!\u0420\u0430\u0434\u0438\u043e (\u041c\u0435\u043b\u0438\u0442\u043e\u043f\u043e\u043b\u044c)",
+      "country": "RU",
+      "sourceLat": 46.84981421862707,
+      "sourceLon": 35.37048339843751
+    },
+    {
+      "id": "490068a8-e5f9-40eb-8374-53bce3fecd4d",
+      "name": "Nostalgia Central",
+      "country": "GB",
+      "sourceLat": 53.061437407164725,
+      "sourceLon": -5.251464843750001
+    },
+    {
+      "id": "71660681-3835-4a98-85c6-4579a931e3b5",
+      "name": "102 FM Itaperuna",
+      "country": "BR",
+      "sourceLat": -24.60207473707724,
+      "sourceLon": -44.47265625000001
+    },
+    {
+      "id": "00f874ec-f9af-41b9-a636-e852a7f135cd",
+      "name": "HappyRadio",
+      "country": "TW",
+      "sourceLat": 22.979759879141913,
+      "sourceLon": 121.89279378795104
+    },
+    {
+      "id": "bdd7e85e-33bc-4ab0-8e90-ce7cec5a80ab",
+      "name": "Radio  Estacion del Poder",
+      "country": "CL",
+      "sourceLat": -33.19641194802523,
+      "sourceLon": -72.07031250000001
+    },
+    {
+      "id": "8f58cb1d-174f-4e40-95d4-efde52260a5b",
+      "name": "Radio Grand FM",
+      "country": "RU",
+      "sourceLat": 47.08296572788196,
+      "sourceLon": 37.55676269531251
+    },
+    {
+      "id": "7941ff3c-0c4f-409d-b46e-d7ba027dd0a6",
+      "name": "Radio Veseljak-Pumpa",
+      "country": "SI",
+      "sourceLat": 48.69976759741503,
+      "sourceLon": 19.687500000000004
+    },
+    {
+      "id": "8b67c79f-fc7d-4a59-b26e-ec913caead8f",
+      "name": "VICTORS RADIO",
+      "country": "UG",
+      "sourceLat": -3.0280693789523534,
+      "sourceLon": 32.78320312500001
+    },
+    {
+      "id": "83144f00-2e72-43a8-853e-a3a2f5643413",
+      "name": "Caboradio",
+      "country": "CV",
+      "sourceLat": 15.909168583480565,
+      "sourceLon": -23.444824218750004
+    },
+    {
+      "id": "93641447-cd25-435f-bb2e-3c7072336d0d",
+      "name": "Riduna-radio.com",
+      "country": "GG",
+      "sourceLat": 49.716072265334674,
+      "sourceLon": -2.2031074762344365
+    },
+    {
+      "id": "464fc4cc-3c6e-4b5d-92a8-9e4646c2f1da",
+      "name": "SENSUELLE RADIO",
+      "country": "MU",
+      "sourceLat": -21.30856673806807,
+      "sourceLon": 55.67871093750001
+    },
+    {
+      "id": "696ab180-8bf3-4c6f-b262-0fd105bc5ef6",
+      "name": "Sputnik Ossetia",
+      "country": "RU",
+      "sourceLat": 42.22531221472208,
+      "sourceLon": 43.9709727874825
+    },
+    {
+      "id": "aaaa178a-9d76-4cbd-97c6-9cc165edad19",
+      "name": "Radio Nelly",
+      "country": "FR",
+      "sourceLat": 51.37726540697961,
+      "sourceLon": 3.69140625
+    },
+    {
+      "id": "5c153996-c2f7-4bdb-a326-5b45dc7816a5",
+      "name": "SOLID GOLD RADIO IRELAND",
+      "country": "IE",
+      "sourceLat": 50.61366433600913,
+      "sourceLon": -6.637204785136424
+    },
+    {
+      "id": "ec53bf8b-3c22-4603-9a77-d3fe807f4a50",
+      "name": "Radiofavoritaranchera",
+      "country": "CL",
+      "sourceLat": -50.053432801061966,
+      "sourceLon": -72.20409684418203
+    },
+    {
+      "id": "dd17ec1d-3e82-45d3-bb98-a914cf237d64",
+      "name": "baddajam",
+      "country": "JM",
+      "sourceLat": 17.45547353468555,
+      "sourceLon": -77.45617573806466
+    },
+    {
+      "id": "21747f11-f6a0-4f5d-8170-1264bf187b1a",
+      "name": "Symphoniya Wave",
+      "country": "CH",
+      "sourceLat": 45.4971051774524,
+      "sourceLon": 10.898437500000002
+    },
+    {
+      "id": "8acd3149-cdd1-4e24-9793-e29ff0eecaff",
+      "name": "CKMS-FM Radio Waterloo DI",
+      "country": "US",
+      "sourceLat": 43.45505,
+      "sourceLon": -80.49694
+    },
+    {
+      "id": "561300e3-86ba-489f-901d-426596141e8d",
+      "name": "Retro Plum Radio",
+      "country": "US",
+      "sourceLat": 45.27875187893957,
+      "sourceLon": -78.04687500000001
+    },
+    {
+      "id": "66996f7c-623f-484d-810c-db1ef62241b9",
+      "name": "Saint.FM",
+      "country": "SH",
+      "sourceLat": -15.632955745681755,
+      "sourceLon": -5.822753906250001
+    },
+    {
+      "id": "fdea0da8-daf3-473e-9d31-c5436a859e90",
+      "name": "Classics Radio",
+      "country": "NL",
+      "sourceLat": 49.97384379874117,
+      "sourceLon": 5.129395472714444
+    },
+    {
+      "id": "e419cb02-f72c-4e4b-97e7-b19b2dcefbfb",
+      "name": "EB FM",
+      "country": "CI",
+      "sourceLat": 4.723396683110023,
+      "sourceLon": -4.3369388580322275
+    },
+    {
+      "id": "44eb1d4e-3a57-4f16-8213-1dd487d176cd",
+      "name": "Wagenbergtotaal",
+      "country": "NL",
+      "sourceLat": 50.92381327191293,
+      "sourceLon": 2.7795410156250004
+    },
+    {
+      "id": "6b650c01-3967-4156-af32-0337ed6a9b19",
+      "name": "Electro Radio",
+      "country": "DE",
+      "sourceLat": 46.86620038091033,
+      "sourceLon": 9.250488281250002
+    },
+    {
+      "id": "2f679253-8bc3-4a4d-a8a4-00baaf618215",
+      "name": "Easy Rock",
+      "country": "AE",
+      "sourceLat": 25.40093917879017,
+      "sourceLon": 54.962851201659525
+    },
+    {
+      "id": "a3769b81-5612-4f33-80da-6a0b379b8957",
+      "name": "UK Pressure Radio",
+      "country": "GB",
+      "sourceLat": 49.55728898983402,
+      "sourceLon": -1.5820312500000002
+    }
+  ],
+  "excludedForConflictingCountry": [
+    {
+      "id": "17e85b1e-1eaf-465e-8753-4178e605f7b9",
+      "name": "Arab Mix 256",
+      "country": "EG",
+      "sourceLat": 17.214264312027566,
+      "sourceLon": 29.531250000000004
+    },
+    {
+      "id": "65f5549e-a554-4386-9249-7f9651fd40f6",
+      "name": "Schwarzwaldradio",
+      "country": "DE",
+      "sourceLat": 18.812717856407776,
+      "sourceLon": -38.92186400853982
+    },
+    {
+      "id": "87e0e1df-a84c-4d3a-92c8-813a01bd7cc5",
+      "name": "\u5e7f\u4e1c\u97f3\u4e50\u4e4b\u58f0",
+      "country": "CN",
+      "sourceLat": 39.436192999314095,
+      "sourceLon": -36.03515625000001
+    },
+    {
+      "id": "32f62475-8900-4364-9fee-d1909f06ae2d",
+      "name": "Gamesboro Radio - Video Game Music 24/7",
+      "country": "AT",
+      "sourceLat": 27.98171891564362,
+      "sourceLon": -80.6017674460188
+    },
+    {
+      "id": "85600c22-79dd-465a-873a-bda637f95a8b",
+      "name": "Chinese Music World",
+      "country": "CN",
+      "sourceLat": -47.48609923596499,
+      "sourceLon": 15.625551152326544
+    },
+    {
+      "id": "e2f8a671-835a-4223-ad0f-33ac7aa9ed05",
+      "name": "DnB&EDM",
+      "country": "US",
+      "sourceLat": 51.299925466442645,
+      "sourceLon": 10.118408203125002
+    },
+    {
+      "id": "339c6a61-4433-44f9-9fad-20998c512ae4",
+      "name": "Youtube",
+      "country": "AS",
+      "sourceLat": 9.906907502466373,
+      "sourceLon": 33.82221990298802
+    },
+    {
+      "id": "629c4148-251f-4de9-8f67-d6f255968eea",
+      "name": "La salsa cubana",
+      "country": "CU",
+      "sourceLat": 26.59343927024179,
+      "sourceLon": -81.63208007812501
+    },
+    {
+      "id": "ac970874-8d3b-46f6-8dee-b735a386caa6",
+      "name": "Bhaktiworld Media Shiva",
+      "country": "IN",
+      "sourceLat": -82.2998815259585,
+      "sourceLon": 42.40722656250001
+    },
+    {
+      "id": "55f5637d-8f55-4a54-9f2a-12aba0a7390b",
+      "name": "Radio Mas RocknPop",
+      "country": "CO",
+      "sourceLat": -18.74857507993667,
+      "sourceLon": -72.28678327856332
+    },
+    {
+      "id": "319a9758-9b6b-4aa6-8415-432e43c46d1e",
+      "name": "Exclusively Madonna",
+      "country": "AE",
+      "sourceLat": 14.153620546917876,
+      "sourceLon": 41.42944335937501
+    },
+    {
+      "id": "e3c5ff64-1b5f-44d9-bb31-d85944d012bd",
+      "name": "Balearic FM",
+      "country": "US",
+      "sourceLat": 38.91013665250296,
+      "sourceLon": 1.436290740966797
+    },
+    {
+      "id": "99c8588b-7c76-4db1-bd11-12d35c4e67af",
+      "name": "Radio Caprice - Classical Guitar",
+      "country": "RU",
+      "sourceLat": -82.41171472377295,
+      "sourceLon": 1.5820312500000002
+    },
+    {
+      "id": "73e9c54e-2f1a-436f-a24c-25019a5a6708",
+      "name": "Patrisamato Radio",
+      "country": "BA",
+      "sourceLat": 51.98758668066236,
+      "sourceLon": 5.869820680550558
+    },
+    {
+      "id": "09b1f979-a307-4fdd-bacd-ffdaabe23921",
+      "name": "GD Dubai",
+      "country": "HN",
+      "sourceLat": 37.771148980863856,
+      "sourceLon": -122.44503021240236
+    },
+    {
+      "id": "88b1ce47-4b83-4c79-a54c-65684a942d2a",
+      "name": "Radio Cecchetto",
+      "country": "IT",
+      "sourceLat": -51.45058375685898,
+      "sourceLon": -45.3515625
+    },
+    {
+      "id": "f288200c-0093-4a5f-8aac-9e043879b7d9",
+      "name": "Radio Humilite",
+      "country": "HT",
+      "sourceLat": -85.01911790297841,
+      "sourceLon": -65.07408142089845
+    },
+    {
+      "id": "5381ad60-c7ec-42a6-ad41-e458fcb08c11",
+      "name": "057 radio",
+      "country": "GH",
+      "sourceLat": 0.4050354898245666,
+      "sourceLon": 9.438943917524226
+    },
+    {
+      "id": "c87df85c-7a00-49a9-84f1-ed93a6a34bbb",
+      "name": "RADIO UNIQUE FM /HI-RES",
+      "country": "NL",
+      "sourceLat": -4.637407390559067,
+      "sourceLon": 55.460014343261726
+    },
+    {
+      "id": "ce858ea9-f57e-49f3-b977-952ced75c4d5",
+      "name": "Moody Praise & Worship",
+      "country": "US",
+      "sourceLat": 53.12040528310657,
+      "sourceLon": -93.8671875
+    },
+    {
+      "id": "ba884e95-3294-485c-b2ab-da3c501110b7",
+      "name": "97.3 The Rock",
+      "country": "US",
+      "sourceLat": 8.192460906801285,
+      "sourceLon": -130.95703125000003
+    },
+    {
+      "id": "87069ec6-7cfc-446d-b1be-e56c8b8d2287",
+      "name": "DLF aktuelle Presseschau",
+      "country": "DK",
+      "sourceLat": 50.89339778855447,
+      "sourceLon": 6.967622637748718
+    },
+    {
+      "id": "1797bc4c-3ff6-46d1-8fb7-da9778be4485",
+      "name": "Radio Romantica",
+      "country": "IT",
+      "sourceLat": 49.01085236926213,
+      "sourceLon": 3.4277343750000004
+    },
+    {
+      "id": "848a71ae-64e7-4e14-b0a3-4ff3b862c3ab",
+      "name": "Bissakou Web Radio",
+      "country": "FR",
+      "sourceLat": 31.260558712466928,
+      "sourceLon": 43.48663330078126
+    },
+    {
+      "id": "4974ff56-f36a-48d9-a0bb-cd3b5ce07f31",
+      "name": "Dial Radio",
+      "country": "SD",
+      "sourceLat": 51.59242899291177,
+      "sourceLon": 9.843750000000002
+    },
+    {
+      "id": "7758bd16-da9a-40db-9333-48a550b0801f",
+      "name": "BitrRcord",
+      "country": "CY",
+      "sourceLat": 47.88063298427293,
+      "sourceLon": 35.15210186444635
+    },
+    {
+      "id": "bd568faa-169e-4aab-a99f-7c2f0762a312",
+      "name": "Radio Caprice - Drum n Bass",
+      "country": "RU",
+      "sourceLat": -78.29247842306191,
+      "sourceLon": 21.972656250000004
+    },
+    {
+      "id": "bc21a80e-a04c-431e-b601-a5fda358e3f8",
+      "name": "Radio Caprice - Club Dance",
+      "country": "RU",
+      "sourceLat": -79.31568405100019,
+      "sourceLon": -0.8789062500000001
+    },
+    {
+      "id": "8b799581-47e1-4cbf-ae62-b34313c53cac",
+      "name": "VocaloPlus! Vocaloid & More",
+      "country": "CL",
+      "sourceLat": -35.247213778321765,
+      "sourceLon": -65.91206211133415
+    },
+    {
+      "id": "e7074582-4a53-4a32-8a79-f261415d8179",
+      "name": "RADIO UNIQUE FM /mobile",
+      "country": "NL",
+      "sourceLat": -4.636859870146062,
+      "sourceLon": 55.464305877685554
+    },
+    {
+      "id": "2cbe5b29-320d-4c66-93e1-88913a5dd43f",
+      "name": "GOD Radio",
+      "country": "NL",
+      "sourceLat": 54.693281229292275,
+      "sourceLon": -1.8017578125
+    },
+    {
+      "id": "0ba01ebe-7ec4-4ea1-a768-917d172b6d01",
+      "name": "MYX Radio",
+      "country": "US",
+      "sourceLat": 18.10757459093614,
+      "sourceLon": 2.1093750000000004
+    },
+    {
+      "id": "16e056ce-44f0-457d-b183-5b48500de896",
+      "name": "labynet",
+      "country": "FR",
+      "sourceLat": 52.58886646089915,
+      "sourceLon": 13.491210937500002
+    },
+    {
+      "id": "cd908e32-35c9-4eb3-9754-0331ed0f4d65",
+      "name": "LP Roman Fm",
+      "country": "TR",
+      "sourceLat": 14.870313498384592,
+      "sourceLon": -0.5208206176757814
+    },
+    {
+      "id": "ba47c617-ba0c-4230-ab60-528deffd1ed3",
+      "name": "Radio 7 Tazas de Molina FM",
+      "country": "CN",
+      "sourceLat": -35.2505147623981,
+      "sourceLon": -73.21822971700408
+    },
+    {
+      "id": "c20c8dbe-f93b-469d-bbfd-4f5fc889d82f",
+      "name": "Radi Caprice - Afrobeat",
+      "country": "RU",
+      "sourceLat": -59.479684786273026,
+      "sourceLon": -27.262573242187504
+    },
+    {
+      "id": "20396ef5-f4ba-4df8-a631-9bdec7e85451",
+      "name": "Radio Caprice - Chicago Blues",
+      "country": "RU",
+      "sourceLat": -82.50400250786652,
+      "sourceLon": 1.93359375
+    },
+    {
+      "id": "bc196301-d530-4d0e-ad37-687037f6d8b4",
+      "name": "Radio Caprice - Hip Hop",
+      "country": "RU",
+      "sourceLat": -82.03113231487457,
+      "sourceLon": 4.394531250000001
+    },
+    {
+      "id": "b90ad418-a017-47d4-a9e8-61588d083731",
+      "name": "CCR Chronicles Christian Radio",
+      "country": "US",
+      "sourceLat": 13.185886230290286,
+      "sourceLon": -61.20223678463383
+    },
+    {
+      "id": "341b70d4-8f57-42a8-99d1-7d5aa6604f54",
+      "name": "Radio K\u00f6ln - Dein HipHop Radio",
+      "country": "DE",
+      "sourceLat": 44.46000533679708,
+      "sourceLon": 17.731933593750004
+    },
+    {
+      "id": "4c18e887-8279-4dbb-9b24-bee1e8a8a71b",
+      "name": "La Ke Buena Cuernavaca 105.3",
+      "country": "MX",
+      "sourceLat": -34.95349314197422,
+      "sourceLon": 10.546875000000002
+    },
+    {
+      "id": "c948ef44-10f7-49a9-a188-cac6f27220e4",
+      "name": "From The Heart Radio",
+      "country": "VI",
+      "sourceLat": 33.880783515062205,
+      "sourceLon": -83.11019514966783
+    },
+    {
+      "id": "4e0b43ca-f0c9-47dc-abd1-de0f68994299",
+      "name": "GamersOnFireHR",
+      "country": "DO",
+      "sourceLat": 67.44649648365615,
+      "sourceLon": 49.39453125000001
+    },
+    {
+      "id": "c7e2f5fc-4809-4e78-a343-809d683ea8bb",
+      "name": "UZI'S TOP 200",
+      "country": "IN",
+      "sourceLat": 52.96383052944624,
+      "sourceLon": 98.401962144023
+    },
+    {
+      "id": "c102e2cc-9906-4c5a-881f-3c077470d7be",
+      "name": "R\u00e1dio Vida Terra Rica",
+      "country": "PT",
+      "sourceLat": -22.716104895611807,
+      "sourceLon": -52.6280039548874
+    },
+    {
+      "id": "6d27325e-da7e-4682-8e73-465fc5082347",
+      "name": "Radio Amigos do Mundo",
+      "country": "PT",
+      "sourceLat": 47.37220563185642,
+      "sourceLon": 8.536376953125002
+    },
+    {
+      "id": "6f576e6c-7cc3-4c5e-a831-4587a2f8efc8",
+      "name": "R\u00c1DIO EU SOU GOI\u00c1S",
+      "country": "PT",
+      "sourceLat": -15.01270723975152,
+      "sourceLon": -49.43199817310427
+    },
+    {
+      "id": "0e515358-07ae-4b56-9b1b-1a07997d65a3",
+      "name": "Schlagerheilo",
+      "country": "DE",
+      "sourceLat": 54.013148,
+      "sourceLon": -12.230151
+    },
+    {
+      "id": "854c6952-f9bc-48e8-a791-985d95138a0e",
+      "name": "REGENBOGEN 2 - 80ER ROCK",
+      "country": "DE",
+      "sourceLat": 48.177805362948135,
+      "sourceLon": -67.85156250000001
+    },
+    {
+      "id": "18949b98-bca6-43ea-a138-429d7dceb43a",
+      "name": "AutoDJ",
+      "country": "DE",
+      "sourceLat": 48.842579,
+      "sourceLon": -9.330513
+    },
+    {
+      "id": "ac5fdde2-5bc3-435a-a016-37e93dfe79bc",
+      "name": "Radio Alta",
+      "country": "CH",
+      "sourceLat": 46.31,
+      "sourceLon": -6.3
+    },
+    {
+      "id": "c5553730-ed5c-4844-b62b-de559dbf08b7",
+      "name": "Smash hits radio retro",
+      "country": "GB",
+      "sourceLat": -35.83293546855173,
+      "sourceLon": 11.534194762347314
+    },
+    {
+      "id": "4d5be9f8-fdbe-49c4-a14c-838105b5690e",
+      "name": "RPR1. Radio Schinkenstrasse",
+      "country": "DE",
+      "sourceLat": 39.51570474695651,
+      "sourceLon": 2.745101977462991
+    },
+    {
+      "id": "6ccd9e38-cda0-4c2e-8073-fb9080b52ab9",
+      "name": "RADIO HUAYNA PICCHU",
+      "country": "ES",
+      "sourceLat": -10.21113697298739,
+      "sourceLon": -76.28906250000001
+    },
+    {
+      "id": "63e00df3-cf20-4845-842a-7013c1149560",
+      "name": "Radio Akou+",
+      "country": "GR",
+      "sourceLat": 48.14576425785131,
+      "sourceLon": 11.506800055503843
+    }
+  ],
+  "note": "Coordinates outside the assigned country and coastal tolerance are not displayed as station pins. Clearly conflicting country/coordinate records are excluded."
+}

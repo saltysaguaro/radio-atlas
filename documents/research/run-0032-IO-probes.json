@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://streaming.ticktock.radio/tt/1993/icecast.audio",
+    "checkedAt": "2026-09-08T05:28:08.491463+00:00",
+    "catalogMatches": [
+      {
+        "id": "63a5c1f5-2849-4bab-8a4c-1ef7a689d0c6",
+        "name": "Tick Tock Radio - 1993",
+        "country": "IO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.ticktock.radio/tt/1992/icecast.audio",
+    "checkedAt": "2026-09-08T05:28:08.491519+00:00",
+    "catalogMatches": [
+      {
+        "id": "218de9a5-7d76-4ab7-8d3e-c5704a2ebcc5",
+        "name": "Tick Tock Radio - 1992",
+        "country": "IO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.ticktock.radio/tt/1994/icecast.audio",
+    "checkedAt": "2026-09-08T05:28:08.491526+00:00",
+    "catalogMatches": [
+      {
+        "id": "0acc9bfe-ccee-46d3-97cf-bfc487733412",
+        "name": "Tick Tock Radio - 1994",
+        "country": "IO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/t961q1d0vp6vv",
+    "checkedAt": "2026-09-08T05:28:08.491600+00:00",
+    "catalogMatches": [
+      {
+        "id": "4fde7228-f97d-4dc5-be88-39875cf99074",
+        "name": "Bollywood Radio",
+        "country": "IO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

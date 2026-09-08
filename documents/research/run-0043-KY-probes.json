@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://iriefm-hurleysmedia.radioca.st/stream?_=912521",
+    "checkedAt": "2026-09-08T16:35:43.232599+00:00",
+    "catalogMatches": [
+      {
+        "id": "be8f2bad-ecf7-420f-af22-7fba6aa57662",
+        "name": "Island FM - The Rhythm Of Cayman",
+        "country": "KY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://z99-hurleysmedia.radioca.st/stream",
+    "checkedAt": "2026-09-08T16:35:43.232670+00:00",
+    "catalogMatches": [
+      {
+        "id": "63b06607-97d8-487e-975b-82ef2fe0bb0b",
+        "name": "Z99 Grand Cayman",
+        "country": "KY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice23.securenetsystems.net/X1071?playSessionID=C8803655-9BCC-E3A9-EB64CD924FCD83A6",
+    "checkedAt": "2026-09-08T16:35:43.232658+00:00",
+    "catalogMatches": [
+      {
+        "id": "17eac980-f297-4680-b2b9-1314c2376d18",
+        "name": "X107.1",
+        "country": "KY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://rooster101-hurleysmedia.radioca.st/stream",
+    "checkedAt": "2026-09-08T16:35:43.232725+00:00",
+    "catalogMatches": [
+      {
+        "id": "d53fe71a-30a9-49bd-99bb-688bce2dd16d",
+        "name": "Rooster 101",
+        "country": "KY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

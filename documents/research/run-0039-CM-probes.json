@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://a7.asurahosting.com/listen/mmuock_community_radio_/radio.mp3",
+    "checkedAt": "2026-09-08T12:33:43.367610+00:00",
+    "catalogMatches": [
+      {
+        "id": "377d391b-c128-4e50-a50f-63ab2a242be5",
+        "name": "Mmuock Community Radio",
+        "country": "CM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://crtv.cm/tv/radio",
+    "checkedAt": "2026-09-08T12:33:43.367672+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.radiomaria.cm/",
+    "checkedAt": "2026-09-08T12:33:43.367744+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ocrfm.online/",
+    "checkedAt": "2026-09-08T12:33:43.367823+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

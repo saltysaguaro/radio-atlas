@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.json -diff
+*.jsonl -diff
+*.geojson -diff
+*.png binary
+*.zip binary
+# Preserve upstream license text verbatim, including its whitespace.
+website/public/THIRD-PARTY-NOTICES.txt -whitespace

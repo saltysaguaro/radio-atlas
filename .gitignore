@@ -1,0 +1,22 @@
+# Local dependencies, build output, and editor state
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+.openai/
+.env
+.env.*
+*.pem
+*.log
+
+# Regenerable downloads and release packages; keep catalog and check evidence.
+/documents/source-snapshot.json
+/upload/
+/radio-atlas-upload.zip
+/radio-atlas-github.zip
+/documents/RELEASE-SHA256.txt

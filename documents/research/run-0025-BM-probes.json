@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://streamer.radio.co/s0635c8b0d/listen",
+    "checkedAt": "2026-09-07T22:19:10.049273+00:00",
+    "catalogMatches": [
+      {
+        "id": "0698d428-45f1-4cbc-a910-577a2c434944",
+        "name": "dr_dick's dub shack",
+        "country": "BM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.magic1027bermuda.com/live",
+    "checkedAt": "2026-09-07T22:19:10.049322+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streamer.radio.co/bermuda-power95/listen",
+    "checkedAt": "2026-09-07T22:19:10.049392+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streamer.radio.co/bermuda-ocean89/listen",
+    "checkedAt": "2026-09-07T22:19:10.049482+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

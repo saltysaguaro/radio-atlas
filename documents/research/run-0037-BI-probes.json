@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://rtnb.bi/",
+    "checkedAt": "2026-09-08T10:31:40.242179+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://boneshafm.bi/",
+    "checkedAt": "2026-09-08T10:31:40.242304+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.kazozafm.com/",
+    "checkedAt": "2026-09-08T10:31:40.242365+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.radio-tv-terimbere.com/",
+    "checkedAt": "2026-09-08T10:31:40.242427+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://radio.bbs.bt/dz-ch",
+    "checkedAt": "2026-09-07T23:18:37.446630+00:00",
+    "catalogMatches": [
+      {
+        "id": "bbs-dz",
+        "name": "BBS Radio — Dzongkha",
+        "country": "BT"
+      },
+      {
+        "id": "bbs-dz",
+        "name": "BBS Radio — Dzongkha",
+        "country": "BT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {"id":"bbs-dz","name":"BBS Radio — Dzongkha","country":"BT","url":"https://radio.bbs.bt/dz-ch","tags":["news","culture"],"languages":["Dzongkha"],"source":"https://www.bbs.bt/radio-streaming/"},
+  {"id":"fbc-radio-fiji-one","name":"Radio Fiji One","country":"FJ","url":"https://icecast1.sere.plus/RFOne","tags":["news","culture"],"languages":["iTaukei"],"source":"https://www.sere.plus/"},
+  {"id":"fbc-radio-fiji-two","name":"Radio Fiji Two","country":"FJ","url":"https://icecast1.sere.plus/RFTwo","tags":["news","classic"],"languages":["Hindi"],"source":"https://www.sere.plus/"},
+  {"id":"fbc-gold","name":"Gold FM","country":"FJ","url":"https://icecast1.sere.plus/Gold","tags":["classic hits","rock"],"languages":["English"],"source":"https://www.sere.plus/"},
+  {"id":"fbc-bula","name":"Bula FM","country":"FJ","url":"https://icecast1.sere.plus/Bula","tags":["pop","contemporary"],"languages":["iTaukei"],"source":"https://www.sere.plus/"},
+  {"id":"fbc-mirchi","name":"Mirchi FM","country":"FJ","url":"https://icecast1.sere.plus/MirchiFiji","tags":["bollywood","pop"],"languages":["Hindi"],"source":"https://www.sere.plus/"},
+  {"id":"fbc-2day","name":"2Day FM","country":"FJ","url":"https://icecast1.sere.plus/2Day","tags":["pop","contemporary"],"languages":["English"],"source":"https://www.sere.plus/"}
+]

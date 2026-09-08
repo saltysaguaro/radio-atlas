@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://media2.datacenter.by/stream/belarusru/stream",
+    "checkedAt": "2026-09-07T16:38:22.544056+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream2.datacenter.by/radiusfm_main",
+    "checkedAt": "2026-09-07T16:38:22.544160+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.rusradio.by:8443/live128",
+    "checkedAt": "2026-09-07T16:38:22.544263+00:00",
+    "catalogMatches": [
+      {
+        "id": "e785d4f6-4c5d-4789-b3ee-932860569abd",
+        "name": "Русское радио Минск 98.9 FM",
+        "country": "BY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live.novoeradio.by:444/live/novoeradio",
+    "checkedAt": "2026-09-07T16:38:22.544318+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

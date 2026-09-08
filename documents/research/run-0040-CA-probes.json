@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy?environment=tunein&args=tunein_01",
+    "checkedAt": "2026-09-08T13:34:15.074519+00:00",
+    "catalogMatches": [
+      {
+        "id": "336f18d8-6a0d-4422-9e70-785648d6c61f",
+        "name": "101.9 ROCK",
+        "country": "CA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://14023.live.streamtheworld.com/CJADAM_SC",
+    "checkedAt": "2026-09-08T13:34:15.074576+00:00",
+    "catalogMatches": [
+      {
+        "id": "d8275ce6-a7dd-4d91-9703-55eca0410744",
+        "name": "CJAD 800",
+        "country": "CA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://26733.live.streamtheworld.com/CBOFM_CBC_SC",
+    "checkedAt": "2026-09-08T13:34:15.074585+00:00",
+    "catalogMatches": [
+      {
+        "id": "6b5949de-b9ea-4aa1-af15-17dbd30b1b19",
+        "name": "CBC Radio One - Ottawa, ON (MP3 stream)",
+        "country": "CA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFFM_SRC.mp3",
+    "checkedAt": "2026-09-08T13:34:15.074656+00:00",
+    "catalogMatches": [
+      {
+        "id": "03a318f0-64b0-4808-b45e-254f1a131681",
+        "name": "ICI Première - Montreal, QC",
+        "country": "CA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

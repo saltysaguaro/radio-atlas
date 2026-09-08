@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://stream.zeno.fm/o9bspgm4y78vv",
+    "checkedAt": "2026-09-07T19:40:58.046581+00:00",
+    "catalogMatches": [
+      {
+        "id": "666d0d87-f0fb-4b3b-8842-9753b817e3fd",
+        "name": "Radio Cotonou 94.3",
+        "country": "BJ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://listen.radioking.com/radio/47608/stream/84430",
+    "checkedAt": "2026-09-07T19:40:58.046659+00:00",
+    "catalogMatches": [
+      {
+        "id": "79ac5dea-03c5-42a4-9195-4a26db00f65d",
+        "name": "ORTB Radio Bénin",
+        "country": "BJ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://listen.radioking.com/radio/51919/stream/88927",
+    "checkedAt": "2026-09-07T19:40:58.046648+00:00",
+    "catalogMatches": [
+      {
+        "id": "ceb2178c-34f3-4c5a-9dd6-0d9b60f28abf",
+        "name": "ORTB Radio Parakou",
+        "country": "BJ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

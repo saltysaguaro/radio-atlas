@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://stream.zeno.fm/pnwpbyfambruv",
+    "checkedAt": "2026-09-08T00:22:08.708928+00:00",
+    "catalogMatches": [
+      {
+        "id": "cca0bd15-38db-4949-8866-faae4c7309d5",
+        "name": "Radio Panamericana",
+        "country": "BO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://cast6.my-control-panel.com/proxy/radiostr/;",
+    "checkedAt": "2026-09-08T00:22:08.708984+00:00",
+    "catalogMatches": [
+      {
+        "id": "5702c958-7e30-4b21-8467-2973927c4e00",
+        "name": "Radio Éxito (Bolivia)",
+        "country": "BO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac?dist=web-radiodisney",
+    "checkedAt": "2026-09-08T00:22:08.708991+00:00",
+    "catalogMatches": [
+      {
+        "id": "8c8087b7-8df8-4930-b115-aac2ba6b3bab",
+        "name": "Radio Disney - La Paz FM 102.7",
+        "country": "BO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://emiteradio.com/proxy/cumbia90s?mp=/stream",
+    "checkedAt": "2026-09-08T00:22:08.709071+00:00",
+    "catalogMatches": [
+      {
+        "id": "8042b312-1b60-471b-bf6e-aabdbb4c2512",
+        "name": "Radio Cumbia 90s",
+        "country": "BO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

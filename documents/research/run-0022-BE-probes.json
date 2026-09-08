@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://radio.rtbf.be/c21/mp3-160/me",
+    "checkedAt": "2026-09-07T17:39:49.071626+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.rtbf.be/viva-bxl/mp3-160/me",
+    "checkedAt": "2026-09-07T17:39:49.071765+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mp3.streampower.be/radio1-low.mp3",
+    "checkedAt": "2026-09-07T17:39:49.071832+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.brf.be/brf1-high.mp3",
+    "checkedAt": "2026-09-07T17:39:49.071904+00:00",
+    "catalogMatches": [
+      {
+        "id": "960e4195-0601-11e8-ae97-52543be04c81",
+        "name": "BRF1",
+        "country": "BE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

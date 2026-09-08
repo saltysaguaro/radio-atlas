@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://cast.name.ba:8000/;",
+    "checkedAt": "2026-09-08T01:22:47.788633+00:00",
+    "catalogMatches": [
+      {
+        "id": "8e1890ff-a74c-484c-b3df-aa5346c03c61",
+        "name": "Radio Sehara",
+        "country": "BA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ec2s.crolive.com.hr:1510/stream",
+    "checkedAt": "2026-09-08T01:22:47.788711+00:00",
+    "catalogMatches": [
+      {
+        "id": "0a61b972-aff2-47fa-91cd-edcc15900d33",
+        "name": "Radio Busovača",
+        "country": "BA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3",
+    "checkedAt": "2026-09-08T01:22:47.788699+00:00",
+    "catalogMatches": [
+      {
+        "id": "882b08a2-c753-4af0-91a7-4edad1cd683d",
+        "name": "Esoterica Radio S2",
+        "country": "BA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3",
+    "checkedAt": "2026-09-08T01:22:47.788768+00:00",
+    "catalogMatches": [
+      {
+        "id": "80891d3f-cf77-4fbf-a924-0274871a0bfb",
+        "name": "Esoterica Radio S3",
+        "country": "BA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

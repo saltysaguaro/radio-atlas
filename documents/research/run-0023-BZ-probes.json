@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://stream.radio.co/s8f2f3c6d8/listen",
+    "checkedAt": "2026-09-07T18:39:55.669944+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.radio.co/s8f2f3c6d8/listen",
+    "checkedAt": "2026-09-07T18:39:55.670083+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "http://159.65.32.199:8016/stream",
+    "checkedAt": "2026-09-07T18:39:55.670158+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://horizonradio.bz/stream",
+    "checkedAt": "2026-09-07T18:39:55.670273+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

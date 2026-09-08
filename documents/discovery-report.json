@@ -1,0 +1,1591 @@
+{
+  "metadata": {
+    "generatedAt": "2026-09-05T16:48:14.136993+00:00",
+    "completedAt": "2026-09-05T16:52:15.932260+00:00",
+    "source": "https://www.radio-browser.info/",
+    "sourceApi": "de1.api.radio-browser.info",
+    "stationCount": 32605,
+    "countriesWithStations": 212,
+    "countriesAtTarget": 115,
+    "totalCountriesAndTerritories": 250,
+    "countryStationLimit": null,
+    "sourceRecords": 64178,
+    "candidateRecords": 62457,
+    "checkedEndpoints": 54765,
+    "sourceWasCached": true,
+    "sourceRetrievedAt": "2026-09-05T16:29:36.609183+00:00",
+    "verification": "HTTPS with valid TLS, pinned public addresses at every redirect, direct audio content type and a 4096-byte sample. Point-in-time availability; not editorial certification or guaranteed playback.",
+    "ranking": "All passing distinct feeds, ordered by directory clicks and votes; no per-country limit. Not national audience ratings.",
+    "locatedStations": 7589
+  },
+  "recordExclusions": {
+    "unknown_country": 1276,
+    "ambiguous_country": 443,
+    "missing_name": 2,
+    "no_passing_endpoint": 20899,
+    "duplicate_stream": 8898
+  },
+  "endpointOutcomes": {
+    "passed": 33710,
+    "unsupported_response_type": 5831,
+    "http_or_connection_failure": 14001,
+    "unsafe_or_unresolvable_address": 1144,
+    "non_audio_body": 27,
+    "insufficient_audio_sample": 47,
+    "redirect_limit_or_missing_location": 5
+  },
+  "failedStatusCodes": {
+    "0": 11330,
+    "404": 1234,
+    "401": 384,
+    "403": 434,
+    "502": 235,
+    "400": 12,
+    "503": 123,
+    "530": 13,
+    "500": 21,
+    "521": 23,
+    "429": 167,
+    "526": 3,
+    "433": 3,
+    "204": 1,
+    "410": 12,
+    "520": 1,
+    "525": 2,
+    "499": 2,
+    "522": 1
+  },
+  "unsupportedContentTypes": {
+    "application/vnd.apple.mpegurl": 2088,
+    "audio/x-mpegurl": 982,
+    "audio/x-scpls": 1292,
+    "application/x-mpegurl": 575,
+    "application/flv": 16,
+    "audio/mpegurl": 188,
+    "application/octet-stream": 87,
+    "audio/scpls": 31,
+    "application/pls+xml": 87,
+    "text/html": 373,
+    "audio/flac": 3,
+    "application/xspf+xml": 11,
+    "video/x-ms-asf": 25,
+    "application/force-download": 30,
+    "application/json": 20,
+    "audio/x-pn-realaudio": 2,
+    "binary/octet-stream": 3,
+    "video/x-ms-asx": 1,
+    "": 3,
+    "text/xml": 2,
+    "application/mpegurl": 2,
+    "audio/x-mpeg": 1,
+    "audio/x-mpequrl": 2,
+    "image/jpeg": 1,
+    "text/plain": 4,
+    "application/hls+xml": 1,
+    "image/x-icon": 1
+  },
+  "coverage": [
+    {
+      "code": "ZW",
+      "candidates": 6,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "ZM",
+      "candidates": 7,
+      "verified": 4,
+      "networkVerified": 4
+    },
+    {
+      "code": "YE",
+      "candidates": 15,
+      "verified": 9,
+      "networkVerified": 9
+    },
+    {
+      "code": "VN",
+      "candidates": 46,
+      "verified": 11,
+      "networkVerified": 11
+    },
+    {
+      "code": "VE",
+      "candidates": 190,
+      "verified": 133,
+      "networkVerified": 133
+    },
+    {
+      "code": "VA",
+      "candidates": 14,
+      "verified": 13,
+      "networkVerified": 13
+    },
+    {
+      "code": "VU",
+      "candidates": 5,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "UZ",
+      "candidates": 11,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "UY",
+      "candidates": 174,
+      "verified": 91,
+      "networkVerified": 91
+    },
+    {
+      "code": "FM",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "MH",
+      "candidates": 2,
+      "verified": 2,
+      "networkVerified": 2
+    },
+    {
+      "code": "MP",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "VI",
+      "candidates": 9,
+      "verified": 3,
+      "networkVerified": 4
+    },
+    {
+      "code": "GU",
+      "candidates": 4,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "AS",
+      "candidates": 13,
+      "verified": 5,
+      "networkVerified": 6
+    },
+    {
+      "code": "PR",
+      "candidates": 53,
+      "verified": 32,
+      "networkVerified": 32
+    },
+    {
+      "code": "US",
+      "candidates": 8019,
+      "verified": 4595,
+      "networkVerified": 4601
+    },
+    {
+      "code": "GS",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "IO",
+      "candidates": 6,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "SH",
+      "candidates": 3,
+      "verified": 2,
+      "networkVerified": 2
+    },
+    {
+      "code": "PN",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "AI",
+      "candidates": 5,
+      "verified": 2,
+      "networkVerified": 2
+    },
+    {
+      "code": "FK",
+      "candidates": 4,
+      "verified": 4,
+      "networkVerified": 4
+    },
+    {
+      "code": "KY",
+      "candidates": 10,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "BM",
+      "candidates": 10,
+      "verified": 5,
+      "networkVerified": 5
+    },
+    {
+      "code": "VG",
+      "candidates": 3,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "TC",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "MS",
+      "candidates": 2,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "JE",
+      "candidates": 3,
+      "verified": 2,
+      "networkVerified": 2
+    },
+    {
+      "code": "GG",
+      "candidates": 1,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "IM",
+      "candidates": 7,
+      "verified": 7,
+      "networkVerified": 7
+    },
+    {
+      "code": "GB",
+      "candidates": 2450,
+      "verified": 1302,
+      "networkVerified": 1303
+    },
+    {
+      "code": "AE",
+      "candidates": 798,
+      "verified": 621,
+      "networkVerified": 622
+    },
+    {
+      "code": "UA",
+      "candidates": 370,
+      "verified": 172,
+      "networkVerified": 172
+    },
+    {
+      "code": "UG",
+      "candidates": 370,
+      "verified": 94,
+      "networkVerified": 94
+    },
+    {
+      "code": "TM",
+      "candidates": 4,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "TR",
+      "candidates": 821,
+      "verified": 367,
+      "networkVerified": 368
+    },
+    {
+      "code": "TN",
+      "candidates": 66,
+      "verified": 31,
+      "networkVerified": 31
+    },
+    {
+      "code": "TT",
+      "candidates": 29,
+      "verified": 17,
+      "networkVerified": 17
+    },
+    {
+      "code": "TO",
+      "candidates": 3,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "TG",
+      "candidates": 7,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "TL",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "TH",
+      "candidates": 129,
+      "verified": 39,
+      "networkVerified": 39
+    },
+    {
+      "code": "TZ",
+      "candidates": 19,
+      "verified": 10,
+      "networkVerified": 10
+    },
+    {
+      "code": "TJ",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "TW",
+      "candidates": 213,
+      "verified": 36,
+      "networkVerified": 36
+    },
+    {
+      "code": "SY",
+      "candidates": 32,
+      "verified": 18,
+      "networkVerified": 18
+    },
+    {
+      "code": "CH",
+      "candidates": 671,
+      "verified": 383,
+      "networkVerified": 384
+    },
+    {
+      "code": "SE",
+      "candidates": 307,
+      "verified": 150,
+      "networkVerified": 150
+    },
+    {
+      "code": "SZ",
+      "candidates": 1,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "SR",
+      "candidates": 14,
+      "verified": 5,
+      "networkVerified": 5
+    },
+    {
+      "code": "SS",
+      "candidates": 2,
+      "verified": 2,
+      "networkVerified": 2
+    },
+    {
+      "code": "SD",
+      "candidates": 3,
+      "verified": 2,
+      "networkVerified": 3
+    },
+    {
+      "code": "LK",
+      "candidates": 87,
+      "verified": 39,
+      "networkVerified": 39
+    },
+    {
+      "code": "ES",
+      "candidates": 1420,
+      "verified": 834,
+      "networkVerified": 835
+    },
+    {
+      "code": "KR",
+      "candidates": 110,
+      "verified": 9,
+      "networkVerified": 9
+    },
+    {
+      "code": "ZA",
+      "candidates": 238,
+      "verified": 137,
+      "networkVerified": 137
+    },
+    {
+      "code": "SO",
+      "candidates": 2,
+      "verified": 2,
+      "networkVerified": 2
+    },
+    {
+      "code": "SB",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "SK",
+      "candidates": 177,
+      "verified": 71,
+      "networkVerified": 71
+    },
+    {
+      "code": "SI",
+      "candidates": 145,
+      "verified": 53,
+      "networkVerified": 53
+    },
+    {
+      "code": "SG",
+      "candidates": 66,
+      "verified": 31,
+      "networkVerified": 31
+    },
+    {
+      "code": "SL",
+      "candidates": 3,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "SC",
+      "candidates": 4,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "RS",
+      "candidates": 426,
+      "verified": 198,
+      "networkVerified": 198
+    },
+    {
+      "code": "SN",
+      "candidates": 34,
+      "verified": 27,
+      "networkVerified": 27
+    },
+    {
+      "code": "SA",
+      "candidates": 126,
+      "verified": 35,
+      "networkVerified": 35
+    },
+    {
+      "code": "ST",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "SM",
+      "candidates": 6,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "WS",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "VC",
+      "candidates": 13,
+      "verified": 11,
+      "networkVerified": 11
+    },
+    {
+      "code": "LC",
+      "candidates": 22,
+      "verified": 8,
+      "networkVerified": 8
+    },
+    {
+      "code": "KN",
+      "candidates": 4,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "RW",
+      "candidates": 13,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "RU",
+      "candidates": 3204,
+      "verified": 1134,
+      "networkVerified": 1140
+    },
+    {
+      "code": "RO",
+      "candidates": 1097,
+      "verified": 586,
+      "networkVerified": 586
+    },
+    {
+      "code": "QA",
+      "candidates": 20,
+      "verified": 5,
+      "networkVerified": 5
+    },
+    {
+      "code": "PT",
+      "candidates": 364,
+      "verified": 172,
+      "networkVerified": 175
+    },
+    {
+      "code": "PL",
+      "candidates": 1186,
+      "verified": 496,
+      "networkVerified": 496
+    },
+    {
+      "code": "PH",
+      "candidates": 1053,
+      "verified": 307,
+      "networkVerified": 307
+    },
+    {
+      "code": "PE",
+      "candidates": 279,
+      "verified": 190,
+      "networkVerified": 190
+    },
+    {
+      "code": "PY",
+      "candidates": 68,
+      "verified": 22,
+      "networkVerified": 22
+    },
+    {
+      "code": "PG",
+      "candidates": 5,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "PA",
+      "candidates": 32,
+      "verified": 23,
+      "networkVerified": 23
+    },
+    {
+      "code": "PW",
+      "candidates": 3,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "PK",
+      "candidates": 71,
+      "verified": 40,
+      "networkVerified": 40
+    },
+    {
+      "code": "OM",
+      "candidates": 9,
+      "verified": 2,
+      "networkVerified": 2
+    },
+    {
+      "code": "NO",
+      "candidates": 137,
+      "verified": 102,
+      "networkVerified": 102
+    },
+    {
+      "code": "KP",
+      "candidates": 15,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "NG",
+      "candidates": 94,
+      "verified": 55,
+      "networkVerified": 55
+    },
+    {
+      "code": "NE",
+      "candidates": 3,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "NI",
+      "candidates": 30,
+      "verified": 18,
+      "networkVerified": 18
+    },
+    {
+      "code": "NZ",
+      "candidates": 245,
+      "verified": 118,
+      "networkVerified": 118
+    },
+    {
+      "code": "NU",
+      "candidates": 1,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "CK",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "NL",
+      "candidates": 1510,
+      "verified": 799,
+      "networkVerified": 802
+    },
+    {
+      "code": "AW",
+      "candidates": 9,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "CW",
+      "candidates": 23,
+      "verified": 17,
+      "networkVerified": 17
+    },
+    {
+      "code": "NP",
+      "candidates": 30,
+      "verified": 19,
+      "networkVerified": 19
+    },
+    {
+      "code": "NR",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "NA",
+      "candidates": 16,
+      "verified": 12,
+      "networkVerified": 12
+    },
+    {
+      "code": "MZ",
+      "candidates": 7,
+      "verified": 5,
+      "networkVerified": 5
+    },
+    {
+      "code": "MA",
+      "candidates": 71,
+      "verified": 43,
+      "networkVerified": 43
+    },
+    {
+      "code": "EH",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "ME",
+      "candidates": 53,
+      "verified": 35,
+      "networkVerified": 35
+    },
+    {
+      "code": "MN",
+      "candidates": 8,
+      "verified": 5,
+      "networkVerified": 5
+    },
+    {
+      "code": "MD",
+      "candidates": 85,
+      "verified": 60,
+      "networkVerified": 60
+    },
+    {
+      "code": "MC",
+      "candidates": 10,
+      "verified": 5,
+      "networkVerified": 5
+    },
+    {
+      "code": "MX",
+      "candidates": 2892,
+      "verified": 1217,
+      "networkVerified": 1218
+    },
+    {
+      "code": "MU",
+      "candidates": 16,
+      "verified": 9,
+      "networkVerified": 9
+    },
+    {
+      "code": "MR",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "MT",
+      "candidates": 11,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "ML",
+      "candidates": 14,
+      "verified": 12,
+      "networkVerified": 12
+    },
+    {
+      "code": "MV",
+      "candidates": 7,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "MY",
+      "candidates": 89,
+      "verified": 43,
+      "networkVerified": 43
+    },
+    {
+      "code": "MW",
+      "candidates": 9,
+      "verified": 7,
+      "networkVerified": 7
+    },
+    {
+      "code": "MG",
+      "candidates": 16,
+      "verified": 8,
+      "networkVerified": 8
+    },
+    {
+      "code": "MK",
+      "candidates": 63,
+      "verified": 27,
+      "networkVerified": 27
+    },
+    {
+      "code": "LU",
+      "candidates": 34,
+      "verified": 20,
+      "networkVerified": 20
+    },
+    {
+      "code": "LT",
+      "candidates": 113,
+      "verified": 47,
+      "networkVerified": 47
+    },
+    {
+      "code": "LI",
+      "candidates": 3,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "LY",
+      "candidates": 8,
+      "verified": 4,
+      "networkVerified": 4
+    },
+    {
+      "code": "LR",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "LS",
+      "candidates": 1,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "LB",
+      "candidates": 72,
+      "verified": 33,
+      "networkVerified": 33
+    },
+    {
+      "code": "LV",
+      "candidates": 131,
+      "verified": 50,
+      "networkVerified": 50
+    },
+    {
+      "code": "LA",
+      "candidates": 3,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "KG",
+      "candidates": 6,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "KW",
+      "candidates": 12,
+      "verified": 8,
+      "networkVerified": 8
+    },
+    {
+      "code": "XK",
+      "candidates": 18,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "KI",
+      "candidates": 1,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "KE",
+      "candidates": 79,
+      "verified": 33,
+      "networkVerified": 33
+    },
+    {
+      "code": "KZ",
+      "candidates": 44,
+      "verified": 17,
+      "networkVerified": 17
+    },
+    {
+      "code": "JO",
+      "candidates": 25,
+      "verified": 8,
+      "networkVerified": 8
+    },
+    {
+      "code": "JP",
+      "candidates": 213,
+      "verified": 69,
+      "networkVerified": 69
+    },
+    {
+      "code": "JM",
+      "candidates": 51,
+      "verified": 33,
+      "networkVerified": 33
+    },
+    {
+      "code": "IT",
+      "candidates": 1820,
+      "verified": 855,
+      "networkVerified": 857
+    },
+    {
+      "code": "IL",
+      "candidates": 175,
+      "verified": 85,
+      "networkVerified": 85
+    },
+    {
+      "code": "PS",
+      "candidates": 12,
+      "verified": 5,
+      "networkVerified": 5
+    },
+    {
+      "code": "IE",
+      "candidates": 284,
+      "verified": 119,
+      "networkVerified": 119
+    },
+    {
+      "code": "IQ",
+      "candidates": 26,
+      "verified": 14,
+      "networkVerified": 14
+    },
+    {
+      "code": "IR",
+      "candidates": 32,
+      "verified": 17,
+      "networkVerified": 17
+    },
+    {
+      "code": "ID",
+      "candidates": 698,
+      "verified": 365,
+      "networkVerified": 365
+    },
+    {
+      "code": "IN",
+      "candidates": 1215,
+      "verified": 537,
+      "networkVerified": 539
+    },
+    {
+      "code": "IS",
+      "candidates": 28,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "HU",
+      "candidates": 385,
+      "verified": 188,
+      "networkVerified": 188
+    },
+    {
+      "code": "HN",
+      "candidates": 55,
+      "verified": 31,
+      "networkVerified": 32
+    },
+    {
+      "code": "HT",
+      "candidates": 35,
+      "verified": 22,
+      "networkVerified": 23
+    },
+    {
+      "code": "GY",
+      "candidates": 11,
+      "verified": 7,
+      "networkVerified": 7
+    },
+    {
+      "code": "GW",
+      "candidates": 1,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "GN",
+      "candidates": 5,
+      "verified": 4,
+      "networkVerified": 4
+    },
+    {
+      "code": "GT",
+      "candidates": 76,
+      "verified": 58,
+      "networkVerified": 58
+    },
+    {
+      "code": "GD",
+      "candidates": 7,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "GR",
+      "candidates": 2265,
+      "verified": 1227,
+      "networkVerified": 1228
+    },
+    {
+      "code": "GH",
+      "candidates": 110,
+      "verified": 75,
+      "networkVerified": 76
+    },
+    {
+      "code": "DE",
+      "candidates": 6270,
+      "verified": 4341,
+      "networkVerified": 4347
+    },
+    {
+      "code": "GE",
+      "candidates": 36,
+      "verified": 12,
+      "networkVerified": 12
+    },
+    {
+      "code": "GM",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "GA",
+      "candidates": 1,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "FR",
+      "candidates": 2936,
+      "verified": 1561,
+      "networkVerified": 1563
+    },
+    {
+      "code": "PM",
+      "candidates": 2,
+      "verified": 2,
+      "networkVerified": 2
+    },
+    {
+      "code": "WF",
+      "candidates": 1,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "MF",
+      "candidates": 1,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "BL",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "PF",
+      "candidates": 13,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "NC",
+      "candidates": 8,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "TF",
+      "candidates": 1,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "AX",
+      "candidates": 1,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "FI",
+      "candidates": 184,
+      "verified": 87,
+      "networkVerified": 87
+    },
+    {
+      "code": "FJ",
+      "candidates": 11,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "ET",
+      "candidates": 35,
+      "verified": 22,
+      "networkVerified": 22
+    },
+    {
+      "code": "EE",
+      "candidates": 123,
+      "verified": 86,
+      "networkVerified": 86
+    },
+    {
+      "code": "ER",
+      "candidates": 4,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "GQ",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "SV",
+      "candidates": 64,
+      "verified": 40,
+      "networkVerified": 40
+    },
+    {
+      "code": "EG",
+      "candidates": 47,
+      "verified": 29,
+      "networkVerified": 30
+    },
+    {
+      "code": "EC",
+      "candidates": 173,
+      "verified": 122,
+      "networkVerified": 122
+    },
+    {
+      "code": "DO",
+      "candidates": 122,
+      "verified": 81,
+      "networkVerified": 82
+    },
+    {
+      "code": "DM",
+      "candidates": 7,
+      "verified": 5,
+      "networkVerified": 5
+    },
+    {
+      "code": "DJ",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "GL",
+      "candidates": 6,
+      "verified": 5,
+      "networkVerified": 5
+    },
+    {
+      "code": "FO",
+      "candidates": 13,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "DK",
+      "candidates": 254,
+      "verified": 124,
+      "networkVerified": 125
+    },
+    {
+      "code": "CZ",
+      "candidates": 316,
+      "verified": 183,
+      "networkVerified": 183
+    },
+    {
+      "code": "CY",
+      "candidates": 56,
+      "verified": 26,
+      "networkVerified": 27
+    },
+    {
+      "code": "CU",
+      "candidates": 25,
+      "verified": 12,
+      "networkVerified": 13
+    },
+    {
+      "code": "HR",
+      "candidates": 314,
+      "verified": 107,
+      "networkVerified": 107
+    },
+    {
+      "code": "CI",
+      "candidates": 11,
+      "verified": 11,
+      "networkVerified": 11
+    },
+    {
+      "code": "CR",
+      "candidates": 61,
+      "verified": 38,
+      "networkVerified": 38
+    },
+    {
+      "code": "CD",
+      "candidates": 18,
+      "verified": 11,
+      "networkVerified": 11
+    },
+    {
+      "code": "CG",
+      "candidates": 1,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "KM",
+      "candidates": 6,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "CO",
+      "candidates": 732,
+      "verified": 494,
+      "networkVerified": 495
+    },
+    {
+      "code": "CN",
+      "candidates": 2287,
+      "verified": 1080,
+      "networkVerified": 1083
+    },
+    {
+      "code": "MO",
+      "candidates": 31,
+      "verified": 4,
+      "networkVerified": 4
+    },
+    {
+      "code": "HK",
+      "candidates": 91,
+      "verified": 20,
+      "networkVerified": 20
+    },
+    {
+      "code": "CL",
+      "candidates": 628,
+      "verified": 392,
+      "networkVerified": 393
+    },
+    {
+      "code": "TD",
+      "candidates": 1,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "CF",
+      "candidates": 3,
+      "verified": 2,
+      "networkVerified": 2
+    },
+    {
+      "code": "CV",
+      "candidates": 20,
+      "verified": 15,
+      "networkVerified": 15
+    },
+    {
+      "code": "CA",
+      "candidates": 1564,
+      "verified": 750,
+      "networkVerified": 750
+    },
+    {
+      "code": "CM",
+      "candidates": 5,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "KH",
+      "candidates": 11,
+      "verified": 5,
+      "networkVerified": 5
+    },
+    {
+      "code": "MM",
+      "candidates": 5,
+      "verified": 4,
+      "networkVerified": 4
+    },
+    {
+      "code": "BI",
+      "candidates": 2,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "BF",
+      "candidates": 8,
+      "verified": 4,
+      "networkVerified": 4
+    },
+    {
+      "code": "BG",
+      "candidates": 337,
+      "verified": 111,
+      "networkVerified": 111
+    },
+    {
+      "code": "BN",
+      "candidates": 4,
+      "verified": 4,
+      "networkVerified": 4
+    },
+    {
+      "code": "BR",
+      "candidates": 1695,
+      "verified": 1008,
+      "networkVerified": 1008
+    },
+    {
+      "code": "BW",
+      "candidates": 5,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "BA",
+      "candidates": 163,
+      "verified": 50,
+      "networkVerified": 51
+    },
+    {
+      "code": "BO",
+      "candidates": 82,
+      "verified": 55,
+      "networkVerified": 55
+    },
+    {
+      "code": "BT",
+      "candidates": 1,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "BJ",
+      "candidates": 4,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "BZ",
+      "candidates": 3,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "BE",
+      "candidates": 576,
+      "verified": 295,
+      "networkVerified": 295
+    },
+    {
+      "code": "BY",
+      "candidates": 108,
+      "verified": 39,
+      "networkVerified": 39
+    },
+    {
+      "code": "BB",
+      "candidates": 20,
+      "verified": 7,
+      "networkVerified": 7
+    },
+    {
+      "code": "BD",
+      "candidates": 25,
+      "verified": 14,
+      "networkVerified": 14
+    },
+    {
+      "code": "BH",
+      "candidates": 13,
+      "verified": 4,
+      "networkVerified": 4
+    },
+    {
+      "code": "BS",
+      "candidates": 10,
+      "verified": 4,
+      "networkVerified": 4
+    },
+    {
+      "code": "AZ",
+      "candidates": 43,
+      "verified": 19,
+      "networkVerified": 19
+    },
+    {
+      "code": "AT",
+      "candidates": 371,
+      "verified": 228,
+      "networkVerified": 229
+    },
+    {
+      "code": "AU",
+      "candidates": 2099,
+      "verified": 753,
+      "networkVerified": 753
+    },
+    {
+      "code": "HM",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "NF",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "AM",
+      "candidates": 18,
+      "verified": 8,
+      "networkVerified": 8
+    },
+    {
+      "code": "AR",
+      "candidates": 1232,
+      "verified": 843,
+      "networkVerified": 843
+    },
+    {
+      "code": "AG",
+      "candidates": 5,
+      "verified": 2,
+      "networkVerified": 2
+    },
+    {
+      "code": "AO",
+      "candidates": 16,
+      "verified": 8,
+      "networkVerified": 8
+    },
+    {
+      "code": "AD",
+      "candidates": 9,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "DZ",
+      "candidates": 63,
+      "verified": 48,
+      "networkVerified": 48
+    },
+    {
+      "code": "AL",
+      "candidates": 45,
+      "verified": 23,
+      "networkVerified": 23
+    },
+    {
+      "code": "AF",
+      "candidates": 112,
+      "verified": 45,
+      "networkVerified": 45
+    },
+    {
+      "code": "AQ",
+      "candidates": 10,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "SX",
+      "candidates": 1,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "TV",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "BQ",
+      "candidates": 16,
+      "verified": 8,
+      "networkVerified": 8
+    },
+    {
+      "code": "BV",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "CC",
+      "candidates": 1,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "CX",
+      "candidates": 4,
+      "verified": 1,
+      "networkVerified": 1
+    },
+    {
+      "code": "GI",
+      "candidates": 6,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "GP",
+      "candidates": 12,
+      "verified": 10,
+      "networkVerified": 10
+    },
+    {
+      "code": "GF",
+      "candidates": 8,
+      "verified": 3,
+      "networkVerified": 3
+    },
+    {
+      "code": "MQ",
+      "candidates": 9,
+      "verified": 6,
+      "networkVerified": 6
+    },
+    {
+      "code": "YT",
+      "candidates": 3,
+      "verified": 2,
+      "networkVerified": 2
+    },
+    {
+      "code": "RE",
+      "candidates": 46,
+      "verified": 30,
+      "networkVerified": 30
+    },
+    {
+      "code": "SJ",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "TK",
+      "candidates": 0,
+      "verified": 0,
+      "networkVerified": 0
+    },
+    {
+      "code": "UM",
+      "candidates": 37,
+      "verified": 17,
+      "networkVerified": 17
+    }
+  ],
+  "preLocationStationCount": 32660,
+  "locationExclusions": 55
+}

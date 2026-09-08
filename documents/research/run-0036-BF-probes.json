@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://stream.zeno.fm/v3ddfda0cf9uv",
+    "checkedAt": "2026-09-08T09:31:00.147365+00:00",
+    "catalogMatches": [
+      {
+        "id": "f652faa8-7976-4a20-9ea6-05194936b98b",
+        "name": "Radio Balafon 102.7 Bobo-Dioulasso",
+        "country": "BF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/0945crn4bf9uv",
+    "checkedAt": "2026-09-08T09:31:00.147417+00:00",
+    "catalogMatches": [
+      {
+        "id": "a24bae67-6b31-42f0-b2c8-be36149e3b5f",
+        "name": "Horizon FM 104.4 Ouagadougou",
+        "country": "BF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://sonic.mediacp.eu/8040/;",
+    "checkedAt": "2026-09-08T09:31:00.147425+00:00",
+    "catalogMatches": [
+      {
+        "id": "9494e8b3-79b6-4a13-a51f-e36d75b120b6",
+        "name": "Radio Bizi Inter",
+        "country": "BF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/s2ypmeg0cf9uv",
+    "checkedAt": "2026-09-08T09:31:00.147485+00:00",
+    "catalogMatches": [
+      {
+        "id": "386226a9-a60b-4daf-a4f1-b13f3e5a1152",
+        "name": "Horizon FM Koudougou",
+        "country": "BF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

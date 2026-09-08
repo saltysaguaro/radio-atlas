@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://radio.ub.bw",
+    "checkedAt": "2026-09-08T02:24:40.591819+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://talk.co.bw",
+    "checkedAt": "2026-09-08T02:24:40.591913+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://dumafm.co.bw",
+    "checkedAt": "2026-09-08T02:24:40.591989+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.massmedia.co.bw/",
+    "checkedAt": "2026-09-08T02:24:40.592035+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]
