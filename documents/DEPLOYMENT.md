@@ -6,7 +6,7 @@ The repository includes `.github/workflows/pages.yml`, which installs locked dep
 
 The repository is [saltysaguaro/radio-atlas](https://github.com/saltysaguaro/radio-atlas), and the local project uses `main`. Its `origin` remote is already configured. In GitHub Desktop:
 
-1. Choose **File → Add Local Repository** and select `/Users/chouette/Documents/radio-atlas`.
+1. Choose **File → Add Local Repository** and select your local `radio-atlas` project folder.
 2. Review and commit any intended changes on `main`.
 3. Click **Publish branch** or **Push origin** to upload the commits.
 

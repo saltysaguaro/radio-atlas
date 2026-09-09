@@ -1,7 +1,7 @@
 # Country-by-country radio discovery ledger
 
 Created: 2026-09-06. Schedule: hourly, one country or territory per run.
-Workspace: `/Users/chouette/Documents/radio-atlas`.
+Workspace: the local `radio-atlas` project folder. File paths below are relative to the repository root.
 
 ## Coverage and sources
 
