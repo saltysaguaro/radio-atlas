@@ -13,10 +13,10 @@ Search all constituent areas within grouped entries: Bonaire, Sint Eustatius and
 
 ## Persistent progress
 
-- Completed research runs: 52
+- Completed research runs: 53
 - Current sweep: 1
-- Next country: Cook Islands (`CK`)
-- Last run: Run 0052 — Congo (`CG`), partial, ended 2026-09-09T01:40:56Z; no new ready candidates.
+- Next country: Costa Rica (`CR`)
+- Last run: Run 0053 — Cook Islands (`CK`), partial, ended 2026-09-09T02:40:26Z; no new ready candidates.
 - Automation: `hourly-country-radio-discovery` — active hourly schedule attached to the research task.
 
 The checklist and appended run logs are the source of truth, not conversation memory. Baseline station counts are a setup snapshot, not new discoveries or current availability claims. Dashes mean not yet researched, not zero.
@@ -92,7 +92,7 @@ Statuses: `pending`, `in-progress`, `searched`, `partial`, `blocked`. Counts des
 | 50 | CO | Colombia | 494 | 1 | partial | 2026-09-08T23:40:26Z | 4 | 0 | [Run 0050](#run-0050-co) |
 | 51 | KM | Comoros | 0 | 1 | partial | 2026-09-09T00:40:56Z | 4 | 0 | [Run 0051](#run-0051-km) |
 | 52 | CG | Congo | 1 | 1 | partial | 2026-09-09T01:40:56Z | 4 | 0 | [Run 0052](#run-0052-cg) |
-| 53 | CK | Cook Islands | 0 | 0 | pending | — | — | — | — |
+| 53 | CK | Cook Islands | 0 | 1 | partial | 2026-09-09T02:40:26Z | 4 | 0 | [Run 0053](#run-0053-ck) |
 | 54 | CR | Costa Rica | 38 | 0 | pending | — | — | — | — |
 | 55 | HR | Croatia | 107 | 0 | pending | — | — | — | — |
 | 56 | CU | Cuba | 12 | 0 | pending | — | — | — | — |
@@ -780,6 +780,22 @@ Remaining leads: direct player URLs for Dounia Web and Radio Kazi, ORTN/Radio Ng
 | Top Congo FM lead | Search result is Democratic Republic of the Congo, not Republic of the Congo | French news | [Top Congo FM](https://www.topcongo.live/) | `https://www.topcongo.live/` | unresolved address | excluded from CG; belongs to CD |
 
 Remaining leads: Radio Congo, Radio Brazzaville, Canal FM, Radio Liberté, Radio Katiopa direct audio, Radio Maria stream and local stations in Pointe-Noire and Dolisie. Keep Democratic Republic of the Congo stations in `CD`; the run stopped at the four-minute ceiling and did not claim an exhaustive Republic of the Congo search. Next scheduled country: Cook Islands (`CK`).
+
+<a id="run-0053-ck"></a>
+### Run 0053 — CK — Cook Islands — 2026-09-09T02:36:00Z
+
+- Start/end: 2026-09-09T02:36:00Z–2026-09-09T02:40:26Z. Sweep 1. Final status: **partial**.
+- Search scope: six queries in English and Cook Islands Māori context. Primary evidence included [Life FM Cook Islands](https://lifefmcookislands.org/life-fm-cook-islands-app/), [PMN Cook Islands](https://pmn.co.nz/radio-stations/531-pi/shows/pmn-cook-islands), and [RNZ's rebroadcaster list](https://www.rnz.co.nz/international/rebroadcasters), which identifies Cook Islands Broadcasting AM 630, Matariki FM 89.0 and Araura 88 FM.
+- Evaluated 4 station pages; no direct audio endpoint was verifiable in the bounded probe. No new ready candidates were added. Raw results: [inputs](research/run-0053-CK-inputs.json) and [probes](research/run-0053-CK-probes.json).
+
+| Station / service | Location / country evidence | Language / genre | Official site / source | Stream URL | Probe result | Disposition / reason |
+| --- | --- | --- | --- | --- | --- | --- |
+| Life FM Cook Islands | Local Cook Islands station; app offers live stream | Christian/music; English and Cook Islands Māori | [Life FM Cook Islands](https://lifefmcookislands.org/life-fm-cook-islands-app/) | `https://lifefmcookislands.org/life-fm-cook-islands-app/` | unresolved address | needs direct stream extraction |
+| PMN Cook Islands | Cook Islands Māori community programming on Pacific Media Network | Cook Islands Māori/community news | [PMN Cook Islands](https://pmn.co.nz/radio-stations/531-pi/shows/pmn-cook-islands) | `https://pmn.co.nz/radio-stations/531-pi/shows/pmn-cook-islands` | unresolved address | rebroadcast/service lead; needs stream URL |
+| Cook Islands Broadcasting | Rarotonga AM 630; RNZ rebroadcaster | English/Cook Islands Māori | [RNZ rebroadcasters](https://www.rnz.co.nz/international/rebroadcasters) | `https://www.rnz.co.nz/international/rebroadcasters` | webpage, not audio endpoint | needs direct stream extraction |
+| Matariki FM / Araura 88 FM | Rarotonga and Aitutaki services | local/community | [RNZ rebroadcasters](https://www.rnz.co.nz/international/rebroadcasters) | `https://www.rnz.co.nz/international/rebroadcasters` | webpage, not audio endpoint | needs direct stream extraction |
+
+Remaining leads: current Life FM player URL, Cook Islands Broadcasting Corporation stream, Matariki FM 89.0, Araura 88 FM, Radio Cook Islands 630 AM and local commercial/community stations listed by island. The run stopped at the four-minute ceiling; it did not claim an exhaustive Cook Islands search. Next scheduled country: Costa Rica (`CR`).
 
 <a id="run-0029-bw"></a>
 ### Run 0029 — BW — Botswana — 2026-09-08T02:20:00Z

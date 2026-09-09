@@ -40,6 +40,7 @@ export default function Home() {
   const markers=useRef<L.LayerGroup|null>(null);
   const player=useRef<RadioPlayer|null>(null);
   const selectRef=useRef<(code:string)=>void>(()=>{});
+  const mapSelectRef=useRef<(code:string)=>void>(()=>{});
   const playRef=useRef<(s:Station)=>void>(()=>{});
   const catalogRef=useRef<Catalog|null>(null);
   const chosen=catalog?.countries.find(c=>c.code===country);
@@ -91,7 +92,12 @@ export default function Home() {
       else{setQuery('');changePage(Math.max(0,Math.floor(stations.findIndex(entry=>entry.id===s.id)/pageSize)));}
     }
   }
-  useLayoutEffect(()=>{selectRef.current=selectCountry;playRef.current=playStation;});
+  useLayoutEffect(()=>{
+    selectRef.current=selectCountry;playRef.current=playStation;
+    mapSelectRef.current=(code)=>{
+      if(code||country)selectCountry(code===country?'':code);
+    };
+  });
   function randomStation(){
     const pool=catalog?.stations.filter(s=>s.id!==playing?.id) ?? [];
     if(pool.length)playStation(pool[Math.floor(Math.random()*pool.length)]);
@@ -101,6 +107,7 @@ export default function Home() {
     if(!catalog || !mapNode.current)return;
     const map=L.map(mapNode.current,{center:[22,12],zoom:2,minZoom:2,maxZoom:10,zoomControl:false,attributionControl:true,worldCopyJump:false,maxBounds:[[-85,-210],[85,210]],maxBoundsViscosity:0.8});
     mapRef.current=map;
+    map.on('click',()=>mapSelectRef.current(''));
     const mapShapes=shapes.current;
     L.control.zoom({position:'bottomright'}).addTo(map);
     map.attributionControl.setPrefix(false);
@@ -114,9 +121,10 @@ export default function Home() {
       if(disposed)return;
       for(const f of data.features){
         const code=f.properties.code;
-        const layer=L.geoJSON(f,{style:{fillColor:'#203947',fillOpacity:0.94,color:'#4d6772',weight:0.7},onEachFeature:(_,l)=>{
+        // Country clicks must not also trigger the map's background reset.
+        const layer=L.geoJSON(f,{bubblingMouseEvents:false,style:{fillColor:'#203947',fillOpacity:0.94,color:'#4d6772',weight:0.7},onEachFeature:(_,l)=>{
           l.bindTooltip(safeText(f.properties.name),{sticky:true,className:'atlas-tooltip'});
-          l.on('click',()=>selectRef.current(code));
+          l.on('click',()=>mapSelectRef.current(code));
         }}).addTo(map);
         mapShapes.set(code,layer);
       }

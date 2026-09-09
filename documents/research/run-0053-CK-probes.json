@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://lifefmcookislands.org/life-fm-cook-islands-app/",
+    "checkedAt": "2026-09-09T02:40:49.474242+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://pmn.co.nz/radio-stations/531-pi/shows/pmn-cook-islands",
+    "checkedAt": "2026-09-09T02:40:49.474497+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.rnz.co.nz/international/rebroadcasters",
+    "checkedAt": "2026-09-09T02:40:49.474664+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://onlineradiobox.com/ck/?lang=en",
+    "checkedAt": "2026-09-09T02:40:49.474958+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]
