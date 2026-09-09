@@ -4,21 +4,19 @@
 
 The repository includes `.github/workflows/pages.yml`, which installs locked dependencies, lints the application, runs offline player/catalog tests, builds the site and validates the release. Only a successful `main` build can deploy; pull requests cannot publish or obtain Pages write permissions.
 
-The prepared local repository uses `main`. To publish with GitHub CLI, authenticate and create the repository from the project root:
+The repository is [saltysaguaro/radio-atlas](https://github.com/saltysaguaro/radio-atlas), and the local project uses `main`. Its `origin` remote is already configured. In GitHub Desktop:
+
+1. Choose **File → Add Local Repository** and select `/Users/chouette/Documents/radio-atlas`.
+2. Review and commit any intended changes on `main`.
+3. Click **Publish branch** or **Push origin** to upload the commits.
+
+Use this existing project folder; cloning the empty GitHub repository into it creates a separate nested repository without the website files. From the project root, the terminal equivalent of the push is:
 
 ```sh
-gh auth login --hostname github.com
-gh repo create radio-atlas --public --source=. --remote=origin --push
-```
-
-This command creates a **public** repository and publishes its committed source and research. Change the repository name if desired. For an organization use `ORGANIZATION/radio-atlas`. A private repository requires a GitHub plan that supports Pages for private repositories; repository visibility and website access are separate settings.
-
-Alternatively, create an empty repository in GitHub's website (without a README, license or `.gitignore`), then use its actual remote URL:
-
-```sh
-git remote add origin https://github.com/OWNER/REPOSITORY.git
 git push -u origin main
 ```
+
+For future work on another computer, clone `https://github.com/saltysaguaro/radio-atlas.git` and follow the README's local setup instructions.
 
 In GitHub:
 
@@ -26,7 +24,7 @@ In GitHub:
 2. Under **Build and deployment**, select **GitHub Actions** as the source.
 3. Open **Actions → Build and deploy Radio Atlas → Run workflow**, selecting `main`. The initial push can reach deployment before Pages is enabled; rerun after changing the setting.
 4. Wait for both **Test and build** and **Deploy to GitHub Pages** to succeed.
-5. Open the URL in the `github-pages` environment, normally `https://OWNER.github.io/REPOSITORY/`.
+5. Open the URL in the `github-pages` environment: [saltysaguaro.github.io/radio-atlas/](https://saltysaguaro.github.io/radio-atlas/).
 
 Later pushes to `main` validate and deploy automatically. If branch protection is enabled, require the **Test and build** check before merging. Protect the `github-pages` environment so only `main` can deploy. The workflow also checks the branch explicitly, including manual runs.
 
@@ -58,13 +56,7 @@ The CI checks validate assets over HTTP at a domain root and two repository path
 
 ## Updates and rollback
 
-Change source or reviewed data, run the README's validation commands, commit and push to `main`. Keep `website/package-lock.json` committed. Do not commit `website/dist/`, `upload/`, downloaded snapshots or ZIP packages. To roll back, revert the offending commit on `main` and push; the workflow rebuilds that source and data snapshot.
-
-## Other static hosts
-
-Build, run release validation, then run `python3 scripts/package_release.py`. Copy all files inside `upload/` to the document root or subdirectory, keeping `assets/` and `data/` beside `index.html`. Enable HTTPS. The ZIP contains the same files. No rewrite rules are needed.
-
-Serve `.js` as `text/javascript`, `.css` as `text/css`, `.json` as `application/json`, `.geojson` as `application/geo+json`, and `.svg` as `image/svg+xml`. Standard static hosts normally handle these. If a host adds a Content Security Policy, allow the site's scripts/styles/data, Leaflet inline styles, and `media-src https:`.
+Change source or reviewed data, run the README's validation commands, commit and push to `main`. Keep `website/package-lock.json` committed. Do not commit `website/dist/`, dependencies, downloaded snapshots or caches. GitHub Actions creates the deployment artifact directly from the build; the former upload folder, release ZIPs and packaging script are retired. To roll back, revert the offending commit on `main` and push; the workflow rebuilds that source and data snapshot.
 
 Audio connects directly to the selected broadcaster, which sees the listener's IP address. There are no remote scripts, fonts or map tile requests. Station volume is stored locally in the browser.
 

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio",
+    "checkedAt": "2026-09-08T19:39:15.183343+00:00",
+    "catalogMatches": [
+      {
+        "id": "b2aa99d2-e1f7-4c4a-bd77-74f256463b86",
+        "name": "BioBio Chile",
+        "country": "CL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://26593.live.streamtheworld.com/PUDAHUEL_SC",
+    "checkedAt": "2026-09-08T19:39:15.183399+00:00",
+    "catalogMatches": [
+      {
+        "id": "960c10e1-0601-11e8-ae97-52543be04c81",
+        "name": "Pudahuel",
+        "country": "CL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio",
+    "checkedAt": "2026-09-08T19:39:15.183408+00:00",
+    "catalogMatches": [
+      {
+        "id": "c73f6fd5-1f1b-47db-a20d-eda9af36e4b9",
+        "name": "100.9 Play FM",
+        "country": "CL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio",
+    "checkedAt": "2026-09-08T19:39:15.183482+00:00",
+    "catalogMatches": [
+      {
+        "id": "9f95bdc1-9614-4a60-b515-c5253451d4b1",
+        "name": "Cooperativa",
+        "country": "CL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

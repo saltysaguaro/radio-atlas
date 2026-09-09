@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://lhttp.qtfm.cn/live/15318317/64k.mp3",
+    "checkedAt": "2026-09-08T20:39:44.721839+00:00",
+    "catalogMatches": [
+      {
+        "id": "835070cd-bf45-4e48-88a4-e9f9a0d7dd9e",
+        "name": "CNR-1 中国之声",
+        "country": "CN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://lhttp.qingting.fm/live/270/64k.mp3",
+    "checkedAt": "2026-09-08T20:39:44.721887+00:00",
+    "catalogMatches": [
+      {
+        "id": "eea091f2-750b-11e9-af37-52543be04c81",
+        "name": "上海新闻广播",
+        "country": "CN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://lhttp.qtfm.cn/live/1259/64k.mp3",
+    "checkedAt": "2026-09-08T20:39:44.721894+00:00",
+    "catalogMatches": [
+      {
+        "id": "90cefd55-a82f-4ef8-96da-cc1723f7f544",
+        "name": "广东珠江经济台",
+        "country": "CN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://lhttp.qingting.fm/live/339/64k.mp3",
+    "checkedAt": "2026-09-08T20:39:44.721961+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

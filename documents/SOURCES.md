@@ -5,7 +5,7 @@
 - [Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/): public-domain 1:50m country boundaries, labels and map coordinates, bundled locally. Boundaries represent this cartographic dataset, not a political endorsement.
 - [Natural Earth source GeoJSON](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_admin_0_countries.geojson).
 - [mledoze/countries](https://github.com/mledoze/countries): country and territory list and geographic centers for entries too small for map polygons; ODbL. Country data and station data remain available in the bundled catalog JSON; corresponding map geometry is in `world.geojson`. Preserve this attribution when redistributing.
-- [Leaflet](https://leafletjs.com/): interactive map engine, BSD-2-Clause. React is MIT. Bundled dependency license texts accompany the upload.
+- [Leaflet](https://leafletjs.com/): interactive map engine, BSD-2-Clause. React is MIT. Bundled dependency license texts are included in the published site.
 
 ## Catalog inclusion
 

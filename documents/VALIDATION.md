@@ -2,9 +2,9 @@
 
 The production build includes a successful TypeScript check. The standalone player test suite passes seven behavioral checks: immediate unloading when switching, ignoring old stream events, reconnecting after pause, stopping failed audio, handling browser gesture rejection, volume/mute persistence during switching, and an 18-second connection deadline that repeated stalled events cannot postpone.
 
-The release validator checks station/URL uniqueness, uncapped country totals, all country counts, secure stream URLs, recorded audio samples, map country references, relative asset links, and completeness of the static build. It also serves and fetches the built page, scripts, styles, map, catalog and icon at both `/` and `/radio/` using a local HTTP server. The package is checked against the exact built files.
+The release validator checks station/URL uniqueness, uncapped country totals, all country counts, secure stream URLs, recorded audio samples, map country references, relative asset links, and completeness of the static build. It also serves and fetches the built page, scripts, styles, map, catalog, icon and license notices at `/`, `/radio-atlas/` and `/renamed-repository/` using a local HTTP server. GitHub Pages publishes the validated build directly.
 
-The package registry audit reported zero known vulnerabilities after compatible dependency updates on September 5, 2026. No server framework or server process is needed in the uploaded release.
+The package registry audit reported zero known vulnerabilities after compatible dependency updates on September 5, 2026. No server framework or server process is needed on GitHub Pages.
 
 ## Stream verification
 
@@ -20,6 +20,8 @@ The site has been built and packaged locally. It has not been uploaded or tested
 
 ## Expanded release result
 
+The dated results below are historical validation records. The upload packages and their packaging script were retired when the working folder was consolidated around GitHub Pages.
+
 The September 5 expansion checked 54,765 distinct endpoint URLs from 64,171 directory records and seven maintained broadcaster additions. The finalized release contains 32,605 streams across 212 countries and territories. All 11 catalog regression tests, seven player tests, the production build, and root/subfolder HTTP release checks passed. The upload folder and ZIP were compared byte-for-byte with the built files. See `catalog-change-report.json` for changes from the previous 2,868-stream release.
 
 
@@ -32,3 +34,9 @@ The release validator matched all 32,605 streams against committed endpoint evid
 The application lint fixes move map callback ref updates out of render, initialize saved volume without an effect state update, retain the exact map collection for cleanup, associate the country label with its control, and use native status elements. Vendored UI primitives/hooks are excluded from lint; TypeScript checks still include them. The production JavaScript bundle is approximately 527 kB before gzip (168 kB gzipped), so Vite emits its existing advisory chunk-size warning. This does not fail the build.
 
 GitHub workflow and Dependabot YAML were parsed locally; workflow triggers, build dependency and pinned action references were checked. CI validates pull requests and deploys only successful `main` builds. The workflow itself has not yet run on GitHub, and no live Pages URL or browser interaction test is claimed. GitHub CLI authentication for the configured account was verified with network access. The project is prepared locally; no GitHub repository was created or pushed and no Pages deployment was performed in this preparation step.
+
+## GitHub Pages folder cleanup — September 8, 2026
+
+Removed the retired upload folder, upload and GitHub ZIPs, release checksum, packaging script, empty nested clone, old local hosting configuration and generated caches/output. Kept the app, Pages workflow, locked dependencies, public data, catalog tools, verification evidence, previous catalog and ongoing research, including the ignored raw snapshot used by cached refreshes. Updated the README and deployment instructions for the existing GitHub repository and GitHub Desktop.
+
+After cleanup, application lint, seven player tests, 11 catalog tests, TypeScript checking and a fresh production build passed. The release validator checked all 32,605 streams and served the built assets successfully at `/`, `/radio-atlas/` and `/renamed-repository/`. The existing bundle-size advisory remains. Generated build output was removed again after verification; local builds and GitHub Actions recreate it. This cleanup did not push commits or deploy the site.

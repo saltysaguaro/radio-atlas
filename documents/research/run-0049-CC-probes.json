@@ -1,0 +1,49 @@
+[
+  {
+    "url": "https://cbonline.org.au/index.cfm?pageId=13%2C8%2C6%2C3523",
+    "checkedAt": "2026-09-08T22:40:47.219381+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radioforte.com/8006/stream",
+    "checkedAt": "2026-09-08T22:40:47.219483+00:00",
+    "catalogMatches": [
+      {
+        "id": "bd15888f-03e6-47d3-81f1-9be234e7ad88",
+        "name": "Navidad Grupera",
+        "country": "CX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": [
+      "documents/COUNTRY_RADIO_RESEARCH.md"
+    ]
+  },
+  {
+    "url": "https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/travel-information",
+    "checkedAt": "2026-09-08T22:40:47.219626+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radiostationworld.com/locations/cocos_keeling_islands/radio_stations/",
+    "checkedAt": "2026-09-08T22:40:47.219580+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

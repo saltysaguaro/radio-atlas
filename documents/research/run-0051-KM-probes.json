@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://douniaweb.net/pages",
+    "checkedAt": "2026-09-09T00:41:15.704874+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radiokazi.fr/",
+    "checkedAt": "2026-09-09T00:41:15.705005+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.radio-ngazidja.com/contact",
+    "checkedAt": "2026-09-09T00:41:15.705081+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.hayba-jumla.com/",
+    "checkedAt": "2026-09-09T00:41:15.705124+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

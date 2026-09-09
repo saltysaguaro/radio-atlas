@@ -14,8 +14,10 @@ __pycache__/
 *.pem
 *.log
 
-# Regenerable downloads and release packages; keep catalog and check evidence.
+# Regenerable research download; keep catalog and check evidence.
 /documents/source-snapshot.json
+
+# Retired packages: prevent old copies from being added back to the repository.
 /upload/
 /radio-atlas-upload.zip
 /radio-atlas-github.zip

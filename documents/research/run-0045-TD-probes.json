@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://strhls.streamakaci.tv/str_tchad_radio/str_tchad_radio/icecast.audio?fbclid=IwAR32Ir_eHaV-HSrh46OVT_VeTZt5KoNggoq8qzeSiAeZTJNBKKUtsSNUtcY",
+    "checkedAt": "2026-09-08T18:38:43.900480+00:00",
+    "catalogMatches": [
+      {
+        "id": "41bcc450-6cce-4c33-bf61-da9fd7dd5b7b",
+        "name": "Radio Tchad",
+        "country": "TD"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ndarason.com/en/about-us/",
+    "checkedAt": "2026-09-08T18:38:43.900536+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.onama.td/television-nationale/",
+    "checkedAt": "2026-09-08T18:38:43.900596+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://focusmedia-tchad.com/",
+    "checkedAt": "2026-09-08T18:38:43.900679+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

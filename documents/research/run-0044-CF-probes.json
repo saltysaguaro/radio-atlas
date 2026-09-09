@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://stream.radiondekeluka.org/ndekeluka",
+    "checkedAt": "2026-09-08T17:35:44.031493+00:00",
+    "catalogMatches": [
+      {
+        "id": "fc8196f6-4b51-4c00-891a-6ddde79b2a60",
+        "name": "Radio Ndeke Luka",
+        "country": "CF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://cast3.asurahosting.com/proxy/dreamradio/stream.mp3",
+    "checkedAt": "2026-09-08T17:35:44.031560+00:00",
+    "catalogMatches": [
+      {
+        "id": "85d63c4c-4b6e-4336-91af-f877209ccfd2",
+        "name": "Mambokadzi DreamRadio",
+        "country": "CF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://minusca.unmissions.org/fr/radio-guira-fm-0",
+    "checkedAt": "2026-09-08T17:35:44.031570+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.radiondekeluka.org/diffusion",
+    "checkedAt": "2026-09-08T17:35:44.031742+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

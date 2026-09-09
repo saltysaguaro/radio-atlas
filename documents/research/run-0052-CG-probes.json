@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.radiomaria.cg/",
+    "checkedAt": "2026-09-09T01:41:12.305492+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.drtv.cg/",
+    "checkedAt": "2026-09-09T01:41:12.305630+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radioly.app/radio/cg.radiokatiopa/",
+    "checkedAt": "2026-09-09T01:41:12.305704+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.topcongo.live/",
+    "checkedAt": "2026-09-09T01:41:12.305771+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

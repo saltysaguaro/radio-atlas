@@ -13,10 +13,10 @@ Search all constituent areas within grouped entries: Bonaire, Sint Eustatius and
 
 ## Persistent progress
 
-- Completed research runs: 43
+- Completed research runs: 52
 - Current sweep: 1
-- Next country: Central African Republic (`CF`)
-- Last run: Run 0043 — Cayman Islands (`KY`), partial, ended 2026-09-08T16:35:24Z; no new ready candidates.
+- Next country: Cook Islands (`CK`)
+- Last run: Run 0052 — Congo (`CG`), partial, ended 2026-09-09T01:40:56Z; no new ready candidates.
 - Automation: `hourly-country-radio-discovery` — active hourly schedule attached to the research task.
 
 The checklist and appended run logs are the source of truth, not conversation memory. Baseline station counts are a setup snapshot, not new discoveries or current availability claims. Dashes mean not yet researched, not zero.
@@ -83,15 +83,15 @@ Statuses: `pending`, `in-progress`, `searched`, `partial`, `blocked`. Counts des
 | 41 | CV | Cape Verde | 15 | 1 | partial | 2026-09-08T14:34:54Z | 4 | 0 | [Run 0041](#run-0041-cv) |
 | 42 | BQ | Caribbean Netherlands | 8 | 1 | partial | 2026-09-08T15:35:54Z | 4 | 0 | [Run 0042](#run-0042-bq) |
 | 43 | KY | Cayman Islands | 6 | 1 | partial | 2026-09-08T16:35:24Z | 4 | 0 | [Run 0043](#run-0043-ky) |
-| 44 | CF | Central African Republic | 2 | 0 | pending | — | — | — | — |
-| 45 | TD | Chad | 1 | 0 | pending | — | — | — | — |
-| 46 | CL | Chile | 392 | 0 | pending | — | — | — | — |
-| 47 | CN | China | 1080 | 0 | pending | — | — | — | — |
-| 48 | CX | Christmas Island | 1 | 0 | pending | — | — | — | — |
-| 49 | CC | Cocos (Keeling) Islands | 1 | 0 | pending | — | — | — | — |
-| 50 | CO | Colombia | 494 | 0 | pending | — | — | — | — |
-| 51 | KM | Comoros | 0 | 0 | pending | — | — | — | — |
-| 52 | CG | Congo | 1 | 0 | pending | — | — | — | — |
+| 44 | CF | Central African Republic | 2 | 1 | partial | 2026-09-08T17:35:24Z | 4 | 0 | [Run 0044](#run-0044-cf) |
+| 45 | TD | Chad | 1 | 1 | partial | 2026-09-08T18:38:24Z | 4 | 0 | [Run 0045](#run-0045-td) |
+| 46 | CL | Chile | 392 | 1 | partial | 2026-09-08T19:38:55Z | 4 | 0 | [Run 0046](#run-0046-cl) |
+| 47 | CN | China | 1080 | 1 | partial | 2026-09-08T20:39:25Z | 4 | 0 | [Run 0047](#run-0047-cn) |
+| 48 | CX | Christmas Island | 1 | 1 | partial | 2026-09-08T21:39:55Z | 4 | 0 | [Run 0048](#run-0048-cx) |
+| 49 | CC | Cocos (Keeling) Islands | 1 | 1 | partial | 2026-09-08T22:40:25Z | 4 | 0 | [Run 0049](#run-0049-cc) |
+| 50 | CO | Colombia | 494 | 1 | partial | 2026-09-08T23:40:26Z | 4 | 0 | [Run 0050](#run-0050-co) |
+| 51 | KM | Comoros | 0 | 1 | partial | 2026-09-09T00:40:56Z | 4 | 0 | [Run 0051](#run-0051-km) |
+| 52 | CG | Congo | 1 | 1 | partial | 2026-09-09T01:40:56Z | 4 | 0 | [Run 0052](#run-0052-cg) |
 | 53 | CK | Cook Islands | 0 | 0 | pending | — | — | — | — |
 | 54 | CR | Costa Rica | 38 | 0 | pending | — | — | — | — |
 | 55 | HR | Croatia | 107 | 0 | pending | — | — | — | — |
@@ -636,6 +636,150 @@ Remaining leads: Bon FM, Voz di Bonaire, Dolfijn FM Bonaire, Empire Radio EUX in
 | Rooster 101 | Cayman Islands country station | country/music | [Compass Media](https://www.compassmedia.ky/) | `https://rooster101-hurleysmedia.radioca.st/stream` | already in catalog | existing catalog entry |
 
 Remaining leads: government Radio Cayman 89.9, Breeze FM, Big Fish 95.5, Cayman Public Radio, Star 92.7, CayRock, Gold 94.9, Hot 104.1, Kiss FM and Sister Islands services; locate direct audio endpoints and avoid duplicating the existing Compass catalog coverage. The run stopped at the four-minute ceiling; it did not claim an exhaustive Cayman Islands search. Next scheduled country: Central African Republic (`CF`).
+
+<a id="run-0044-cf"></a>
+### Run 0044 — CF — Central African Republic — 2026-09-08T17:31:00Z
+
+- Start/end: 2026-09-08T17:31:00Z–2026-09-08T17:35:24Z. Sweep 1. Final status: **partial**.
+- Search scope: six queries in French and English. Primary evidence included [Radio Ndeke Luka's diffusion page](https://www.radiondekeluka.org/diffusion), which documents a 24/7 100.9 FM network across Bangui and 12 other cities plus 20 community partners, and the UN [Radio Guira FM](https://minusca.unmissions.org/fr/radio-guira-fm-0) result describing MINUSCA coverage.
+- Evaluated 4 candidate inputs; two already exist in the catalog and two source pages were not usable audio endpoints. No new ready candidates were added. Raw results: [inputs](research/run-0044-CF-inputs.json) and [probes](research/run-0044-CF-probes.json).
+
+| Station / service | Location / country evidence | Language / genre | Official site / source | Stream URL | Probe result | Disposition / reason |
+| --- | --- | --- | --- | --- | --- | --- |
+| Radio Ndeke Luka | Bangui and 12 other CAR cities; 100.9 FM | news/current affairs | [Ndeke Luka](https://www.radiondekeluka.org/diffusion) | `https://stream.radiondekeluka.org/ndekeluka` | already in catalog | existing catalog entry |
+| Mambokadzi DreamRadio | Central African Republic catalog service | music | catalog baseline | `https://cast3.asurahosting.com/proxy/dreamradio/stream.mp3` | already in catalog | existing catalog entry |
+| Radio Guira FM | MINUSCA station covering Bangui and 13 localities | peacebuilding/news | [MINUSCA](https://minusca.unmissions.org/fr/radio-guira-fm-0) | `https://minusca.unmissions.org/fr/radio-guira-fm-0` | unresolved address | needs direct stream extraction |
+| Radio Ndeke Luka web diffusion page | CAR broadcaster's online listening page | news/current affairs | [Ndeke Luka](https://www.radiondekeluka.org/diffusion) | `https://www.radiondekeluka.org/diffusion` | webpage, not audio endpoint | needs direct stream extraction |
+
+Remaining leads: Guira FM direct audio, Radio Centrafrique, Radio Zereda in Obo, Hero Radio, Voice Radio, and Ndeke Luka's 20 partner community stations. The run stopped at the four-minute ceiling; it did not claim an exhaustive Central African Republic search. Next scheduled country: Chad (`TD`).
+
+<a id="run-0045-td"></a>
+### Run 0045 — TD — Chad — 2026-09-08T18:34:00Z
+
+- Start/end: 2026-09-08T18:34:00Z–2026-09-08T18:38:24Z. Sweep 1. Final status: **partial**.
+- Search scope: six queries in French and English. Primary evidence included [Radio Ndarason International](https://ndarason.com/en/about-us/), which documents an N'Djamena headquarters, 107.1 FM and Kanembu/Kanuri programming, plus the ONAMA public media search result and Chad media directory leads.
+- Evaluated 4 candidate inputs; the Radio Tchad stream already exists in the catalog and three institutional pages were not usable audio endpoints. No new ready candidates were added. Raw results: [inputs](research/run-0045-TD-inputs.json) and [probes](research/run-0045-TD-probes.json).
+
+| Station / service | Location / country evidence | Language / genre | Official site / source | Stream URL | Probe result | Disposition / reason |
+| --- | --- | --- | --- | --- | --- | --- |
+| Radio Tchad | N'Djamena; public radio stream | French/Arabic/general | [ONAMA](https://www.onama.td/television-nationale/) | `https://strhls.streamakaci.tv/str_tchad_radio/str_tchad_radio/icecast.audio?fbclid=IwAR32Ir_eHaV-HSrh46OVT_VeTZt5KoNggoq8qzeSiAeZTJNBKKUtsSNUtcY` | already in catalog | existing catalog entry |
+| Radio Ndarason International | N'Djamena and Lake Chad region; 107.1 FM | Kanembu/Kanuri, peacebuilding/news | [RNI](https://ndarason.com/en/about-us/) | `https://ndarason.com/en/about-us/` | not an audio endpoint | needs direct stream extraction |
+| ONAMA / Télé Tchad radio | N'Djamena; national public media | French/Arabic | [ONAMA](https://www.onama.td/television-nationale/) | `https://www.onama.td/television-nationale/` | not an audio endpoint | needs direct stream extraction |
+| Focus Média radio | Chad online news service | French and Chadian Arabic | [Focus Média](https://focusmedia-tchad.com/) | `https://focusmedia-tchad.com/` | unresolved address | needs verification |
+
+Remaining leads: Radio Dja FM, NGATO FM, Radio ADMC, Radio Ndarason direct stream, FM Liberté, community stations in the Chad Community Radio Network and the public Radiodiffusion nationale tchadienne. The run stopped at the four-minute ceiling; it did not claim an exhaustive Chad search. Next scheduled country: Chile (`CL`).
+
+<a id="run-0046-cl"></a>
+### Run 0046 — CL — Chile — 2026-09-08T19:34:00Z
+
+- Start/end: 2026-09-08T19:34:00Z–2026-09-08T19:38:55Z. Sweep 1. Final status: **partial**.
+- Search scope: six queries in Spanish and English. Primary evidence included [Radio Cooperativa](https://www.cooperativa.cl/radioenvivo/), the Chile community radio directory [Radios Online](https://www.radiosonline.cl/genero/community/) and [Estaciones.cl](https://estaciones.cl/), which lists regional and community services.
+- Evaluated 4 candidate stream inputs; all 4 already exist in the catalog, so 0 new ready candidates were added. Raw results: [inputs](research/run-0046-CL-inputs.json) and [probes](research/run-0046-CL-probes.json).
+
+| Station / service | Location / country evidence | Language / genre | Official site / source | Stream URL | Probe result | Disposition / reason |
+| --- | --- | --- | --- | --- | --- | --- |
+| BioBio Chile | Chile network | Spanish news/talk | [BioBio directory lead](https://www.radiosonline.cl/genero/community/) | `https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio` | already in catalog | existing catalog entry |
+| Pudahuel | Chile commercial service | Spanish pop/general | [Estaciones.cl](https://estaciones.cl/) | `https://26593.live.streamtheworld.com/PUDAHUEL_SC` | already in catalog | existing catalog entry |
+| 100.9 Play FM | Chile FM service | music | [Estaciones.cl](https://estaciones.cl/) | `https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio` | already in catalog | existing catalog entry |
+| Cooperativa | Santiago; national Chile broadcaster | Spanish news/sports/talk | [Radio Cooperativa](https://www.cooperativa.cl/radioenvivo/) | `https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio` | already in catalog | existing catalog entry |
+
+Remaining leads: Radio Bomberos Chile, Radio Dinámica, Radio Puerta Norte, Radio Sol 108, Radio Sinaí, Radio Ríos de Agua Viva, regional community broadcasters and indigenous/community stations. The run stopped at the four-minute ceiling; it did not claim an exhaustive Chile search. Next scheduled country: China (`CN`).
+
+<a id="run-0047-cn"></a>
+### Run 0047 — CN — China — 2026-09-08T20:35:00Z
+
+- Start/end: 2026-09-08T20:35:00Z–2026-09-08T20:39:25Z. Sweep 1. Final status: **partial**.
+- Search scope: six queries in Chinese and English. Primary evidence included [云听 / radio.cn](https://www.radio.cn/pc-portal/erji/), a China Media Group audio platform with live radio categories, and [Radio5.cn](https://radio5.cn/), which exposes provincial and municipal streams. The catalog already has broad Chinese coverage.
+- Evaluated 4 candidate stream inputs; three already exist in the catalog and one endpoint was unresolved. No new ready candidates were added. Raw results: [inputs](research/run-0047-CN-inputs.json) and [probes](research/run-0047-CN-probes.json).
+
+| Station / service | Location / country evidence | Language / genre | Official site / source | Stream URL | Probe result | Disposition / reason |
+| --- | --- | --- | --- | --- | --- | --- |
+| CNR-1 中国之声 | China National Radio service | Mandarin news/general | [云听](https://www.radio.cn/pc-portal/erji/) | `https://lhttp.qtfm.cn/live/15318317/64k.mp3` | already in catalog | existing catalog entry |
+| 上海新闻广播 | Shanghai municipal broadcaster | Mandarin news | [Radio5.cn](https://radio5.cn/) | `https://lhttp.qingting.fm/live/270/64k.mp3` | already in catalog | existing catalog entry |
+| 广东珠江经济台 | Guangdong provincial broadcaster | Cantonese/Mandarin business/news | [Radio5.cn](https://radio5.cn/) | `https://lhttp.qtfm.cn/live/1259/64k.mp3` | already in catalog | existing catalog entry |
+| 北京新闻广播 | Beijing municipal broadcaster | Mandarin news | [Radio5.cn](https://radio5.cn/) | `https://lhttp.qingting.fm/live/339/64k.mp3` | unresolved address | needs verification |
+
+Remaining leads: China Radio International language services, CNR regional channels, provincial and municipal traffic/news/music stations, campus services, and Chinese-language diaspora stations; treat Hong Kong, Macao and Taiwan as separate project entries where applicable and avoid duplicate directory mirrors. The run stopped at the four-minute ceiling; it did not claim an exhaustive China search. Next scheduled country: Christmas Island (`CX`).
+
+<a id="run-0048-cx"></a>
+### Run 0048 — CX — Christmas Island — 2026-09-08T21:35:00Z
+
+- Start/end: 2026-09-08T21:35:00Z–2026-09-08T21:39:55Z. Sweep 1. Final status: **partial**.
+- Search scope: six queries in English. Primary evidence included [6RCI](https://www.6rci.net/), the [Christmas Island tourism station page](https://christmasisland.squarespace.com/radio), and the Australian Government emergency plan, which confirms 6RCI as the volunteer community station on 102.1/105.3 FM with emergency broadcast duties and multilingual community coverage.
+- Evaluated 4 candidate inputs; the existing catalog entry is unrelated to the local station, while 6RCI's direct Radio.co stream and pages could not be resolved by the bounded probe. No new ready candidates were added. Raw results: [inputs](research/run-0048-CX-inputs.json) and [probes](research/run-0048-CX-probes.json).
+
+| Station / service | Location / country evidence | Language / genre | Official site / source | Stream URL | Probe result | Disposition / reason |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6RCI Christmas Island Community Radio | Christmas Island, Indian Ocean; 102.1/105.3 FM | English, Chinese and Malay; community/emergency | [6RCI](https://www.6rci.net/) | `https://streams.radio.co/s254f35e58/listen` | unresolved address | strong candidate; needs verification |
+| Navidad Grupera | Existing catalog service mapped to CX | grupera/music | catalog baseline | `https://radioforte.com/8006/stream` | already in catalog | existing catalog entry; provenance needs review |
+| 6RCI station site | Christmas Island community station | community radio | [6RCI](https://www.6rci.net/) | `https://www.6rci.net/` | unresolved address | needs verification |
+| 6RCI tourism page | Nursery Road, Christmas Island | community radio | [Christmas Island tourism](https://christmasisland.squarespace.com/radio) | `https://christmasisland.squarespace.com/radio` | unresolved address | needs verification |
+
+Remaining leads: verify the Radio.co stream, review the existing Navidad Grupera country mapping, and distinguish Christmas Island's 6RCI from Australian ABC services rebroadcast to the territory. The run stopped at the four-minute ceiling; it did not claim an exhaustive Christmas Island search. Next scheduled country: Cocos (Keeling) Islands (`CC`).
+
+<a id="run-0049-cc"></a>
+### Run 0049 — CC — Cocos (Keeling) Islands — 2026-09-08T22:36:00Z
+
+- Start/end: 2026-09-08T22:36:00Z–2026-09-08T22:40:25Z. Sweep 1. Final status: **partial**.
+- Search scope: six queries in English. Primary evidence from the Australian Government [territory information](https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/travel-information) confirms volunteer community station 6CKI, Voice of the Cocos (Keeling) Islands, and rebroadcast ABC/FM services. [RadioStationWorld](https://radiostationworld.com/locations/cocos_keeling_islands/radio_stations/) lists 6CKI and regional repeaters.
+- Evaluated 4 candidate inputs; no direct audio endpoint was verifiable and the unrelated CX catalog URL was detected as a prior mention. No new ready candidates were added. Raw results: [inputs](research/run-0049-CC-inputs.json) and [probes](research/run-0049-CC-probes.json).
+
+| Station / service | Location / country evidence | Language / genre | Official site / source | Stream URL | Probe result | Disposition / reason |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6CKI – Voice of the Cocos (Keeling) Islands | Cocos community volunteer station | local content/community | [Australian Government](https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/travel-information) | `https://cbonline.org.au/index.cfm?pageId=13%2C8%2C6%2C3523` | unresolved address | strong candidate; needs verification |
+| 6CKI repeater | West Island / Home Island community coverage | local community | [RadioStationWorld](https://radiostationworld.com/locations/cocos_keeling_islands/radio_stations/) | `https://radiostationworld.com/locations/cocos_keeling_islands/radio_stations/` | webpage, not audio endpoint | needs direct stream extraction |
+| ABC Regional Radio | Cocos rebroadcast service | Australian news/talk | [Australian Government](https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/travel-information) | `https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/travel-information` | webpage, not audio endpoint | needs verification |
+| LA OCHENTERA 91.9 FM | Existing catalog item mapped to CC | music | catalog baseline | `https://radioforte.com/8006/stream` | prior catalog/research mention | provenance needs review |
+
+Remaining leads: locate a current 6CKI stream or cbonline player URL, verify the local frequency and language coverage, and separate Australian ABC/Red FM relays from locally originated services. The run stopped at the four-minute ceiling; it did not claim an exhaustive Cocos (Keeling) Islands search. Next scheduled country: Colombia (`CO`).
+
+<a id="run-0050-co"></a>
+### Run 0050 — CO — Colombia — 2026-09-08T23:36:00Z
+
+- Start/end: 2026-09-08T23:36:00Z–2026-09-08T23:40:26Z. Sweep 1. Final status: **partial**.
+- Search scope: six queries in Spanish and English. Primary evidence included [Caracol Radio](https://caracol.com.co/directorio/), [RCN Radio](https://www.rcnradio.com/), the Colombian community-radio directory at [Colombia.com](https://www.colombia.com/radio/emisoras-comunitarias-t2), and an RTVC public-radio presentation describing online services.
+- Evaluated 4 candidate stream inputs; all 4 already exist in the catalog, so 0 new ready candidates were added. Raw results: [inputs](research/run-0050-CO-inputs.json) and [probes](research/run-0050-CO-probes.json).
+
+| Station / service | Location / country evidence | Language / genre | Official site / source | Stream URL | Probe result | Disposition / reason |
+| --- | --- | --- | --- | --- | --- | --- |
+| Caracol Radio Bogotá | Bogotá; national PRISA network | Spanish news/talk | [Caracol directory](https://caracol.com.co/directorio/) | `https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac` | already in catalog | existing catalog entry |
+| Olímpica Stereo Medellín | Medellín; national commercial network | Spanish music | [RCN/Colombia directory lead](https://www.emisorasdecolombia.com/) | `https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac` | already in catalog | existing catalog entry |
+| Blu Radio national | Bogotá and national transmitters | Spanish news/talk | [Blu/RCN directory lead](https://www.rcnradio.com/) | `https://23113.live.streamtheworld.com/BLURADIO_SC` | already in catalog | existing catalog entry |
+| Radioacktiva Bogotá | Bogotá; PRISA network | Spanish rock/music | [Caracol directory](https://caracol.com.co/directorio/) | `https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac` | already in catalog | existing catalog entry |
+
+Remaining leads: RTVC Radio Nacional and its regional/online services, indigenous and community stations listed by Colombia.com, university radio and local services across all departments. The run stopped at the four-minute ceiling; it did not claim an exhaustive Colombia search. Next scheduled country: Comoros (`KM`).
+
+<a id="run-0051-km"></a>
+### Run 0051 — KM — Comoros — 2026-09-09T00:36:00Z
+
+- Start/end: 2026-09-09T00:36:00Z–2026-09-09T00:40:56Z. Sweep 1. Final status: **partial**.
+- Search scope: six queries in French and English. Primary or station sources included [Dounia Web](https://douniaweb.net/pages), a Comorian association radio broadcasting online since 2005, [Radio Kazi](https://radiokazi.fr/) at 107 MHz in Mkazi, and the ORTN/Radio Ngazidja live-radio lead.
+- Evaluated 4 homepage/contact inputs; no direct audio endpoint was verifiable and no catalog baseline existed. No new ready candidates were added. Raw results: [inputs](research/run-0051-KM-inputs.json) and [probes](research/run-0051-KM-probes.json).
+
+| Station / service | Location / country evidence | Language / genre | Official site / source | Stream URL | Probe result | Disposition / reason |
+| --- | --- | --- | --- | --- | --- | --- |
+| Dounia Web | Comoros association radio; online since 2005 | Comorian/French; news, culture, music | [Dounia Web](https://douniaweb.net/pages) | `https://douniaweb.net/pages` | webpage, not audio endpoint | strong candidate; needs direct stream extraction |
+| Radio Kazi | Mkazi, Comoros; 107 MHz | local news, music and community programming | [Radio Kazi](https://radiokazi.fr/) | `https://radiokazi.fr/` | webpage, not audio endpoint | needs direct stream extraction |
+| ORTN / Radio Ngazidja | Union of the Comoros national/public radio lead | national programming | [ORTN contact](https://www.radio-ngazidja.com/contact) | `https://www.radio-ngazidja.com/contact` | unresolved address | needs verification |
+| Hayba Jumla | Moroni digital African voice; 89.3 MHz listing | news/culture | [Hayba Jumla](https://www.hayba-jumla.com/) | `https://www.hayba-jumla.com/` | unresolved address | needs verification |
+
+Remaining leads: direct player URLs for Dounia Web and Radio Kazi, ORTN/Radio Ngazidja streams, Radio Domoni Inter, Midayi FM, Zawiya FM, Star FM, Radio Malezi, Radio Océan Indien and community FM licenses in the ANRTIC list. The run stopped at the four-minute ceiling; it did not claim an exhaustive Comoros search. Next scheduled country: Congo (`CG`).
+
+<a id="run-0052-cg"></a>
+### Run 0052 — CG — Congo — 2026-09-09T01:36:00Z
+
+- Start/end: 2026-09-09T01:36:00Z–2026-09-09T01:40:56Z. Sweep 1. Final status: **partial**.
+- Search scope: six queries in French and English, explicitly separating Republic of the Congo (Brazzaville) from the Democratic Republic of the Congo. Primary evidence included [Radio Maria Congo](https://www.radiomaria.cg/), [DRTV Congo](https://www.drtv.cg/), and a station listing identifying RADIOKATIOPA in Brazzaville.
+- Evaluated 4 station pages; all four were unavailable as direct audio endpoints in the bounded probe. No new ready candidates were added. Raw results: [inputs](research/run-0052-CG-inputs.json) and [probes](research/run-0052-CG-probes.json).
+
+| Station / service | Location / country evidence | Language / genre | Official site / source | Stream URL | Probe result | Disposition / reason |
+| --- | --- | --- | --- | --- | --- | --- |
+| Radio Maria Congo | Republic of the Congo; Pointe-Noire/Brazzaville Catholic service | French/religious | [Radio Maria Congo](https://www.radiomaria.cg/) | `https://www.radiomaria.cg/` | unresolved address | needs direct stream extraction |
+| DRTV International | Brazzaville and Pointe-Noire news service | French/news | [DRTV Congo](https://www.drtv.cg/) | `https://www.drtv.cg/` | unresolved address | radio endpoint not exposed |
+| RADIOKATIOPA | Brazzaville, Republic of the Congo;  Internet/FM | French news/talk | [RadioLy station page](https://radioly.app/radio/cg.radiokatiopa/) | `https://radioly.app/radio/cg.radiokatiopa/` | unresolved address | needs direct stream extraction |
+| Top Congo FM lead | Search result is Democratic Republic of the Congo, not Republic of the Congo | French news | [Top Congo FM](https://www.topcongo.live/) | `https://www.topcongo.live/` | unresolved address | excluded from CG; belongs to CD |
+
+Remaining leads: Radio Congo, Radio Brazzaville, Canal FM, Radio Liberté, Radio Katiopa direct audio, Radio Maria stream and local stations in Pointe-Noire and Dolisie. Keep Democratic Republic of the Congo stations in `CD`; the run stopped at the four-minute ceiling and did not claim an exhaustive Republic of the Congo search. Next scheduled country: Cook Islands (`CK`).
 
 <a id="run-0029-bw"></a>
 ### Run 0029 — BW — Botswana — 2026-09-08T02:20:00Z

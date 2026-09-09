@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://streams.radio.co/s254f35e58/listen",
+    "checkedAt": "2026-09-08T21:40:19.968690+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radioforte.com/8006/stream",
+    "checkedAt": "2026-09-08T21:40:19.968794+00:00",
+    "catalogMatches": [
+      {
+        "id": "bd15888f-03e6-47d3-81f1-9be234e7ad88",
+        "name": "Navidad Grupera",
+        "country": "CX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.6rci.net/",
+    "checkedAt": "2026-09-08T21:40:19.968864+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://christmasisland.squarespace.com/radio",
+    "checkedAt": "2026-09-08T21:40:19.968907+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

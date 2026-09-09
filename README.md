@@ -31,7 +31,7 @@ Do not open `index.html` as a local file: catalog loading requires HTTP.
 1. Push this project to a GitHub repository using `main` as the default branch.
 2. In the repository, open **Settings → Pages → Build and deployment → Source** and choose **GitHub Actions**.
 3. Open **Actions → Build and deploy Radio Atlas → Run workflow**, selecting `main` for the first deployment. Later pushes to `main` deploy automatically after checks pass.
-4. Open the URL shown by the `github-pages` deployment, usually `https://OWNER.github.io/REPOSITORY/`.
+4. Open the URL shown by the `github-pages` deployment: [saltysaguaro.github.io/radio-atlas/](https://saltysaguaro.github.io/radio-atlas/).
 
 Pull requests run validation without publishing. Deployment uses only `website/dist/`; research files, source code and endpoint logs are not part of the hosted site. The repository can be named anything: asset and data URLs are relative. See [deployment instructions](documents/DEPLOYMENT.md) for first-push commands, custom domains, and troubleshooting.
 
@@ -60,11 +60,11 @@ The checks cover player switching and failures, safe stream probing, catalog con
 | `website/public/data/` | Committed station catalog and world map |
 | `website/public/THIRD-PARTY-NOTICES.txt` | Dependency and data license texts |
 | `website/scripts/` | Offline player tests |
-| `scripts/` | Catalog research, refresh, validation and packaging |
+| `scripts/` | Catalog research, refresh, validation and license collection |
 | `documents/` | Coverage, provenance, check evidence and research ledger |
 | `.github/` | Build/deploy workflow, dependency updates and contribution templates |
 
-Generated `website/dist/`, `upload/`, ZIP releases, local hosting metadata and the large raw directory download are ignored by Git. The processed catalog, map and endpoint evidence are committed so clean clones can build and validate without downloading source data.
+This repository is the working project and the source for GitHub Pages. GitHub Actions builds `website/dist/` and publishes it directly; no upload folder or ZIP package is needed. Installed `website/node_modules/`, generated builds, caches, local hosting metadata and the large raw directory download are ignored by Git. The processed catalog, map and endpoint evidence are committed so clean clones can build and validate without downloading source data.
 
 ## Refresh station data
 
@@ -81,10 +81,6 @@ Review the changed catalog, [coverage](documents/COVERAGE.md), discovery report,
 A refresh can take tens of minutes and probes all distinct candidates from Radio Browser and the maintained broadcaster supplements. There is no per-country limit. Evidence younger than 24 hours is reused; `--fresh-checks` forces new probes. `--cached-source` requires the locally downloaded `documents/source-snapshot.json`, which is deliberately not committed.
 
 The [country research ledger](documents/COUNTRY_RADIO_RESEARCH.md) records candidates and unresolved leads. A separate local Codex schedule was used to produce it; cloning this repository does not install that schedule. GitHub Actions does not run station research or a live refresh.
-
-## Other static hosts
-
-After building and validating, run `python3 scripts/package_release.py`. Upload the generated `upload/` contents or extract `radio-atlas-upload.zip` into any HTTPS static web directory. These packages are optional and are not needed for GitHub Pages.
 
 ## Sources and rights
 
