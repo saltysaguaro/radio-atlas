@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://s4.radio.co/sd1d1904dc/listen",
+    "checkedAt": "2026-09-12T01:46:01.089135+00:00",
+    "catalogMatches": [
+      {
+        "id": "130200f8-56f8-487b-bcf1-bac2f72e7709",
+        "name": "KLAN Kosova FM",
+        "country": "XK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.1dhe1.com:8090/stream",
+    "checkedAt": "2026-09-12T01:46:01.089217+00:00",
+    "catalogMatches": [
+      {
+        "id": "5ee3d745-db38-4f32-98a6-c08e41c2733f",
+        "name": "Radio Zëri i Shtimes",
+        "country": "XK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.glamradio.fm:8443/glamradio",
+    "checkedAt": "2026-09-12T01:46:01.089202+00:00",
+    "catalogMatches": [
+      {
+        "id": "566bc94b-25e1-4f46-b4df-826b212cf242",
+        "name": "GlamRADIO",
+        "country": "XK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.itprishtina.com/urbanfm.ogg",
+    "checkedAt": "2026-09-12T01:46:01.089304+00:00",
+    "catalogMatches": [
+      {
+        "id": "d178f465-86ba-4b84-8c2f-4b07f4c1e58b",
+        "name": "Urban FM 103.5",
+        "country": "XK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://studio28.radiolize.com/radio/8100/radio.mp3",
+    "checkedAt": "2026-09-12T01:46:01.089290+00:00",
+    "catalogMatches": [
+      {
+        "id": "eb89eaba-2aba-431b-ba0e-51d7adff3b4a",
+        "name": "Kolektiv Radio",
+        "country": "XK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://a8.asurahosting.com:6920/radio.mp3",
+    "checkedAt": "2026-09-12T01:46:01.089281+00:00",
+    "catalogMatches": [
+      {
+        "id": "fe71e5b8-8ec9-483e-a9ba-1b667822b862",
+        "name": "Radyo Hisar",
+        "country": "XK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

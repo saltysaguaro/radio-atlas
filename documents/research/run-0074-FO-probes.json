@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://stream-secure.midlar.fo/fm1-128",
+    "checkedAt": "2026-09-09T23:54:20.291411+00:00",
+    "catalogMatches": [
+      {
+        "id": "5c97fd92-1782-4e07-925c-e8684e7845ae",
+        "name": "FM1 88,7",
+        "country": "FO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://liveradio.stream.fo/listen/nordlysid/web",
+    "checkedAt": "2026-09-09T23:54:20.291492+00:00",
+    "catalogMatches": [
+      {
+        "id": "f2ebe5fe-8d89-4a53-a012-6249f2ad3ada",
+        "name": "Norðlýsið",
+        "country": "FO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-secure.midlar.fo/voxpop-128",
+    "checkedAt": "2026-09-09T23:54:20.291479+00:00",
+    "catalogMatches": [
+      {
+        "id": "e70c5eb1-81f7-4193-9731-eb0a12bbbfd6",
+        "name": "VoxPop",
+        "country": "FO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.radio.co/s4d14b9fcc/listen",
+    "checkedAt": "2026-09-09T23:54:20.291591+00:00",
+    "catalogMatches": [
+      {
+        "id": "cdd65fdd-3a21-481f-a20e-d20b0f58f625",
+        "name": "Aldan: Hitt Radio",
+        "country": "FO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

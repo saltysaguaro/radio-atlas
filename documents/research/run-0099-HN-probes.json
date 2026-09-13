@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://ice42.securenetsystems.net/EXITOS",
+    "checkedAt": "2026-09-11T05:27:18.108928+00:00",
+    "catalogMatches": [
+      {
+        "id": "96499bea-0601-11e8-ae97-52543be04c81",
+        "name": "Stereo Exitos 88.1 Tegucigalpa",
+        "country": "HN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice42.securenetsystems.net/XY905",
+    "checkedAt": "2026-09-11T05:27:18.109003+00:00",
+    "catalogMatches": [
+      {
+        "id": "25554e01-23c1-4956-b414-71f4ef375353",
+        "name": "XY 90.5 FM - Tegucigalpa, Honduras",
+        "country": "HN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice42.securenetsystems.net/VOXFM",
+    "checkedAt": "2026-09-11T05:27:18.108991+00:00",
+    "catalogMatches": [
+      {
+        "id": "42800d21-bb2e-43d0-a4e4-2e0567479c62",
+        "name": "Vox FM Honduras - Tegucigalpa 101.7 FM - San Pedro Sula 106.1 FM",
+        "country": "HN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/83h238tqsceuv",
+    "checkedAt": "2026-09-11T05:27:18.109071+00:00",
+    "catalogMatches": [
+      {
+        "id": "cc803992-19b4-48fc-a85e-d4e2e2b17201",
+        "name": "Musiquera 93.3 FM",
+        "country": "HN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/0n4tnx3wd5zuv",
+    "checkedAt": "2026-09-11T05:27:18.109058+00:00",
+    "catalogMatches": [
+      {
+        "id": "9912b3cc-85af-4b31-800d-40dcdc41bcb3",
+        "name": "Exa FM Honduras",
+        "country": "HN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-142.zeno.fm/83h238tqsceuv?zs=vZNVzaY3QLy9RmUb9QK5uA",
+    "checkedAt": "2026-09-11T05:27:18.109048+00:00",
+    "catalogMatches": [
+      {
+        "id": "d410c0d1-a5f1-410e-a23b-d43b84e9582a",
+        "name": "Musiquera 93.3 FM",
+        "country": "HN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice42.securenetsystems.net/SUAVE",
+    "checkedAt": "2026-09-11T05:27:18.109138+00:00",
+    "catalogMatches": [
+      {
+        "id": "964998e7-0601-11e8-ae97-52543be04c81",
+        "name": "Suave FM 102.5 Tegucigalpa",
+        "country": "HN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/6n7fp9t2pceuv",
+    "checkedAt": "2026-09-11T05:27:18.109150+00:00",
+    "catalogMatches": [
+      {
+        "id": "b424be26-51c4-48cf-b113-9fc29a923701",
+        "name": "Radio Activa Honduras",
+        "country": "HN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice42.securenetsystems.net/94SUFM",
+    "checkedAt": "2026-09-11T05:27:18.109157+00:00",
+    "catalogMatches": [
+      {
+        "id": "96499a6c-0601-11e8-ae97-52543be04c81",
+        "name": "94 SU FM 94.1 Tegucigalpa",
+        "country": "HN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.playerlive.info:8165/",
+    "checkedAt": "2026-09-11T05:27:18.109143+00:00",
+    "catalogMatches": [
+      {
+        "id": "01aa71b0-7643-11ea-b1cf-52543be04c81",
+        "name": "DCR Difusora Cristiana de Radio 103.1 FM",
+        "country": "HN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

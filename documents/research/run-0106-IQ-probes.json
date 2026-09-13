@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://l3.itworkscdn.net/itwaudio/9012/stream",
+    "checkedAt": "2026-09-11T12:35:24.239419+00:00",
+    "catalogMatches": [
+      {
+        "id": "bc1e8eb3-a94e-48d7-892a-e790a1599b60",
+        "name": "SumerFm Iraq",
+        "country": "IQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.radionomy.com/JamendoLounge",
+    "checkedAt": "2026-09-11T12:35:24.239477+00:00",
+    "catalogMatches": [
+      {
+        "id": "f0d68df6-4a17-4373-adee-1cbc034cb80b",
+        "name": "Waar Radio",
+        "country": "IQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1",
+    "checkedAt": "2026-09-11T12:35:24.239485+00:00",
+    "catalogMatches": [
+      {
+        "id": "894f73d0-647d-461b-845c-95d8e14a1e32",
+        "name": "Alseraj Radio Islam",
+        "country": "IQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.host247.net/spedafm",
+    "checkedAt": "2026-09-11T12:35:24.239586+00:00",
+    "catalogMatches": [
+      {
+        "id": "dfa44ba9-e0b9-4a22-a848-5b28d2781986",
+        "name": "speda radio",
+        "country": "IQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streams.radio.co/s0975ec186/listen",
+    "checkedAt": "2026-09-11T12:35:24.239581+00:00",
+    "catalogMatches": [
+      {
+        "id": "448ba0a5-0c40-4f53-adc6-9d7f8b6e5f6a",
+        "name": "Darusalam Radio",
+        "country": "IQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://edge.mixlr.com/channel/vnvcj",
+    "checkedAt": "2026-09-11T12:35:24.239569+00:00",
+    "catalogMatches": [
+      {
+        "id": "cd5a924a-29a6-4114-84ef-8effa816cfa7",
+        "name": "FM المستقبل",
+        "country": "IQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streamer.radio.co/sb38bf6e66/listen",
+    "checkedAt": "2026-09-11T12:35:24.239647+00:00",
+    "catalogMatches": [
+      {
+        "id": "a29b614a-6dd1-4e98-a7f7-a70eb21f82fb",
+        "name": "Al-bilad Radio/Yaqoubi",
+        "country": "IQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radyo1.radyo-dinle.tc/8284/stream;",
+    "checkedAt": "2026-09-11T12:35:24.239641+00:00",
+    "catalogMatches": [
+      {
+        "id": "78fe4c57-8bfd-481b-a368-292581e4f6f5",
+        "name": "Turkmen FM  تركمان إف إم",
+        "country": "IQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-152.zeno.fm/a33ka0d94p8uv",
+    "checkedAt": "2026-09-11T12:35:24.239634+00:00",
+    "catalogMatches": [
+      {
+        "id": "79e3bcb9-a030-4832-870e-0933f3bde362",
+        "name": "Radio Shanasheel",
+        "country": "IQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
+    "checkedAt": "2026-09-11T12:35:24.239625+00:00",
+    "catalogMatches": [
+      {
+        "id": "abf148ba-cb50-4d30-a0da-ee68620019aa",
+        "name": "Kurdistan 24",
+        "country": "IQ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

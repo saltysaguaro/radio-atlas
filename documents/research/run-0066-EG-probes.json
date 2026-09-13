@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://9090streaming.mobtada.com/9090FMEGYPT",
+    "checkedAt": "2026-09-09T15:49:50.609781+00:00",
+    "catalogMatches": [
+      {
+        "id": "961a5858-0601-11e8-ae97-52543be04c81",
+        "name": "Radio 9090 90.9",
+        "country": "EG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-159.zeno.fm/qb1zvsykm98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxYjF6dnN5a205OHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ild2WTItbVhJU2Z5VlBEOHc3a2J1X0EiLCJpYXQiOjE3NzA5ODcyOTUsImV4cCI6MTc3MDk4NzM1NX0.ob8jdjoAgAzIcrxMk5b127wgaxpnJHEASSChnE5v5ro",
+    "checkedAt": "2026-09-09T15:49:50.609835+00:00",
+    "catalogMatches": [
+      {
+        "id": "047fcfb5-9e59-478e-9e6a-a006cc401868",
+        "name": "Nogoum FM",
+        "country": "EG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://nrjstreaming.ahmed-melege.com/nrjegypt",
+    "checkedAt": "2026-09-09T15:49:50.609842+00:00",
+    "catalogMatches": [
+      {
+        "id": "de776c2f-ac0d-47da-a14d-e5d8bb2e54d5",
+        "name": "NRJ EGYPT",
+        "country": "EG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://eu1.fastcast4u.com/proxy/prontofm",
+    "checkedAt": "2026-09-09T15:49:50.609918+00:00",
+    "catalogMatches": [
+      {
+        "id": "ceba48a5-9356-4891-a1fc-5ff9ea832120",
+        "name": "90s FM",
+        "country": "EG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

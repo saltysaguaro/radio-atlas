@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://stream.zeno.fm/72y045deqeruv",
+    "checkedAt": "2026-09-09T21:53:49.937272+00:00",
+    "catalogMatches": [
+      {
+        "id": "4cc6b1aa-5bf4-4fa6-87d2-9c687a854f8a",
+        "name": "Ethio FM 107.8",
+        "country": "ET"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zenolive.com/y91n1vtbaw5tv",
+    "checkedAt": "2026-09-09T21:53:49.937324+00:00",
+    "catalogMatches": [
+      {
+        "id": "566306b4-6f54-4ab6-a238-adcef2b645fd",
+        "name": "Sheger FM 102.1",
+        "country": "ET"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-155.zeno.fm/txxpndf1wwzuv",
+    "checkedAt": "2026-09-09T21:53:49.937329+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-25.zeno.fm/2xguamap7yzuv",
+    "checkedAt": "2026-09-09T21:53:49.937458+00:00",
+    "catalogMatches": [
+      {
+        "id": "dbabf997-a292-4112-9cf8-308ba92ff2fa",
+        "name": "EBC Radio 104.7 Addis Abeba",
+        "country": "ET"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

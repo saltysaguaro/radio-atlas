@@ -1,0 +1,147 @@
+[
+  {
+    "url": "https://play.r1.co.nz/live",
+    "checkedAt": "2026-09-13T17:09:42.199985+00:00",
+    "catalogMatches": [
+      {
+        "id": "b562983d-1c3d-456c-acdd-bcef491f245e",
+        "name": "Radio One 91FM",
+        "country": "NZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "http://worldfm.nz:8882/worldfmstereo.mp3",
+    "checkedAt": "2026-09-13T17:09:42.200040+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://digitalstreams.mediaworks.nz/rock_net_icy",
+    "checkedAt": "2026-09-13T17:09:42.200073+00:00",
+    "catalogMatches": [
+      {
+        "id": "bc9ac88d-9af6-4564-9cb4-57edf4d36865",
+        "name": "The Rock - NZ's #1 rock radio station",
+        "country": "NZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://s26.myradiostream.com:20274/listen.mp3",
+    "checkedAt": "2026-09-13T17:09:42.200165+00:00",
+    "catalogMatches": [
+      {
+        "id": "cc9c0708-d100-43cc-a76b-e1fef63d2e43",
+        "name": "新西兰中文广播电台 FM90.6 Radio Chinese",
+        "country": "NZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mediaworks.streamguys1.com/magic_net_icy",
+    "checkedAt": "2026-09-13T17:09:42.200158+00:00",
+    "catalogMatches": [
+      {
+        "id": "1bd2a096-3167-43b3-a030-69b43780577d",
+        "name": "Magic FM",
+        "country": "NZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mediaworks.streamguys1.com/breeze-akl-high_icy",
+    "checkedAt": "2026-09-13T17:09:42.200140+00:00",
+    "catalogMatches": [
+      {
+        "id": "74ee4b8c-1c55-4a2f-8fa6-2d6136e6fb8f",
+        "name": "The Breeze 93.4",
+        "country": "NZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://s26.myradiostream.com/:20274/listen.mp3?nocache=1628504081",
+    "checkedAt": "2026-09-13T17:09:42.200233+00:00",
+    "catalogMatches": [
+      {
+        "id": "7156f7c4-1b9d-4c2b-a446-5ac5d6607f49",
+        "name": "Radio Chinese FM90.6",
+        "country": "NZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mediaworks.streamguys1.com/george_net_icy",
+    "checkedAt": "2026-09-13T17:09:42.200227+00:00",
+    "catalogMatches": [
+      {
+        "id": "0f9588db-66d9-411f-800d-de63753e741c",
+        "name": "George FM",
+        "country": "NZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.wanderingsheep.net:8000/jazzcafe",
+    "checkedAt": "2026-09-13T17:09:42.200218+00:00",
+    "catalogMatches": [
+      {
+        "id": "6b0dee5f-2288-4b49-a1e2-497959078190",
+        "name": "JAZZ CAFE",
+        "country": "NZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/rhscse2a41zuv",
+    "checkedAt": "2026-09-13T17:09:42.200205+00:00",
+    "catalogMatches": [
+      {
+        "id": "8d5a16cc-b77d-41e9-9257-21cb894beaba",
+        "name": "Radio Robotic",
+        "country": "NZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

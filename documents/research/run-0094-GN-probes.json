@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://stream.zeno.fm/gzxp5eqkafeuv",
+    "checkedAt": "2026-09-10T20:09:36.228508+00:00",
+    "catalogMatches": [
+      {
+        "id": "a336c3dc-aa76-46d5-bcfb-677fd792347e",
+        "name": "BONHEUR FM Guinée live - 101.4 FM",
+        "country": "GN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/xirmzwnnpintv",
+    "checkedAt": "2026-09-10T20:09:36.228568+00:00",
+    "catalogMatches": [
+      {
+        "id": "a8dd839f-0a3c-475f-8892-696284f0307c",
+        "name": "LGF TALK GUINEE",
+        "country": "GN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/6y3sswt61pcuv",
+    "checkedAt": "2026-09-10T20:09:36.228574+00:00",
+    "catalogMatches": [
+      {
+        "id": "66c818fa-ca2b-48db-9996-99689510843e",
+        "name": "LGF FUN GUINEE",
+        "country": "GN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/q94z1t5hsm5tv",
+    "checkedAt": "2026-09-10T20:09:36.228642+00:00",
+    "catalogMatches": [
+      {
+        "id": "0adc9de1-f627-4fde-9823-56fa61bd2c43",
+        "name": "Littoral FM Guinee live",
+        "country": "GN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

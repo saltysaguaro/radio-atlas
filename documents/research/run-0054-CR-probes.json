@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1",
+    "checkedAt": "2026-09-09T03:44:17.275909+00:00",
+    "catalogMatches": [
+      {
+        "id": "cdad4475-158f-4f4c-827a-6a4589e582db",
+        "name": "Urbano 106 - 105.9 FM - San José, Costa Rica",
+        "country": "CR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live.turadio.stream:7005/stream?type=http&nocache=596",
+    "checkedAt": "2026-09-09T03:44:17.275967+00:00",
+    "catalogMatches": [
+      {
+        "id": "de36932d-7929-4a06-b6a3-e23d524e2577",
+        "name": "Radio Musical 97.5",
+        "country": "CR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.radio.co/s36bd2a451/listen",
+    "checkedAt": "2026-09-09T03:44:17.275977+00:00",
+    "catalogMatches": [
+      {
+        "id": "1df6a2fe-bd24-4b65-8bb5-c7cb6a10c9c4",
+        "name": "95.5 Jazz Radio",
+        "country": "CR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac",
+    "checkedAt": "2026-09-09T03:44:17.276052+00:00",
+    "catalogMatches": [
+      {
+        "id": "b774859a-ba7a-42ac-b0cb-0cea6e53ce26",
+        "name": "Azul 99.9 FM",
+        "country": "CR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

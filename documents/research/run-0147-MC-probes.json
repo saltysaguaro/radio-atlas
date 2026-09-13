@@ -1,0 +1,77 @@
+[
+  {
+    "url": "https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3",
+    "checkedAt": "2026-09-13T05:04:36.426705+00:00",
+    "catalogMatches": [
+      {
+        "id": "960d75a0-0601-11e8-ae97-52543be04c81",
+        "name": "Radio Monaco 98.2",
+        "country": "MC"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://yellowradio.ice.infomaniak.ch/yellowradio.mp3",
+    "checkedAt": "2026-09-13T05:04:36.426822+00:00",
+    "catalogMatches": [
+      {
+        "id": "ca5129a8-43b7-4c2d-882f-83c412265358",
+        "name": "Yellow.radio",
+        "country": "MC"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://yellowradio.ice.infomaniak.ch/yellow01.mp3",
+    "checkedAt": "2026-09-13T05:04:36.426814+00:00",
+    "catalogMatches": [
+      {
+        "id": "6bb794f1-cdae-401b-9094-8fd1c91e9137",
+        "name": "Yellow Riviera",
+        "country": "MC"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://yellowradio.ice.infomaniak.ch/yellow02.aac",
+    "checkedAt": "2026-09-13T05:04:36.426887+00:00",
+    "catalogMatches": [
+      {
+        "id": "26f9775d-ff1c-4ea7-9613-341739edd3a5",
+        "name": "Yellow Party",
+        "country": "MC"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icy.unitedradio.it/rmcweb005",
+    "checkedAt": "2026-09-13T05:04:36.426898+00:00",
+    "catalogMatches": [
+      {
+        "id": "469a80f5-755e-11e9-af37-52543be04c81",
+        "name": "Radio Monte Carlo Italia",
+        "country": "MC"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

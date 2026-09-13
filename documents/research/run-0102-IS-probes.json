@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://stream.utvarpsaga.is/Hljodver",
+    "checkedAt": "2026-09-11T08:31:19.642384+00:00",
+    "catalogMatches": [
+      {
+        "id": "4123d652-36c9-41fd-b780-238cd3717f43",
+        "name": "Útvarp Saga",
+        "country": "IS"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice-11.spilarinn.is/80flashback",
+    "checkedAt": "2026-09-11T08:31:19.642442+00:00",
+    "catalogMatches": [
+      {
+        "id": "223a427e-2661-41c0-a40a-7d15fdca9da4",
+        "name": "80´s Flash Back",
+        "country": "IS"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice-11.spilarinn.is/kaninnmobile",
+    "checkedAt": "2026-09-11T08:31:19.642449+00:00",
+    "catalogMatches": [
+      {
+        "id": "8d472d16-8ce9-49ed-9b60-df7cd7041566",
+        "name": "K 100",
+        "country": "IS"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice-11.spilarinn.is/60flashback",
+    "checkedAt": "2026-09-11T08:31:19.642540+00:00",
+    "catalogMatches": [
+      {
+        "id": "365a410b-cd82-4410-b351-6f443c3e8c1e",
+        "name": "Flashback 60s",
+        "country": "IS"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice-11.spilarinn.is/retromobile",
+    "checkedAt": "2026-09-11T08:31:19.642533+00:00",
+    "catalogMatches": [
+      {
+        "id": "c7162b90-39e6-45c8-ac30-4901a48f5dc2",
+        "name": "Restro 89,5",
+        "country": "IS"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://s10.webradio-hosting.com/proxy/fredradiois/stream",
+    "checkedAt": "2026-09-11T08:31:19.642521+00:00",
+    "catalogMatches": [
+      {
+        "id": "fc157689-436b-4da8-a3d5-18d72bbda568",
+        "name": "Fred Film Radio-26 Íslenska",
+        "country": "IS"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

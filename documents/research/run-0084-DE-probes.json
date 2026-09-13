@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web",
+    "checkedAt": "2026-09-10T10:03:42.271769+00:00",
+    "catalogMatches": [
+      {
+        "id": "1c3e8be2-5b14-4933-bad3-87cbc227cba4",
+        "name": "Deutschlandfunk | DLF | MP3 128k",
+        "country": "DE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://liveradio.swr.de/sw282p3/swr3/play.mp3",
+    "checkedAt": "2026-09-10T10:03:42.271826+00:00",
+    "catalogMatches": [
+      {
+        "id": "240d28b9-7858-48d2-a816-9cf8e1875fe8",
+        "name": "SWR3",
+        "country": "DE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+    "checkedAt": "2026-09-10T10:03:42.271833+00:00",
+    "catalogMatches": [
+      {
+        "id": "9606f727-0601-11e8-ae97-52543be04c81",
+        "name": "1LIVE",
+        "country": "DE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
+    "checkedAt": "2026-09-10T10:03:42.271903+00:00",
+    "catalogMatches": [
+      {
+        "id": "9605edb3-0601-11e8-ae97-52543be04c81",
+        "name": "WDR 5",
+        "country": "DE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

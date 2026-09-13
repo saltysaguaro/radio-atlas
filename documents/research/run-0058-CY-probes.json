@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://r1.cloudskep.com/radio/diesi/icecast.audio",
+    "checkedAt": "2026-09-09T07:45:53.012079+00:00",
+    "catalogMatches": [
+      {
+        "id": "9660917f-ce43-11e8-a54a-52543be04c81",
+        "name": "Diesi Cyprus 101.1",
+        "country": "CY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://r1.cloudskep.com/cybcr/cybc3/icecast.audio",
+    "checkedAt": "2026-09-09T07:45:53.012130+00:00",
+    "catalogMatches": [
+      {
+        "id": "77bf34c0-087b-11e8-ae97-52543be04c81",
+        "name": "Trito Live",
+        "country": "CY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://securestreams3.autopo.st:1417/active",
+    "checkedAt": "2026-09-09T07:45:53.012137+00:00",
+    "catalogMatches": [
+      {
+        "id": "9699f00f-7251-4f5b-b887-e20fe4b4d048",
+        "name": "Active 107.4",
+        "country": "CY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://securestreams3.autopo.st:1417/sfera",
+    "checkedAt": "2026-09-09T07:45:53.012202+00:00",
+    "catalogMatches": [
+      {
+        "id": "a440e2d9-37cf-4b4e-adb3-b94e65541f60",
+        "name": "Radio Sfera 102.2",
+        "country": "CY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

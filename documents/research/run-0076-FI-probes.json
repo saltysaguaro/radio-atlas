@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://icecast.live.yle.fi/radio/YleX/icecast.audio",
+    "checkedAt": "2026-09-10T01:56:22.013561+00:00",
+    "catalogMatches": [
+      {
+        "id": "8f7ecd3e-7be3-4525-aa79-6408cef9fda8",
+        "name": "YleX",
+        "country": "FI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac",
+    "checkedAt": "2026-09-10T01:56:22.013683+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac",
+    "checkedAt": "2026-09-10T01:56:22.013623+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio",
+    "checkedAt": "2026-09-10T01:56:22.013738+00:00",
+    "catalogMatches": [
+      {
+        "id": "c3a2ea0a-85ee-4b98-81fd-b75169da9ebd",
+        "name": "Yle Radio1HIFI 256 Kb/s",
+        "country": "FI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

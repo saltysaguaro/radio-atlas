@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://icecast.err.ee/vikerraadio.mp3",
+    "checkedAt": "2026-09-09T19:52:58.867506+00:00",
+    "catalogMatches": [
+      {
+        "id": "26b44f47-910e-455e-91bc-7304cf7f728e",
+        "name": "Vikerraadio",
+        "country": "EE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.err.ee/raadio4.mp3?type=.mp3/;stream.mp3",
+    "checkedAt": "2026-09-09T19:52:58.867575+00:00",
+    "catalogMatches": [
+      {
+        "id": "9620751d-0601-11e8-ae97-52543be04c81",
+        "name": "ERR Raadio 4",
+        "country": "EE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
+    "checkedAt": "2026-09-09T19:52:58.867564+00:00",
+    "catalogMatches": [
+      {
+        "id": "e549ebd3-b019-477d-9606-5dacfd6171be",
+        "name": "MyHits",
+        "country": "EE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice.leviracloud.eu/starFMEesti96-aac",
+    "checkedAt": "2026-09-09T19:52:58.867628+00:00",
+    "catalogMatches": [
+      {
+        "id": "91ff5c64-9080-4976-b506-aee6c755a94a",
+        "name": "Star FM Eesti",
+        "country": "EE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

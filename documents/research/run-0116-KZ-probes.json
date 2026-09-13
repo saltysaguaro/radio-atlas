@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://listen1.myradio24.com/5967",
+    "checkedAt": "2026-09-11T22:45:54.455317+00:00",
+    "catalogMatches": [
+      {
+        "id": "963fb135-0601-11e8-ae97-52543be04c81",
+        "name": "Radio 90s Eurodance",
+        "country": "KZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.beufm.kz/beufm",
+    "checkedAt": "2026-09-11T22:45:54.455368+00:00",
+    "catalogMatches": [
+      {
+        "id": "8d19ab98-ff22-440c-af05-0b1669b8a2ba",
+        "name": "((beu))",
+        "country": "KZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://daystream.palmerablanca.com/daystream-128.mp3",
+    "checkedAt": "2026-09-11T22:45:54.455375+00:00",
+    "catalogMatches": [
+      {
+        "id": "465e8c27-0340-4e2b-a067-3319f55cdbff",
+        "name": "Palmera Blanca radio - Daystream",
+        "country": "KZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+    "checkedAt": "2026-09-11T22:45:54.455432+00:00",
+    "catalogMatches": [
+      {
+        "id": "3aa2641c-45aa-4ee8-b1e2-1b397fac47e5",
+        "name": "Qazaq radiosy",
+        "country": "KZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.ns.kz/radions",
+    "checkedAt": "2026-09-11T22:45:54.455449+00:00",
+    "catalogMatches": [
+      {
+        "id": "dbaf93a0-220f-4b76-81db-89d60dbac857",
+        "name": "NS-Rock",
+        "country": "KZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://listen4.myradio24.com/8162",
+    "checkedAt": "2026-09-11T22:45:54.455440+00:00",
+    "catalogMatches": [
+      {
+        "id": "a4be486b-4dbc-443d-afbf-0d6483d80181",
+        "name": "Radio Azamat",
+        "country": "KZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+    "checkedAt": "2026-09-11T22:45:54.455498+00:00",
+    "catalogMatches": [
+      {
+        "id": "dbcb9ca8-5c14-4fd4-977a-04bfe3c6ba4c",
+        "name": "Радио Classic",
+        "country": "KZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://a4.radioheart.ru:9036/RH13170",
+    "checkedAt": "2026-09-11T22:45:54.455507+00:00",
+    "catalogMatches": [
+      {
+        "id": "11208a93-9194-4a60-84f8-99bfe1912b83",
+        "name": "Radio TMK",
+        "country": "KZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://service.ns.kz/bc/live",
+    "checkedAt": "2026-09-11T22:45:54.455515+00:00",
+    "catalogMatches": [
+      {
+        "id": "faf8bdda-5653-438e-94a2-e8fdad745661",
+        "name": "Радио NS Павлодар",
+        "country": "KZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://listen2.myradio24.com/8334",
+    "checkedAt": "2026-09-11T22:45:54.455501+00:00",
+    "catalogMatches": [
+      {
+        "id": "700c9a09-b765-4c30-b484-f41729ed4afc",
+        "name": "Радио 7 Семей",
+        "country": "KZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/McW3fLhs",
+    "checkedAt": "2026-09-09T05:46:02.222825+00:00",
+    "catalogMatches": [
+      {
+        "id": "8aebf57e-01df-44b0-bc8f-a32ad9275af2",
+        "name": "Radio Habana Cuba 102.5 FM",
+        "country": "CU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/kHKL7tWd",
+    "checkedAt": "2026-09-09T05:46:02.222882+00:00",
+    "catalogMatches": [
+      {
+        "id": "98920fee-500c-49c8-a973-ff4179967f50",
+        "name": "Radio Rebelde 1180 AM",
+        "country": "CU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/b3jbfThq",
+    "checkedAt": "2026-09-09T05:46:02.222890+00:00",
+    "catalogMatches": [
+      {
+        "id": "1e52cbd5-ab20-4f17-9096-caa715db1ba1",
+        "name": "Radio Reloj Cuba 950 AM",
+        "country": "CU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/XjfW7qWN",
+    "checkedAt": "2026-09-09T05:46:02.222968+00:00",
+    "catalogMatches": [
+      {
+        "id": "4e5e51e7-9fae-4467-9e84-9c71027f491d",
+        "name": "Radio Progreso 90.3 FM",
+        "country": "CU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

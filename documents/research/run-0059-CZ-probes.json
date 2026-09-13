@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://icecast8.play.cz/cro1-128.mp3",
+    "checkedAt": "2026-09-09T08:47:20.323329+00:00",
+    "catalogMatches": [
+      {
+        "id": "960c2e1f-0601-11e8-ae97-52543be04c81",
+        "name": "ČRo Radiožurnál",
+        "country": "CZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast6.play.cz/cro2-128.mp3",
+    "checkedAt": "2026-09-09T08:47:20.323386+00:00",
+    "catalogMatches": [
+      {
+        "id": "960c2ef6-0601-11e8-ae97-52543be04c81",
+        "name": "ČRo Dvojka",
+        "country": "CZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast5.play.cz/cro3-128.mp3",
+    "checkedAt": "2026-09-09T08:47:20.323397+00:00",
+    "catalogMatches": [
+      {
+        "id": "960bf772-0601-11e8-ae97-52543be04c81",
+        "name": "ČRo Vltava",
+        "country": "CZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3",
+    "checkedAt": "2026-09-09T08:47:20.323472+00:00",
+    "catalogMatches": [
+      {
+        "id": "c15295f4-561f-47a5-8c4f-9bdb40210582",
+        "name": "Rock Radio",
+        "country": "CZ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

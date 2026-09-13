@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://cherry.akiyaresearch.com:444/stream/89/",
+    "checkedAt": "2026-09-13T11:05:44.583262+00:00",
+    "catalogMatches": [
+      {
+        "id": "b5218804-957c-4f0f-a1fd-969e8343994b",
+        "name": "Cherry FM",
+        "country": "MM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/og9btsnj00tuv",
+    "checkedAt": "2026-09-13T11:05:44.583333+00:00",
+    "catalogMatches": [
+      {
+        "id": "a47a4545-4af2-4e27-ba03-c254519a5fd7",
+        "name": "Padamyar FM",
+        "country": "MM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://edge.mixlr.com/channel/nmtev",
+    "checkedAt": "2026-09-13T11:05:44.583321+00:00",
+    "catalogMatches": [
+      {
+        "id": "bb5714c1-ca84-46fe-8a2d-c784738eb5fc",
+        "name": "MandalayFM",
+        "country": "MM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://server32349.streamplus.de/;?type=http&",
+    "checkedAt": "2026-09-13T11:05:44.583392+00:00",
+    "catalogMatches": [
+      {
+        "id": "84cb575d-42bb-42e0-bed7-b1190bb9a8b6",
+        "name": "DWG Radio Bumese",
+        "country": "MM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

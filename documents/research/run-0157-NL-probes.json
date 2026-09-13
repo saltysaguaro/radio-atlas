@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://icecast.omroep.nl/radio1-bb-mp3",
+    "checkedAt": "2026-09-13T15:07:43.214521+00:00",
+    "catalogMatches": [
+      {
+        "id": "96126f56-0601-11e8-ae97-52543be04c81",
+        "name": "NPO Radio 1",
+        "country": "NL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://secure.live-streams.nl/main",
+    "checkedAt": "2026-09-13T15:07:43.214587+00:00",
+    "catalogMatches": [
+      {
+        "id": "af6f51b1-0ca9-11ea-a87e-52543be04c81",
+        "name": "Intense Radio - We love Dance 256K",
+        "country": "NL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
+    "checkedAt": "2026-09-13T15:07:43.214575+00:00",
+    "catalogMatches": [
+      {
+        "id": "fd059cc5-b538-41c1-ae76-b8778a84c3db",
+        "name": "Radio 538",
+        "country": "NL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.omroep.nl/radio2-bb-mp3",
+    "checkedAt": "2026-09-13T15:07:43.214702+00:00",
+    "catalogMatches": [
+      {
+        "id": "96126e82-0601-11e8-ae97-52543be04c81",
+        "name": "NPO Radio 2",
+        "country": "NL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.gal.io/arrow",
+    "checkedAt": "2026-09-13T15:07:43.214690+00:00",
+    "catalogMatches": [
+      {
+        "id": "db93a00f-9191-46ab-9e87-ec9b373b3eee",
+        "name": "Arrow Classic Rock",
+        "country": "NL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
+    "checkedAt": "2026-09-13T15:07:43.214682+00:00",
+    "catalogMatches": [
+      {
+        "id": "d227990c-2385-4419-8159-1c73a33a58dd",
+        "name": "Radio 10",
+        "country": "NL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.mp3streams.nl/zender/skyradio/stream/8-mp3-128",
+    "checkedAt": "2026-09-13T15:07:43.214738+00:00",
+    "catalogMatches": [
+      {
+        "id": "b20de429-e1b3-4624-a1ac-12e2bf0cadb0",
+        "name": "Sky Radio",
+        "country": "NL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.joe.nl/joe/aachigh",
+    "checkedAt": "2026-09-13T15:07:43.214747+00:00",
+    "catalogMatches": [
+      {
+        "id": "6add27d4-5573-47b4-ae27-1d05834a9a4a",
+        "name": "JOE",
+        "country": "NL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+    "checkedAt": "2026-09-13T15:07:43.214753+00:00",
+    "catalogMatches": [
+      {
+        "id": "003d3c6f-e183-11e9-a8ba-52543be04c81",
+        "name": "Qmusic",
+        "country": "NL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.omroep.nl/radio1-sb-aac",
+    "checkedAt": "2026-09-13T15:07:43.214742+00:00",
+    "catalogMatches": [
+      {
+        "id": "962894ff-0601-11e8-ae97-52543be04c81",
+        "name": "NPO Radio 1",
+        "country": "NL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://citi973fm.radioca.st/index.html:80/;stream.mp3",
+    "checkedAt": "2026-09-10T11:03:47.499200+00:00",
+    "catalogMatches": [
+      {
+        "id": "1f066f01-284d-41fd-8073-d19449ecf2c5",
+        "name": "Citi FM",
+        "country": "GH"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mmg.streamguys1.com/JoyFM-mp3?key=8689cc761932e3151f94ddbdbfdf4aa0f4000234b5caeaaa179a2fc0d59a4be9b8b774c3653cb14d1fd76f5cbf80e482&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609840716923%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+    "checkedAt": "2026-09-10T11:03:47.499318+00:00",
+    "catalogMatches": [
+      {
+        "id": "215dbb51-b2ac-4a32-86dc-6c75a4da07d5",
+        "name": "Joy Fm",
+        "country": "GH"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mmg.streamguys1.com/AdomFM-mp3?key=9099965b0e49394af3be11b42a71f0faa90378311d2d85f5983495217e350f0a4636df5ecf5ea3f63e53cb9026d89102&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609841442537%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+    "checkedAt": "2026-09-10T11:03:47.499309+00:00",
+    "catalogMatches": [
+      {
+        "id": "437db9b6-1791-4c3d-8c87-e04bae63ae70",
+        "name": "Adom Fm",
+        "country": "GH"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://peacefm-atunwadigital.streamguys1.com/peacefm?amsparams=playerid%3ASGplayer%3Bskey%3A1611468493100%3B&awparams=playerid%3ASGplayer%3Bplayerid%3ASGplayer%3Bplayerid%3ASGplayer%3B&us_privacy=1YNN&us_privacy=1YNN&us_privacy=1YNN",
+    "checkedAt": "2026-09-10T11:03:47.499370+00:00",
+    "catalogMatches": [
+      {
+        "id": "ce8350cc-19aa-479f-886d-a5260816469b",
+        "name": "Peace FM",
+        "country": "GH"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://generationdance.lu/radio/8030/hd",
+    "checkedAt": "2026-09-12T12:51:04.587108+00:00",
+    "catalogMatches": [
+      {
+        "id": "0f902505-76c7-489b-8ddc-03b05b5867ae",
+        "name": "Generation Dance Radio",
+        "country": "LU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.rtlradio.de/rtl-de-national/mp3-192/",
+    "checkedAt": "2026-09-12T12:51:04.587155+00:00",
+    "catalogMatches": [
+      {
+        "id": "a98264e7-e099-4369-b23b-62c7b016cca1",
+        "name": "RTL Radio - Deutschlands Hit-Radio",
+        "country": "LU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.rtlradio.de/rtl-de-beste-hits/aac-64",
+    "checkedAt": "2026-09-12T12:51:04.587161+00:00",
+    "catalogMatches": [
+      {
+        "id": "5fdc15c7-8c66-11e8-aa66-52543be04c81",
+        "name": "RTL Die besten Hits aller Zeiten",
+        "country": "LU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.rtlradio.de/schlagerliebe/mp3-192/",
+    "checkedAt": "2026-09-12T12:51:04.587219+00:00",
+    "catalogMatches": [
+      {
+        "id": "5a59510c-29a7-44c4-902a-9805817f9a92",
+        "name": "RTL Schlagerliebe",
+        "country": "LU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
+    "checkedAt": "2026-09-12T12:51:04.587234+00:00",
+    "catalogMatches": [
+      {
+        "id": "133a4c16-f338-11e9-a96c-52543be04c81",
+        "name": "L'Essentiel Radio",
+        "country": "LU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3",
+    "checkedAt": "2026-09-12T12:51:04.587226+00:00",
+    "catalogMatches": [
+      {
+        "id": "03657684-576c-4a47-aa13-43cf6831b5c2",
+        "name": "Radio 100komma7",
+        "country": "LU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3",
+    "checkedAt": "2026-09-12T12:51:04.587279+00:00",
+    "catalogMatches": [
+      {
+        "id": "a718c8b6-6f90-4a6d-bba4-dc89cb4aebb7",
+        "name": "Radio 100,7",
+        "country": "LU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3",
+    "checkedAt": "2026-09-12T12:51:04.587288+00:00",
+    "catalogMatches": [
+      {
+        "id": "80f07344-504e-48dd-8775-ab60c4a82068",
+        "name": "Radio 100komma7",
+        "country": "LU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://shoutcast.rtl.lu/rtltodayradio",
+    "checkedAt": "2026-09-12T12:51:04.587295+00:00",
+    "catalogMatches": [
+      {
+        "id": "b2989e82-db94-455a-babb-5d28d74c547a",
+        "name": "RTL Today",
+        "country": "LU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://generationdance.lu/radio/8030/mobile",
+    "checkedAt": "2026-09-12T12:51:04.587282+00:00",
+    "catalogMatches": [
+      {
+        "id": "9300b8d7-0953-48d8-82a2-fa69c3b3030b",
+        "name": "Generation Dance Radio",
+        "country": "LU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://westcoast.gm/main/",
+    "checkedAt": "2026-09-10T08:02:08.320264+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://pura.gm/ict/sub-sectors/broadcasting/",
+    "checkedAt": "2026-09-10T08:02:08.320400+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.optiradio.com/radio-stations/Gambia",
+    "checkedAt": "2026-09-10T08:02:08.320485+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://thegambiaradio.com/genre/music/",
+    "checkedAt": "2026-09-10T08:02:08.320626+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

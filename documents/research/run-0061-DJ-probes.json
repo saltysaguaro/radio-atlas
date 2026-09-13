@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://rtd.dj/rtd-en-direct/",
+    "checkedAt": "2026-09-09T10:46:44.882689+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.tuneallradio.com/country/djibouti",
+    "checkedAt": "2026-09-09T10:46:44.882832+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://onlineradiobox.com/dj/",
+    "checkedAt": "2026-09-09T10:46:44.882907+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radiospinner.com/dj/",
+    "checkedAt": "2026-09-09T10:46:44.882977+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

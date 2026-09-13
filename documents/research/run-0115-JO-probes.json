@@ -1,0 +1,132 @@
+[
+  {
+    "url": "https://jrtv-live.ercdn.net/jrradio/jordanradio-video.m3u8",
+    "checkedAt": "2026-09-11T21:44:23.846311+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://dc1.serverse.com/proxy/kjxwtpdt/stream",
+    "checkedAt": "2026-09-11T21:44:23.846400+00:00",
+    "catalogMatches": [
+      {
+        "id": "f11a1158-1ee0-4772-bcb0-110522be1e18",
+        "name": "Hayat FM",
+        "country": "JO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3",
+    "checkedAt": "2026-09-11T21:44:23.846474+00:00",
+    "catalogMatches": [
+      {
+        "id": "6cc8dac5-70c2-40bb-b095-8606fe1ed0f8",
+        "name": "Mazaj FM",
+        "country": "JO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.ainfm.site/ainfm",
+    "checkedAt": "2026-09-11T21:44:23.846460+00:00",
+    "catalogMatches": [
+      {
+        "id": "e646da7b-41c6-4ecf-8af1-5634a358683c",
+        "name": "Ain FM",
+        "country": "JO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://yufm.yu.edu.jo/broadwave.mp3",
+    "checkedAt": "2026-09-11T21:44:23.846527+00:00",
+    "catalogMatches": [
+      {
+        "id": "bd561679-5317-4a66-8393-c6f06970792d",
+        "name": "Yarmouk University FM",
+        "country": "JO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://securestreams2.autopo.st:1241/live",
+    "checkedAt": "2026-09-11T21:44:23.846538+00:00",
+    "catalogMatches": [
+      {
+        "id": "5b61ccc0-f369-4368-ba65-3b10b7f6bae9",
+        "name": "Mood Fm 92 Amman",
+        "country": "JO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://securestreams2.autopo.st:1242/live",
+    "checkedAt": "2026-09-11T21:44:23.846531+00:00",
+    "catalogMatches": [
+      {
+        "id": "3a2a6c82-76ff-4be6-8628-825d7a0f3296",
+        "name": "Beat FM",
+        "country": "JO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://dahab.ice.infomaniak.ch/dahab-192.mp3",
+    "checkedAt": "2026-09-11T21:44:23.846570+00:00",
+    "catalogMatches": [
+      {
+        "id": "42f0f2b1-a1fc-4252-9e94-5a5e6c467c2d",
+        "name": "Radio Dahab",
+        "country": "JO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/yawenmfp64zuv",
+    "checkedAt": "2026-09-11T21:44:23.846576+00:00",
+    "catalogMatches": [
+      {
+        "id": "a0bac84d-1fc3-453e-866c-5a4a864193d9",
+        "name": "Alnas FM",
+        "country": "JO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

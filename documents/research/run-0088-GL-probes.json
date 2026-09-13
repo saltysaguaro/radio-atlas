@@ -1,0 +1,77 @@
+[
+  {
+    "url": "https://getnanoq.retro-radio.dk/Nanoq-TX-1",
+    "checkedAt": "2026-09-10T14:06:14.781247+00:00",
+    "catalogMatches": [
+      {
+        "id": "efd96088-62e3-4df5-a962-b9595ee7b6c9",
+        "name": "Nanoq FM",
+        "country": "GL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stereo.dfm.nu/",
+    "checkedAt": "2026-09-10T14:06:14.781293+00:00",
+    "catalogMatches": [
+      {
+        "id": "cf7861e6-bd17-11e8-aaf2-52543be04c81",
+        "name": "Dfm rtv int160k",
+        "country": "GL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://play.streams.gr:22035/stream",
+    "checkedAt": "2026-09-10T14:06:14.781299+00:00",
+    "catalogMatches": [
+      {
+        "id": "c5d12af3-9ac1-4baa-b4ac-d38745e14a4d",
+        "name": "Original Laikos",
+        "country": "GL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://play.streams.gr/sc/radiodiplopenies/stream",
+    "checkedAt": "2026-09-10T14:06:14.781367+00:00",
+    "catalogMatches": [
+      {
+        "id": "430e068a-9655-48e3-a7bb-10afb5dbaa3f",
+        "name": "ΡΑΔΙΟ ΔΙΠΛΟΠΕΝΙΕΣ",
+        "country": "GL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://i1.cdn.jetstre.am:8000/sz=knr=audio192?token=ea282bc02bb373156231dd1522a33943&time=6a184ec2",
+    "checkedAt": "2026-09-10T14:06:14.781383+00:00",
+    "catalogMatches": [
+      {
+        "id": "500614c3-98ff-46e5-8a96-8b2398a9ee8a",
+        "name": "KNR Live Radio",
+        "country": "GL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

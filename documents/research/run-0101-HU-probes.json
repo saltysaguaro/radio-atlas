@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://icast.connectmedia.hu/5001/live.mp3",
+    "checkedAt": "2026-09-11T07:30:20.542800+00:00",
+    "catalogMatches": [
+      {
+        "id": "98b22cd2-0ec8-4bb1-a5f6-f168de7548b5",
+        "name": "Retro Rádió",
+        "country": "HU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icast.connectmedia.hu/5201/live.mp3",
+    "checkedAt": "2026-09-11T07:30:20.542866+00:00",
+    "catalogMatches": [
+      {
+        "id": "f503d591-56b7-45d2-9a31-df046af717ae",
+        "name": "Rádió 1",
+        "country": "HU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://a7.asurahosting.com:8160/radio.mp3",
+    "checkedAt": "2026-09-11T07:30:20.542875+00:00",
+    "catalogMatches": [
+      {
+        "id": "9e077bed-f46f-4506-8237-c26be0538fdc",
+        "name": "Klubrádió 95,3",
+        "country": "HU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.infostart.hu/lejatszo/index.html?sid=1",
+    "checkedAt": "2026-09-11T07:30:20.542975+00:00",
+    "catalogMatches": [
+      {
+        "id": "122f7792-6b84-11ea-b1cf-52543be04c81",
+        "name": "Inforádió",
+        "country": "HU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icast.connectmedia.hu/4738/mr2.mp3",
+    "checkedAt": "2026-09-11T07:30:20.542969+00:00",
+    "catalogMatches": [
+      {
+        "id": "79d8bcc0-e8c8-49a7-a160-2b41923b054a",
+        "name": "Petőfi Rádió",
+        "country": "HU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icast.connectmedia.hu/5202/live.mp3",
+    "checkedAt": "2026-09-11T07:30:20.542956+00:00",
+    "catalogMatches": [
+      {
+        "id": "a7789334-2f1d-4f95-9a64-b169a963e99c",
+        "name": "Radio1",
+        "country": "HU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icast.connectmedia.hu/5301/live.mp3",
+    "checkedAt": "2026-09-11T07:30:20.543036+00:00",
+    "catalogMatches": [
+      {
+        "id": "123a6043-3804-4365-9d17-5c2e655e9f80",
+        "name": "103.9 rock",
+        "country": "HU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mediagw.e-tiger.net/stream/zc25",
+    "checkedAt": "2026-09-11T07:30:20.543028+00:00",
+    "catalogMatches": [
+      {
+        "id": "b0082c76-dc7d-48f1-b0ee-fca28d3ad6bb",
+        "name": "COOLFM Funky&Soul",
+        "country": "HU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://oxygenmusic.hu:8443/oxygenclassicrock",
+    "checkedAt": "2026-09-11T07:30:20.543022+00:00",
+    "catalogMatches": [
+      {
+        "id": "c240655a-c086-49d7-a0c6-a1baf886c99f",
+        "name": "Oxygen Classic Rock",
+        "country": "HU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://n34a-eu.rcs.revma.com/wevb267khf9uv?rj-ttl=5&rj-tok=AAABnZd5-KEAvca0veOvcEeJDw",
+    "checkedAt": "2026-09-11T07:30:20.543014+00:00",
+    "catalogMatches": [
+      {
+        "id": "26a13ad6-ad3b-45de-a85d-e7dcc6af70e6",
+        "name": "Hír FM",
+        "country": "HU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

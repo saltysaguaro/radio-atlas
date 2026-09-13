@@ -1,0 +1,107 @@
+[
+  {
+    "url": "https://ice31.securenetsystems.net/0079",
+    "checkedAt": "2026-09-12T15:52:06.805969+00:00",
+    "catalogMatches": [
+      {
+        "id": "01f3b100-ff51-4bab-8588-e5b5d17ad905",
+        "name": "ZBS Zodiak FM",
+        "country": "MW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://play.streamafrica.net/timveni",
+    "checkedAt": "2026-09-12T15:52:06.806028+00:00",
+    "catalogMatches": [
+      {
+        "id": "0b59210b-3248-47d6-83c5-9fa919c0c655",
+        "name": "Timveni Radio",
+        "country": "MW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://s4.radio.co/s40c05d6b1/low",
+    "checkedAt": "2026-09-12T15:52:06.806037+00:00",
+    "catalogMatches": [
+      {
+        "id": "d5c8ae88-3b49-4fd9-8e68-4cfa9cc877d5",
+        "name": "Amaryllis E-Radio",
+        "country": "MW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://a9.asurahosting.com/listen/groove100_fm/radio.mp3",
+    "checkedAt": "2026-09-12T15:52:06.806133+00:00",
+    "catalogMatches": [
+      {
+        "id": "bb34c088-e61e-45a7-a9c2-5655000b9c90",
+        "name": "Groove100 FM",
+        "country": "MW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/0r0xa792kwzuv",
+    "checkedAt": "2026-09-12T15:52:06.806125+00:00",
+    "catalogMatches": [
+      {
+        "id": "04564909-649b-4fc3-b391-05f81f98a4b9",
+        "name": "Groove100 FM",
+        "country": "MW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://a10.asurahosting.com:7270/radio.mp3",
+    "checkedAt": "2026-09-12T15:52:06.806112+00:00",
+    "catalogMatches": [
+      {
+        "id": "5b0c2770-5cf6-4880-a5d8-5981594ad2ba",
+        "name": "Power Global Media",
+        "country": "MW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/ogxfqt7gumguv",
+    "checkedAt": "2026-09-12T15:52:06.806180+00:00",
+    "catalogMatches": [
+      {
+        "id": "c0c4fe2e-af82-4496-8e4b-bacf39644081",
+        "name": "Mdubs Entertainment",
+        "country": "MW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

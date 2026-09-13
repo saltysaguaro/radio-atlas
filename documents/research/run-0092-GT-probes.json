@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://stream.zeno.fm/czdkk32qduhvv",
+    "checkedAt": "2026-09-10T18:07:37.487424+00:00",
+    "catalogMatches": [
+      {
+        "id": "1b8296e1-6561-4094-82de-df4034de2bc0",
+        "name": "Exa FM 101.7 Guatemala",
+        "country": "GT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zenolive.com/z96sq8tndseuv",
+    "checkedAt": "2026-09-10T18:07:37.487484+00:00",
+    "catalogMatches": [
+      {
+        "id": "4bf762a7-cb07-485a-8772-4cab077a5a3c",
+        "name": "Emisoras Unidas 89.7",
+        "country": "GT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_989AAC.aac",
+    "checkedAt": "2026-09-10T18:07:37.487492+00:00",
+    "catalogMatches": [
+      {
+        "id": "0dfd56ad-b0a8-4426-a7a0-7662fe47c55d",
+        "name": "Globo 98.9 Guatemala",
+        "country": "GT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac",
+    "checkedAt": "2026-09-10T18:07:37.487581+00:00",
+    "catalogMatches": [
+      {
+        "id": "7567754c-e4e1-45c6-bd92-c41dc58ef78c",
+        "name": "Clásica 102.5 Guatemala",
+        "country": "GT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.infinityhdstream.com/7054/stream",
+    "checkedAt": "2026-09-10T18:07:37.487574+00:00",
+    "catalogMatches": [
+      {
+        "id": "03533153-7b66-4028-a111-fc8d267c9958",
+        "name": "Radio Cultural TGN",
+        "country": "GT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac",
+    "checkedAt": "2026-09-10T18:07:37.487562+00:00",
+    "catalogMatches": [
+      {
+        "id": "d16da107-3487-46bb-959f-8788876a0c83",
+        "name": "Mía 93.7 Guatemala",
+        "country": "GT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/qzhqyu07dkhvv",
+    "checkedAt": "2026-09-10T18:07:37.487642+00:00",
+    "catalogMatches": [
+      {
+        "id": "59b5f271-2ecf-4a30-a711-1b8f9c696118",
+        "name": "Radio Punto 90.5 Guatemala",
+        "country": "GT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/597dgr66e2zuv",
+    "checkedAt": "2026-09-10T18:07:37.487636+00:00",
+    "catalogMatches": [
+      {
+        "id": "95d09e83-9054-4287-8c8b-e1ee9511821f",
+        "name": "Estéreo Alegre 101.5 FM",
+        "country": "GT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac",
+    "checkedAt": "2026-09-10T18:07:37.487628+00:00",
+    "catalogMatches": [
+      {
+        "id": "eb4104dd-2832-4669-a087-8152a272f8bb",
+        "name": "La Red 106.1 Guatemala",
+        "country": "GT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/uus2ugdadkhvv",
+    "checkedAt": "2026-09-10T18:07:37.487619+00:00",
+    "catalogMatches": [
+      {
+        "id": "4e79038a-2ddd-4a2f-8369-da5829035cf5",
+        "name": "Radio Viva 95.3 Guatemala",
+        "country": "GT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

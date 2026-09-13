@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://live-icy.dr.dk/A/A05H.mp3",
+    "checkedAt": "2026-09-09T09:46:50.361990+00:00",
+    "catalogMatches": [
+      {
+        "id": "960f5bcd-0601-11e8-ae97-52543be04c81",
+        "name": "DR P3",
+        "country": "DK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live-icy.dr.dk/A/A03H.mp3",
+    "checkedAt": "2026-09-09T09:46:50.362063+00:00",
+    "catalogMatches": [
+      {
+        "id": "a3bc7946-e569-420b-8793-9048804ae6b3",
+        "name": "DR P1",
+        "country": "DK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+    "checkedAt": "2026-09-09T09:46:50.362051+00:00",
+    "catalogMatches": [
+      {
+        "id": "4bcb11ad-0ac0-4bb6-8b36-603ba1a4effd",
+        "name": "Nova FM",
+        "country": "DK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radioserver.dk/alfa",
+    "checkedAt": "2026-09-09T09:46:50.362115+00:00",
+    "catalogMatches": [
+      {
+        "id": "801ce973-f3d8-4c0f-b11f-832b5f6377d9",
+        "name": "Radio Alfa",
+        "country": "DK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

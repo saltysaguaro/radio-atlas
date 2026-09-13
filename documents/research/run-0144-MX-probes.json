@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://live.convoynetwork.com/stream",
+    "checkedAt": "2026-09-13T02:03:11.971199+00:00",
+    "catalogMatches": [
+      {
+        "id": "a5b56fc7-32ea-11e9-8f31-52543be04c81",
+        "name": "Convoy en vivo",
+        "country": "MX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR22_s01AAC.aac",
+    "checkedAt": "2026-09-13T02:03:11.971277+00:00",
+    "catalogMatches": [
+      {
+        "id": "510506e7-6bc0-4b91-b6a1-fc024ccad1a8",
+        "name": "SMOOTH JAZZ: Sax, piano, guitarra y voz: cool jazz",
+        "country": "MX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://panel.retrolandigital.com/radio/8110/listen",
+    "checkedAt": "2026-09-13T02:03:11.971265+00:00",
+    "catalogMatches": [
+      {
+        "id": "bbed394d-8907-435f-8714-8b24c1c56399",
+        "name": "Café Romántico Radio (Monterrey) - Online - www.caferomanticoradio.com - Grupo Digital Radioland - Monterrey, Nuevo León",
+        "country": "MX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/e4auhdgm6cquv",
+    "checkedAt": "2026-09-13T02:03:11.971337+00:00",
+    "catalogMatches": [
+      {
+        "id": "21df351a-9eac-45e2-a83a-f6709da6d6e0",
+        "name": "BEATLES RADIO",
+        "country": "MX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen",
+    "checkedAt": "2026-09-13T02:03:11.971331+00:00",
+    "catalogMatches": [
+      {
+        "id": "659f5596-51a8-4e3a-802e-ef5e6ceb61d0",
+        "name": "Cumbias Inmortales Radio (Monterrey) - Online - www.cumbiasinmortales.com - Grupo Digital Retroland - Monterrey, Nuevo León",
+        "country": "MX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.servicioswebmx.com/8146/stream",
+    "checkedAt": "2026-09-13T02:03:11.971324+00:00",
+    "catalogMatches": [
+      {
+        "id": "f46f0540-0409-494d-934b-646323e472b2",
+        "name": "La Ke Buena San Andrés Tuxtla - 103.9 FM - XHDQ-FM - San Andrés Tuxtla, Veracruz",
+        "country": "MX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac",
+    "checkedAt": "2026-09-13T02:03:11.971390+00:00",
+    "catalogMatches": [
+      {
+        "id": "04d0c498-c6c9-4365-8212-9ad29e6e09c1",
+        "name": "MIX: 80's, 90's y Más",
+        "country": "MX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac",
+    "checkedAt": "2026-09-13T02:03:11.971381+00:00",
+    "catalogMatches": [
+      {
+        "id": "177cc601-a536-41cc-bd67-7d10b1a5dee1",
+        "name": "Radio Felicidad - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México",
+        "country": "MX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHQQ_FMAAC.aac",
+    "checkedAt": "2026-09-13T02:03:11.971386+00:00",
+    "catalogMatches": [
+      {
+        "id": "f94514ec-c316-4d21-bd27-b7f0e8e1944b",
+        "name": "BANDA 93.3 (Monterrey) - 93.3 FM - XHQQ-FM - Grupo Radio Centro - Monterrey, NL",
+        "country": "MX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac",
+    "checkedAt": "2026-09-13T02:03:11.971375+00:00",
+    "catalogMatches": [
+      {
+        "id": "a0b40c3f-aede-46e9-b67f-38cd8b262936",
+        "name": "88.9 Noticias - 88.9 FM - XHM-FM - Grupo ACIR - Ciudad de México",
+        "country": "MX"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

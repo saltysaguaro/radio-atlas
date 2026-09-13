@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://icestreaming.rai.it/1.mp3",
+    "checkedAt": "2026-09-11T16:37:52.400790+00:00",
+    "catalogMatches": [
+      {
+        "id": "96185693-0601-11e8-ae97-52543be04c81",
+        "name": "Rai Radio 1",
+        "country": "IT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/pxzwykxbluitv",
+    "checkedAt": "2026-09-11T16:37:52.400876+00:00",
+    "catalogMatches": [
+      {
+        "id": "5532c4d9-616e-4d62-a49f-984a13e3189c",
+        "name": "50s 60s RETRO HITS",
+        "country": "IT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.unitedradio.it/Radio105.mp3",
+    "checkedAt": "2026-09-11T16:37:52.400862+00:00",
+    "catalogMatches": [
+      {
+        "id": "9619ea14-0601-11e8-ae97-52543be04c81",
+        "name": "Radio 105 Network",
+        "country": "IT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.unitedradio.it/RMC.mp3",
+    "checkedAt": "2026-09-11T16:37:52.400934+00:00",
+    "catalogMatches": [
+      {
+        "id": "961a5a75-0601-11e8-ae97-52543be04c81",
+        "name": "RMC Radio Monte Carlo",
+        "country": "IT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://sportiva.inmystream.it/stream/sportiva",
+    "checkedAt": "2026-09-11T16:37:52.400929+00:00",
+    "catalogMatches": [
+      {
+        "id": "9ff8c9b6-34d5-4457-befd-bdad9c218217",
+        "name": "Radio Sportiva",
+        "country": "IT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icstream.rds.radio/rdsrelax",
+    "checkedAt": "2026-09-11T16:37:52.400922+00:00",
+    "catalogMatches": [
+      {
+        "id": "e5a0255c-1a28-4e9c-8ece-466ed39be2af",
+        "name": "RDS relax",
+        "country": "IT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.unitedradio.it/Virgin.mp3",
+    "checkedAt": "2026-09-11T16:37:52.400987+00:00",
+    "catalogMatches": [
+      {
+        "id": "9619eb8a-0601-11e8-ae97-52543be04c81",
+        "name": "Virgin Radio Italia",
+        "country": "IT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://nr9.newradio.it/proxy/ebaruffa?mp=/stream",
+    "checkedAt": "2026-09-11T16:37:52.400977+00:00",
+    "catalogMatches": [
+      {
+        "id": "4d712fdb-596c-495a-80eb-6c0cf2c3e649",
+        "name": "NEU RADIO",
+        "country": "IT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://rblive.it:8170/radio.mp3",
+    "checkedAt": "2026-09-11T16:37:52.400983+00:00",
+    "catalogMatches": [
+      {
+        "id": "e81cf293-174e-4936-b3cb-db62decedacd",
+        "name": "70 80 90",
+        "country": "IT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icy.unitedradio.it/VirginRockClassics.mp3",
+    "checkedAt": "2026-09-11T16:37:52.400971+00:00",
+    "catalogMatches": [
+      {
+        "id": "9619f126-0601-11e8-ae97-52543be04c81",
+        "name": "Virgin Radio Classic Rock",
+        "country": "IT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

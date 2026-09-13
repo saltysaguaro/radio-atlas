@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.outre-mer.gouv.fr/territoires/terres-australes-et-antarctiques-francaises",
+    "checkedAt": "2026-09-10T05:58:38.211541+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://taaf.fr/content/uploads/2021/05/20210517-guidedemission.pdf",
+    "checkedAt": "2026-09-10T05:58:38.211672+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.amaepf.fr/ker18N/rubriques/frame.php?LG=fr&PG=05&RUB=02",
+    "checkedAt": "2026-09-10T05:58:38.211734+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://allradio.net/country/204",
+    "checkedAt": "2026-09-10T05:58:38.211797+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

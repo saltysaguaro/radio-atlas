@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://edge.mixlr.com/channel/qtqeb",
+    "checkedAt": "2026-09-12T06:49:03.256358+00:00",
+    "catalogMatches": [
+      {
+        "id": "6b77cd64-68ef-4984-91ec-9b7e77a26eda",
+        "name": "Radio Liban Libre",
+        "country": "LB"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/9vrahqqfuuhvv",
+    "checkedAt": "2026-09-12T06:49:03.256434+00:00",
+    "catalogMatches": [
+      {
+        "id": "215dd8ad-56af-4234-9ace-573b20567d28",
+        "name": "فيروز",
+        "country": "LB"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://l3.itworkscdn.net/itwaudio/9054/stream",
+    "checkedAt": "2026-09-12T06:49:03.256422+00:00",
+    "catalogMatches": [
+      {
+        "id": "368ef657-f8b5-47ce-b578-337e401cc744",
+        "name": "Voice of Lebanon (Sawtlebnan) Radio",
+        "country": "LB"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://albal-lbnet2.radioca.st/stream",
+    "checkedAt": "2026-09-12T06:49:03.256487+00:00",
+    "catalogMatches": [
+      {
+        "id": "f761ebd5-eff4-4b0d-8195-c739911842d9",
+        "name": "Al Bal Radio",
+        "country": "LB"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://audio.osina.cloud:9323/stream",
+    "checkedAt": "2026-09-12T06:49:03.256480+00:00",
+    "catalogMatches": [
+      {
+        "id": "d241e555-9691-46fb-bbe2-7573b6d14e4d",
+        "name": "صوت كل لبنان",
+        "country": "LB"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://l3.itworkscdn.net/itwaudio/9044/stream",
+    "checkedAt": "2026-09-12T06:49:03.256472+00:00",
+    "catalogMatches": [
+      {
+        "id": "d275b356-1068-4012-a46a-46e340e12ab9",
+        "name": "Fame FM Lebanon",
+        "country": "LB"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/4g8xck48kfhvv",
+    "checkedAt": "2026-09-12T06:49:03.256535+00:00",
+    "catalogMatches": [
+      {
+        "id": "f221e5e9-8d01-4906-bd6b-2e8985dbbea7",
+        "name": "رحبانيات",
+        "country": "LB"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://usa19.fastcast4u.com/adeem",
+    "checkedAt": "2026-09-12T06:49:03.256525+00:00",
+    "catalogMatches": [
+      {
+        "id": "2f91a94c-c986-4799-8553-2258069628c6",
+        "name": "Adeem",
+        "country": "LB"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-155.zeno.fm/9vrahqqfuuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5dnJhaHFxZnV1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJWZ1h0SmNZUlZxUm9XeTd6amlkTVEiLCJpYXQiOjE3NDg2Nzg2NTksImV4cCI6MTc0ODY3ODcxOX0.JUJKFflQ3A2RrO_QB-EmeqGocncaUaCXOs_tSTYAqAA",
+    "checkedAt": "2026-09-12T06:49:03.256530+00:00",
+    "catalogMatches": [
+      {
+        "id": "0ae44e68-7bce-4ecd-8ec3-2b3435c4fd6a",
+        "name": "Fairouz",
+        "country": "LB"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/xkhnk4vee18uv",
+    "checkedAt": "2026-09-12T06:49:03.256519+00:00",
+    "catalogMatches": [
+      {
+        "id": "f0d6b0a0-a6b7-4574-8921-f581357ea998",
+        "name": "Fairuz فيروز",
+        "country": "LB"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

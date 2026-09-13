@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://dreamsiteradiocp5.com/proxy/rmlesotho?mp=/stream",
+    "checkedAt": "2026-09-12T07:48:31.083925+00:00",
+    "catalogMatches": [
+      {
+        "id": "6d02ff25-d00e-4fab-8ae1-2159e3388b43",
+        "name": "Radio Maria Lesotho",
+        "country": "LS"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "url": "https://stream.radioplus.mu:8000/radio.mp3",
+    "checkedAt": "2026-09-13T00:00:42.517478+00:00",
+    "catalogMatches": [
+      {
+        "id": "961a681b-0601-11e8-ae97-52543be04c81",
+        "name": "Radio Plus Mauritius",
+        "country": "MU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://centova57.instainternet.com/proxy/vivavoceltd?mp=/stream",
+    "checkedAt": "2026-09-13T00:00:42.517548+00:00",
+    "catalogMatches": [
+      {
+        "id": "8b99281f-5cc6-4a2e-85db-012e4ca685ce",
+        "name": "Radio One",
+        "country": "MU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://c2.radioboss.fm/stream/1056",
+    "checkedAt": "2026-09-13T00:00:42.517553+00:00",
+    "catalogMatches": [
+      {
+        "id": "78a48ab1-6e15-4331-8378-e1a9a97459d1",
+        "name": "Radio 7 Mauritius",
+        "country": "MU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mu1stream.mushost.com:8554/",
+    "checkedAt": "2026-09-13T00:00:42.517610+00:00",
+    "catalogMatches": [
+      {
+        "id": "385b3d31-8952-464f-a1f1-a86b68d3c35e",
+        "name": "OUi Radio Rodrigues",
+        "country": "MU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streamer.radio.co/s3fe39a4a4/listen",
+    "checkedAt": "2026-09-13T00:00:42.517627+00:00",
+    "catalogMatches": [
+      {
+        "id": "beb06313-7d5c-4627-8360-f14b68e0e83d",
+        "name": "Radioplus Fever",
+        "country": "MU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://forwardmystream.com/sensuelleradio",
+    "checkedAt": "2026-09-13T00:00:42.517618+00:00",
+    "catalogMatches": [
+      {
+        "id": "464fc4cc-3c6e-4b5d-92a8-9e4646c2f1da",
+        "name": "SENSUELLE RADIO",
+        "country": "MU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://c34.radioboss.fm:18023/stream",
+    "checkedAt": "2026-09-13T00:00:42.517698+00:00",
+    "catalogMatches": [
+      {
+        "id": "9cae78d5-3341-4e29-ab1d-9aa9915b8cc4",
+        "name": "Tamizen",
+        "country": "MU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streamer.radio.co/sed5c5a375/listen",
+    "checkedAt": "2026-09-13T00:00:42.517709+00:00",
+    "catalogMatches": [
+      {
+        "id": "3447ded9-0b52-4f59-ad6b-d1a7259fdf28",
+        "name": "Radio Plus - Indiz",
+        "country": "MU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mu1stream.mushost.com:8443/",
+    "checkedAt": "2026-09-13T00:00:42.517717+00:00",
+    "catalogMatches": [
+      {
+        "id": "d7c6d471-0e42-4f73-8c2b-4c4203227d0e",
+        "name": "OUi Radio",
+        "country": "MU"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

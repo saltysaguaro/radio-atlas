@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://stream.zeno.fm/hpdayz31vd0uv",
+    "checkedAt": "2026-09-11T03:22:47.054823+00:00",
+    "catalogMatches": [
+      {
+        "id": "6b0c6c56-9f8e-49dd-a921-23dfe98c4bfc",
+        "name": "RADIO BBC NEWS HAITI",
+        "country": "HT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/xmyroy1iu80uv",
+    "checkedAt": "2026-09-11T03:22:47.054881+00:00",
+    "catalogMatches": [
+      {
+        "id": "bf6d4aec-27d6-4ae8-845e-00449488d947",
+        "name": "Radio Vision 2000 Sud Est 90.9 FM",
+        "country": "HT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://rfimonde-96k.ice.infomaniak.ch/rfimonde-96k.mp3",
+    "checkedAt": "2026-09-11T03:22:47.054888+00:00",
+    "catalogMatches": [
+      {
+        "id": "4cc9d5e8-a126-479d-9c36-e775baf6a2ff",
+        "name": "RFI",
+        "country": "HT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/0zef35h1my5tv",
+    "checkedAt": "2026-09-11T03:22:47.054979+00:00",
+    "catalogMatches": [
+      {
+        "id": "b34a34e3-2fe2-4836-b906-f22c435b9cf6",
+        "name": "Radio 4VEH",
+        "country": "HT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-152.zeno.fm/vm8mgn3eewzuv?zs=HWkYw7B5S2C0W0cAcrdGZQ",
+    "checkedAt": "2026-09-11T03:22:47.054972+00:00",
+    "catalogMatches": [
+      {
+        "id": "2c833ee4-1104-40eb-92d6-994fc9b0edf9",
+        "name": "Ananda Marga Haiti",
+        "country": "HT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zenolive.com/yw0309xbgseuv",
+    "checkedAt": "2026-09-11T03:22:47.054960+00:00",
+    "catalogMatches": [
+      {
+        "id": "e74d44c2-8a56-40a5-883d-ba9e329a7c27",
+        "name": "Radio Lumiere Haiti",
+        "country": "HT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/fd9kyc28dchvv",
+    "checkedAt": "2026-09-11T03:22:47.055034+00:00",
+    "catalogMatches": [
+      {
+        "id": "784881e9-0835-4f41-8487-d5da19c709b9",
+        "name": "Radio St Charles FM",
+        "country": "HT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/bdkwbv3rt98uv",
+    "checkedAt": "2026-09-11T03:22:47.055030+00:00",
+    "catalogMatches": [
+      {
+        "id": "07990ba9-401a-4059-b0fc-a01e873ba85c",
+        "name": "Radio Television Supreme (RTVS)",
+        "country": "HT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://studio.sitegenial.com/9310/stream",
+    "checkedAt": "2026-09-11T03:22:47.055024+00:00",
+    "catalogMatches": [
+      {
+        "id": "25c64b81-7d1d-4f1f-aed6-03a312073341",
+        "name": "Intermix 93.1 FM",
+        "country": "HT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/aparrwtkwyzuv",
+    "checkedAt": "2026-09-11T03:22:47.055017+00:00",
+    "catalogMatches": [
+      {
+        "id": "64f7fd84-fd02-4a27-acaa-98e264211d4a",
+        "name": "Radio Jamesen Show",
+        "country": "HT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://stream.radiojar.com/4ywdgup3bnzuv",
+    "checkedAt": "2026-09-11T10:33:21.817309+00:00",
+    "catalogMatches": [
+      {
+        "id": "1c3b70d9-39d5-49d5-a81a-77833667a88b",
+        "name": "I-Radio Jakarta",
+        "country": "ID"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "checkedAt": "2026-09-11T10:33:21.817386+00:00",
+    "catalogMatches": [
+      {
+        "id": "8dd6a16d-f994-455f-8f6a-a285f07abebd",
+        "name": "Elshinta FM Jakarta",
+        "country": "ID"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/us5bsznu3rptv",
+    "checkedAt": "2026-09-11T10:33:21.817373+00:00",
+    "catalogMatches": [
+      {
+        "id": "cb031493-2f67-4dd7-ba4a-1e9d413b22a0",
+        "name": "Radio Sholawat",
+        "country": "ID"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://mettaswara.com:8700//koplo",
+    "checkedAt": "2026-09-11T10:33:21.817444+00:00",
+    "catalogMatches": [
+      {
+        "id": "30ba9673-6034-40ff-966d-b8a8b3da2536",
+        "name": "Mettaswara Koplo",
+        "country": "ID"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.radiojar.com/7csmg90fuqruv",
+    "checkedAt": "2026-09-11T10:33:21.817438+00:00",
+    "catalogMatches": [
+      {
+        "id": "c77a82b2-ff5c-4010-a1bb-d2e767865e58",
+        "name": "Hardrock 87.6 FM Jakarta",
+        "country": "ID"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://c5.siar.us/proxy/ssfm/stream",
+    "checkedAt": "2026-09-11T10:33:21.817430+00:00",
+    "catalogMatches": [
+      {
+        "id": "598aa769-a27b-4d6a-9482-9456fe0543dd",
+        "name": "Suara Surabaya FM",
+        "country": "ID"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://sonora-radio.arenastreaming.com/8130/stream",
+    "checkedAt": "2026-09-11T10:33:21.817497+00:00",
+    "catalogMatches": [
+      {
+        "id": "6233fefa-714e-444c-bc76-065d440c8082",
+        "name": "Sonora FM 92 Jakarta",
+        "country": "ID"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.girifm.com:8010/",
+    "checkedAt": "2026-09-11T10:33:21.817492+00:00",
+    "catalogMatches": [
+      {
+        "id": "1010a082-c072-482d-b664-1f9f7d34f9fc",
+        "name": "Suara Giri 98.4 FM",
+        "country": "ID"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.campursarifm.com/listen/campursari/campursari892",
+    "checkedAt": "2026-09-11T10:33:21.817487+00:00",
+    "catalogMatches": [
+      {
+        "id": "fd6e2783-293c-476e-8201-ddeda1336ca3",
+        "name": "Campursari FM Jakarta",
+        "country": "ID"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://animefm.stream.laut.fm/animefm",
+    "checkedAt": "2026-09-11T10:33:21.817479+00:00",
+    "catalogMatches": [
+      {
+        "id": "acfe5e71-7e9a-40bf-b12c-92a980e95fcb",
+        "name": "Anime FM",
+        "country": "ID"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://stream.pmr.lt/pmr.mp3",
+    "checkedAt": "2026-09-12T11:50:35.924459+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream1.relaxfm.lt/rrb128.mp3",
+    "checkedAt": "2026-09-12T11:50:35.924592+00:00",
+    "catalogMatches": [
+      {
+        "id": "1d047835-06d4-4fc4-93a7-b6511f02a7a6",
+        "name": "Radio R",
+        "country": "LT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

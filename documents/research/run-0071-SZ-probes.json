@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://ebis.co.sz/",
+    "checkedAt": "2026-09-09T20:53:46.646083+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.jelele.com/",
+    "checkedAt": "2026-09-09T20:53:46.646194+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://zeno.fm/radio/bremafm/",
+    "checkedAt": "2026-09-09T20:53:46.646305+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://zeno.fm/radio/blue-sky-fm-ambient/",
+    "checkedAt": "2026-09-09T20:53:46.646372+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

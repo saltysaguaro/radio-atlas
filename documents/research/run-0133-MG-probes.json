@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3",
+    "checkedAt": "2026-09-12T14:51:36.765184+00:00",
+    "catalogMatches": [
+      {
+        "id": "14e39ca9-6bf4-4273-96c2-dd00ee862828",
+        "name": "Hopefy Radio MG",
+        "country": "MG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://listen.radioking.com/radio/309053/stream/356036",
+    "checkedAt": "2026-09-12T14:51:36.765240+00:00",
+    "catalogMatches": [
+      {
+        "id": "7c0a647e-eda5-4eab-8bd7-e91ad62d6fab",
+        "name": "Top Radio 102.8",
+        "country": "MG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://tanjona.radioca.st/stream",
+    "checkedAt": "2026-09-12T14:51:36.765250+00:00",
+    "catalogMatches": [
+      {
+        "id": "5616ee52-e903-4913-8fe4-60fe35190e99",
+        "name": "Radio Rock Madagascar",
+        "country": "MG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3",
+    "checkedAt": "2026-09-12T14:51:36.765332+00:00",
+    "catalogMatches": [
+      {
+        "id": "b5fe26d1-ef12-4a65-8761-80f7678693da",
+        "name": "ESDES Radio",
+        "country": "MG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.radiovazogasy.com/stream?1.mp3",
+    "checkedAt": "2026-09-12T14:51:36.765325+00:00",
+    "catalogMatches": [
+      {
+        "id": "e96fb826-5e77-4845-aedb-9b17c8e9c520",
+        "name": "Radio Vazo Gasy",
+        "country": "MG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1",
+    "checkedAt": "2026-09-12T14:51:36.765313+00:00",
+    "catalogMatches": [
+      {
+        "id": "0060ae50-b810-4245-9a93-5365a03e0e0b",
+        "name": "Radio Feon'ny Filazantsara",
+        "country": "MG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3",
+    "checkedAt": "2026-09-12T14:51:36.765386+00:00",
+    "catalogMatches": [
+      {
+        "id": "15c1f776-8895-49bf-a2e1-8705374448c9",
+        "name": "Radio Oasis",
+        "country": "MG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://listen.radioking.com/radio/52108/stream/89122",
+    "checkedAt": "2026-09-12T14:51:36.765396+00:00",
+    "catalogMatches": [
+      {
+        "id": "995b5039-49b4-42e5-9512-f2774f184030",
+        "name": "Radio HIFI",
+        "country": "MG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

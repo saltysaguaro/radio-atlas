@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60",
+    "checkedAt": "2026-09-13T14:07:41.878287+00:00",
+    "catalogMatches": [
+      {
+        "id": "3e78590f-ab9c-4e13-a512-189a17a54965",
+        "name": "CIN Khabar",
+        "country": "NP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio-broadcast.ekantipur.com/stream",
+    "checkedAt": "2026-09-13T14:07:41.878339+00:00",
+    "catalogMatches": [
+      {
+        "id": "724e92cd-9d57-4fef-b7e6-adad9fcc270d",
+        "name": "Kantipur FM",
+        "country": "NP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream1.radionepal.gov.np/live/",
+    "checkedAt": "2026-09-13T14:07:41.878346+00:00",
+    "catalogMatches": [
+      {
+        "id": "d9b11ab6-74f0-4be0-a104-2e68c1ee3c4f",
+        "name": "Radio Nepal",
+        "country": "NP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zenolive.com/wtuvp08xq1duv",
+    "checkedAt": "2026-09-13T14:07:41.878430+00:00",
+    "catalogMatches": [
+      {
+        "id": "11db7327-9ceb-4ad6-a00f-7f68ac3d20ed",
+        "name": "Ujyaalo 90 Network",
+        "country": "NP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.softnep.net:10828/stream",
+    "checkedAt": "2026-09-13T14:07:41.878424+00:00",
+    "catalogMatches": [
+      {
+        "id": "9620e2a3-0601-11e8-ae97-52543be04c81",
+        "name": "Kalika FM 95.2 FM",
+        "country": "NP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+    "checkedAt": "2026-09-13T14:07:41.878415+00:00",
+    "catalogMatches": [
+      {
+        "id": "665ec0ef-5997-4727-8994-f972225b327b",
+        "name": "BBC Nepali",
+        "country": "NP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/fvrx47wpg0quv",
+    "checkedAt": "2026-09-13T14:07:41.878495+00:00",
+    "catalogMatches": [
+      {
+        "id": "5638e14e-6971-4b21-9626-6a9404ed7b56",
+        "name": "Radio Audio",
+        "country": "NP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
+    "checkedAt": "2026-09-13T14:07:41.878489+00:00",
+    "catalogMatches": [
+      {
+        "id": "bf97c17e-5fda-4420-83ad-7ae423324467",
+        "name": "Hits FM 91.2",
+        "country": "NP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live.itech.host/himalayaradio?1588276425741",
+    "checkedAt": "2026-09-13T14:07:41.878477+00:00",
+    "catalogMatches": [
+      {
+        "id": "1dbce3bb-8002-42b3-923d-fa3f25cf2f1d",
+        "name": "Radio Himalaya",
+        "country": "NP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.softnep.net:10824/",
+    "checkedAt": "2026-09-13T14:07:41.878467+00:00",
+    "catalogMatches": [
+      {
+        "id": "6fe1411f-9aa6-42d1-a1ee-02ac2e6d0941",
+        "name": "Jayaprithvi F.M.",
+        "country": "NP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

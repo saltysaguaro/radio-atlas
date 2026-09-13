@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://media.dominiocreativo.com:8000/stream/1/",
+    "checkedAt": "2026-09-09T16:49:48.965611+00:00",
+    "catalogMatches": [
+      {
+        "id": "cdaa321e-590b-4380-9614-73924ad4067e",
+        "name": "Radio YSKL 104.1 FM",
+        "country": "SV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://fast.citrus3.com:8314/stream",
+    "checkedAt": "2026-09-09T16:49:48.965680+00:00",
+    "catalogMatches": [
+      {
+        "id": "ec7bc4ac-3a3a-4caf-ab46-c22865f534a9",
+        "name": "Radio YSUCA, 91.7 FM",
+        "country": "SV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.rcs.com.sv/proxy/abc/stream",
+    "checkedAt": "2026-09-09T16:49:48.965688+00:00",
+    "catalogMatches": [
+      {
+        "id": "411ec18e-d33c-4be6-a10d-656fcdc494ec",
+        "name": "ABC 100.1",
+        "country": "SV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://s2.radio.co/s3a7dc3d82/listen",
+    "checkedAt": "2026-09-09T16:49:48.965762+00:00",
+    "catalogMatches": [
+      {
+        "id": "9cf3ffe4-c14a-48ac-9894-35b843ad4f57",
+        "name": "Radio Bautista",
+        "country": "SV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

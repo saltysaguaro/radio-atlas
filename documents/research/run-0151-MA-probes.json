@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://stream-158.zeno.fm/bqdbb6hd0neuv",
+    "checkedAt": "2026-09-13T09:06:13.862938+00:00",
+    "catalogMatches": [
+      {
+        "id": "701b70e7-2126-4b4b-b1db-ea5295b43bfe",
+        "name": "Radio Plus Agadir FM 92.4",
+        "country": "MA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://a5.asurahosting.com:7980/radio.mp3",
+    "checkedAt": "2026-09-13T09:06:13.863015+00:00",
+    "catalogMatches": [
+      {
+        "id": "377ec7c3-41fd-48d0-ab98-0c2485ec7d4d",
+        "name": "Radio MFM",
+        "country": "MA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+    "checkedAt": "2026-09-13T09:06:13.863001+00:00",
+    "catalogMatches": [
+      {
+        "id": "f437a938-2f30-4109-8f52-cbb599e11b03",
+        "name": "Radio Mars",
+        "country": "MA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/une3a02mb",
+    "checkedAt": "2026-09-13T09:06:13.863088+00:00",
+    "catalogMatches": [
+      {
+        "id": "b019fb4e-adfd-43a9-a00d-68e086e0b06f",
+        "name": "MA:-Hit Radio Maroc",
+        "country": "MA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://medradio.ice.infomaniak.ch/medradio-128.mp3",
+    "checkedAt": "2026-09-13T09:06:13.863077+00:00",
+    "catalogMatches": [
+      {
+        "id": "a5acbf43-ebe5-41b9-aba0-a21388484e39",
+        "name": "Med Radio",
+        "country": "MA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3",
+    "checkedAt": "2026-09-13T09:06:13.863068+00:00",
+    "catalogMatches": [
+      {
+        "id": "5769fe09-56d6-11e8-b0ce-52543be04c81",
+        "name": "Only rai",
+        "country": "MA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/ivdufrl7q0quv",
+    "checkedAt": "2026-09-13T09:06:13.863125+00:00",
+    "catalogMatches": [
+      {
+        "id": "6a11c952-ea0c-4887-99a3-96b0139ee3fc",
+        "name": "Rap Lbeldi Maroc - Hip Hop Music from Morocco FR AR",
+        "country": "MA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.yabiladi.com:8102/;stream.mp3",
+    "checkedAt": "2026-09-13T09:06:13.863136+00:00",
+    "catalogMatches": [
+      {
+        "id": "9d874da9-550c-4176-a595-8ee83e0c72bc",
+        "name": "Yabiladi Chaabi Maroc",
+        "country": "MA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/5bxh2nh0x1zuv?1681882617017",
+    "checkedAt": "2026-09-13T09:06:13.863142+00:00",
+    "catalogMatches": [
+      {
+        "id": "688986ac-3229-4adc-a96c-fcfe079328fe",
+        "name": "Adwaafm",
+        "country": "MA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.skyrock.net/s/casa_aac_64k",
+    "checkedAt": "2026-09-13T09:06:13.863129+00:00",
+    "catalogMatches": [
+      {
+        "id": "66c753bc-f48c-4ad9-bdea-b272c7125fa8",
+        "name": "Skyrock Casablanca",
+        "country": "MA"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

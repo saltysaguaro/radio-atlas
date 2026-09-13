@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://stream.zeno.fm/cub84trbgy5tv",
+    "checkedAt": "2026-09-11T18:39:23.637565+00:00",
+    "catalogMatches": [
+      {
+        "id": "dd008ad3-f005-4c4c-a0c1-15d4fc62621c",
+        "name": "Radio Jamaica 94FM",
+        "country": "JM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/ebqnzkvyv9duv",
+    "checkedAt": "2026-09-11T18:39:23.637639+00:00",
+    "catalogMatches": [
+      {
+        "id": "20164ed9-c400-4aa1-8e73-ebb8dd5d8401",
+        "name": "Radio Jamaica 94 FM",
+        "country": "JM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://alphaboys-live.streamguys1.com/alphaboys.mp3",
+    "checkedAt": "2026-09-11T18:39:23.637623+00:00",
+    "catalogMatches": [
+      {
+        "id": "44750f0f-09e0-11e9-a80b-52543be04c81",
+        "name": "Alpha Boys School Radio",
+        "country": "JM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-37.zeno.fm/zpksre88rm0uv",
+    "checkedAt": "2026-09-11T18:39:23.637694+00:00",
+    "catalogMatches": [
+      {
+        "id": "5283ecd5-d4b6-4487-82ce-9d64dd086089",
+        "name": "Gospel FM Jamaica",
+        "country": "JM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.iriefm.net:8008/stream",
+    "checkedAt": "2026-09-11T18:39:23.637713+00:00",
+    "catalogMatches": [
+      {
+        "id": "78525119-ac0d-48ad-bd5d-bae5ed512dba",
+        "name": "Irie FM",
+        "country": "JM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.radioking.com/play/ghetto-vibes-radio-station",
+    "checkedAt": "2026-09-11T18:39:23.637703+00:00",
+    "catalogMatches": [
+      {
+        "id": "d9d78c50-3766-4e74-8f67-1cd7d878f2f4",
+        "name": "ghetto vibes radio",
+        "country": "JM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://listen.radioking.com/radio/459389/stream/514595",
+    "checkedAt": "2026-09-11T18:39:23.637759+00:00",
+    "catalogMatches": [
+      {
+        "id": "cf445b4e-9fd4-41d4-918a-389280401cd3",
+        "name": "Fyah 105",
+        "country": "JM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/4uw093pbyvduv",
+    "checkedAt": "2026-09-11T18:39:23.637771+00:00",
+    "catalogMatches": [
+      {
+        "id": "69fde6c5-c30e-4022-adbd-61ec95d49718",
+        "name": "Omega KLAS Radio - God and Sports",
+        "country": "JM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://usa19.fastcast4u.com:7430/;",
+    "checkedAt": "2026-09-11T18:39:23.637781+00:00",
+    "catalogMatches": [
+      {
+        "id": "bd420687-5a01-4a74-86a8-eb9a161deaf3",
+        "name": "Irie FM",
+        "country": "JM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://edge.mixlr.com/channel/ibrdq",
+    "checkedAt": "2026-09-11T18:39:23.637763+00:00",
+    "catalogMatches": [
+      {
+        "id": "ae6f8fcb-b1d7-4876-8476-4c8db9b10da6",
+        "name": "SunCity 104.9 FM",
+        "country": "JM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

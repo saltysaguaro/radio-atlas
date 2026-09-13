@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://icecast1.sere.plus/2Day",
+    "checkedAt": "2026-09-10T00:55:50.234527+00:00",
+    "catalogMatches": [
+      {
+        "id": "fbc-2day",
+        "name": "2Day FM",
+        "country": "FJ"
+      },
+      {
+        "id": "fbc-2day",
+        "name": "2Day FM",
+        "country": "FJ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast1.sere.plus/Bula",
+    "checkedAt": "2026-09-10T00:55:50.234686+00:00",
+    "catalogMatches": [
+      {
+        "id": "fbc-bula",
+        "name": "Bula FM",
+        "country": "FJ"
+      },
+      {
+        "id": "fbc-bula",
+        "name": "Bula FM",
+        "country": "FJ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast1.sere.plus/RFOne",
+    "checkedAt": "2026-09-10T00:55:50.234656+00:00",
+    "catalogMatches": [
+      {
+        "id": "fbc-radio-fiji-one",
+        "name": "Radio Fiji One",
+        "country": "FJ"
+      },
+      {
+        "id": "fbc-radio-fiji-one",
+        "name": "Radio Fiji One",
+        "country": "FJ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast1.sere.plus/RFTwo",
+    "checkedAt": "2026-09-10T00:55:50.234786+00:00",
+    "catalogMatches": [
+      {
+        "id": "fbc-radio-fiji-two",
+        "name": "Radio Fiji Two",
+        "country": "FJ"
+      },
+      {
+        "id": "fbc-radio-fiji-two",
+        "name": "Radio Fiji Two",
+        "country": "FJ"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

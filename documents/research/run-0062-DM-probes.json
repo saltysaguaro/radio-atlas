@@ -1,0 +1,77 @@
+[
+  {
+    "url": "https://stream.dbcradio.net:8005/live",
+    "checkedAt": "2026-09-09T11:47:45.669113+00:00",
+    "catalogMatches": [
+      {
+        "id": "12347e64-99d2-42d4-8b67-7dcabef19665",
+        "name": "DBS Radio",
+        "country": "DM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://bostonstreaminge.net/8006/stream",
+    "checkedAt": "2026-09-09T11:47:45.669184+00:00",
+    "catalogMatches": [
+      {
+        "id": "42aaf446-c042-4c0d-8fff-966b4d8773f6",
+        "name": "Fabulosa 96.7",
+        "country": "DM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://cdn.comeseetv.com:8010/dominicacatholicradio?1740579480509",
+    "checkedAt": "2026-09-09T11:47:45.669173+00:00",
+    "catalogMatches": [
+      {
+        "id": "59bd1446-fd78-4efd-ad6f-094aedfc5b6d",
+        "name": "Dominica Catholic Radio",
+        "country": "DM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://cdn.comeseetv.com:8000/vol",
+    "checkedAt": "2026-09-09T11:47:45.669242+00:00",
+    "catalogMatches": [
+      {
+        "id": "e7efcff9-e9c3-4598-b7a2-8dd7cc873d9d",
+        "name": "Voice of Life Radio",
+        "country": "DM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://s10.myradiostream.com/:4212/listen.mp3",
+    "checkedAt": "2026-09-09T11:47:45.669252+00:00",
+    "catalogMatches": [
+      {
+        "id": "4b793fca-627f-4968-854e-5fa296189ce0",
+        "name": "En Ba Mango",
+        "country": "DM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

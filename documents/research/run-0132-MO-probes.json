@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://radiocast.rtp.pt/antena1madeira80a.mp3",
+    "checkedAt": "2026-09-12T13:51:36.924597+00:00",
+    "catalogMatches": [
+      {
+        "id": "59a7497f-5f04-4b64-8fdc-3fd7ef55d7a3",
+        "name": "RTP Macau - 97.1 FM",
+        "country": "MO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://lhttp.qtfm.cn/live/20533/64k.mp3",
+    "checkedAt": "2026-09-12T13:51:36.924653+00:00",
+    "catalogMatches": [
+      {
+        "id": "deb070ed-fa67-411a-afa4-b36bd45a15be",
+        "name": "Lotus FM Macau HD - 97.4 FM",
+        "country": "MO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web",
+    "checkedAt": "2026-09-12T13:51:36.924665+00:00",
+    "catalogMatches": [
+      {
+        "id": "dd9cddc3-e19b-40be-8f22-c5e20420b4cb",
+        "name": "YW City Radio - Macau 954 AM",
+        "country": "MO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://nl.digitalrm.pt:8028/stream",
+    "checkedAt": "2026-09-12T13:51:36.924728+00:00",
+    "catalogMatches": [
+      {
+        "id": "8492f4b4-8eb8-488f-b5cf-e81025882b3b",
+        "name": "Record FM 100.3 Macau",
+        "country": "MO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

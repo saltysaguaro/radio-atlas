@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac",
+    "checkedAt": "2026-09-10T03:57:41.780468+00:00",
+    "catalogMatches": [
+      {
+        "id": "2bdf5d11-cf73-4595-a891-f6093f52ffd8",
+        "name": "Chérie FM",
+        "country": "GF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://guyane.ice.infomaniak.ch/guyane-128.mp3",
+    "checkedAt": "2026-09-10T03:57:41.780544+00:00",
+    "catalogMatches": [
+      {
+        "id": "2bd4cf82-d195-11e9-a861-52543be04c81",
+        "name": "Guyane 1ère",
+        "country": "GF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://str0.creacast.com/metisfm.mp3",
+    "checkedAt": "2026-09-10T03:57:41.780531+00:00",
+    "catalogMatches": [
+      {
+        "id": "975e0a32-aee2-4aa4-9474-93867cb80f09",
+        "name": "Métis FM",
+        "country": "GF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.nrjguyane.fm/",
+    "checkedAt": "2026-09-10T03:57:41.780603+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

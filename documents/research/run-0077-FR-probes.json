@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+    "checkedAt": "2026-09-10T02:56:50.023369+00:00",
+    "catalogMatches": [
+      {
+        "id": "1cfb151d-a341-11e9-a787-52543be04c81",
+        "name": "France Info",
+        "country": "FR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+    "checkedAt": "2026-09-10T02:56:50.023428+00:00",
+    "catalogMatches": [
+      {
+        "id": "7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d",
+        "name": "RMC FR",
+        "country": "FR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.nrjaudio.fm/oua8a3w2dqao",
+    "checkedAt": "2026-09-10T02:56:50.023435+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.europe1.fr/europe1.aac",
+    "checkedAt": "2026-09-10T02:56:50.023598+00:00",
+    "catalogMatches": [
+      {
+        "id": "dfcef843-6bf9-40f6-b3fe-2b224df86e48",
+        "name": "Europe 1",
+        "country": "FR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

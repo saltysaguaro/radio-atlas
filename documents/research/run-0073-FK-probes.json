@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://streaming.broadcastradio.com:8332/flklnd",
+    "checkedAt": "2026-09-09T22:53:54.013396+00:00",
+    "catalogMatches": [
+      {
+        "id": "97887f52-540f-409e-a625-967e4698d829",
+        "name": "Falklands Radio 530 Stanley",
+        "country": "FK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.broadcastradio.com:8330/flklnd",
+    "checkedAt": "2026-09-09T22:53:54.013453+00:00",
+    "catalogMatches": [
+      {
+        "id": "a170dccb-c40f-11e9-8502-52543be04c81",
+        "name": "Falklands Radio",
+        "country": "FK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac",
+    "checkedAt": "2026-09-09T22:53:54.013460+00:00",
+    "catalogMatches": [
+      {
+        "id": "873e8220-51cd-43ca-96bd-6dcd09ecc884",
+        "name": "BFBS Falklands",
+        "country": "FK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.broadcastradio.com:8332/flklnd?1721893143541=",
+    "checkedAt": "2026-09-09T22:53:54.013536+00:00",
+    "catalogMatches": [
+      {
+        "id": "c7571d24-b6b2-43f4-b9ba-2e42a1cbc45e",
+        "name": "Falklands Radio",
+        "country": "FK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

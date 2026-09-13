@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://kadushi.westream.cloud/listen/mas99/live",
+    "checkedAt": "2026-09-09T06:45:02.235313+00:00",
+    "catalogMatches": [
+      {
+        "id": "da169b36-d453-450e-90c9-274c65c15b2c",
+        "name": "Radio Mas 99.7 FM",
+        "country": "CW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://kadushi.westream.cloud/listen/radioactive/RadioActive",
+    "checkedAt": "2026-09-09T06:45:02.235382+00:00",
+    "catalogMatches": [
+      {
+        "id": "dfd8b19d-76bc-4d6b-bb41-d5b452d01cdc",
+        "name": "Radio Active 104.5 FM",
+        "country": "CW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.paradisefm.cw/ParadiseFM",
+    "checkedAt": "2026-09-09T06:45:02.235371+00:00",
+    "catalogMatches": [
+      {
+        "id": "a393b4b5-4964-4d81-bdff-9b3bc9f23081",
+        "name": "Paradise FM 103.1 Curacao",
+        "country": "CW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radiostreamfm.com:8130/radio.mp3",
+    "checkedAt": "2026-09-09T06:45:02.235435+00:00",
+    "catalogMatches": [
+      {
+        "id": "961f6e31-0e80-4f8a-87b3-721592fcda2e",
+        "name": "Dolfijn FM 97.3",
+        "country": "CW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

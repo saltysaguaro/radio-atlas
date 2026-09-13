@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://live.advailo.com/audio/mp3/icecast.audio",
+    "checkedAt": "2026-09-12T05:48:03.356475+00:00",
+    "catalogMatches": [
+      {
+        "id": "08c28678-83d8-4363-8c09-ca8ce8cfbbcf",
+        "name": "StarFM",
+        "country": "LV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio2.radioenergy.lv:9000/",
+    "checkedAt": "2026-09-12T05:48:03.356549+00:00",
+    "catalogMatches": [
+      {
+        "id": "962ce682-0601-11e8-ae97-52543be04c81",
+        "name": "Radio ENERGY.LV - Russian",
+        "country": "LV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live.relaxfm.lv/08",
+    "checkedAt": "2026-09-12T05:48:03.356533+00:00",
+    "catalogMatches": [
+      {
+        "id": "1d229119-d55e-444c-894e-b78a8e082508",
+        "name": "Radio Melodija",
+        "country": "LV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://25443.live.streamtheworld.com/RETRO_LATVIJA_FM_70_80_90S.mp3",
+    "checkedAt": "2026-09-12T05:48:03.356619+00:00",
+    "catalogMatches": [
+      {
+        "id": "bb8f3cfa-b120-4565-84af-431886af80e3",
+        "name": "Retro FM 70s 80s 90s",
+        "country": "LV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live.retrofm.lv/retrofmlatvia",
+    "checkedAt": "2026-09-12T05:48:03.356609+00:00",
+    "catalogMatches": [
+      {
+        "id": "962cea00-0601-11e8-ae97-52543be04c81",
+        "name": "Ретро FM Рига (Retro FM)",
+        "country": "LV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.ehrhiti.lv:8000/Stream_RE.aac",
+    "checkedAt": "2026-09-12T05:48:03.356601+00:00",
+    "catalogMatches": [
+      {
+        "id": "8cb977c6-433f-482d-a8e1-32ae2f830d46",
+        "name": "Retro FM Latvija",
+        "country": "LV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.radioskonto.lv:8443/stereo",
+    "checkedAt": "2026-09-12T05:48:03.356655+00:00",
+    "catalogMatches": [
+      {
+        "id": "3bf92492-e4e9-4eca-9355-2fa997c6c908",
+        "name": "Skonto",
+        "country": "LV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live.relaxfm.lv/03",
+    "checkedAt": "2026-09-12T05:48:03.356664+00:00",
+    "catalogMatches": [
+      {
+        "id": "4746a29f-2beb-499a-af1d-ec5391d31632",
+        "name": "Авторадио Латвия",
+        "country": "LV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://topradio.live.advailo.com/topradio/mp3/icecast.audio",
+    "checkedAt": "2026-09-12T05:48:03.356670+00:00",
+    "catalogMatches": [
+      {
+        "id": "9a22e57f-7b7c-4e10-84db-e9b46479a8d6",
+        "name": "TOP radio",
+        "country": "LV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://play.radioking.io/nordic-chillout-radio/736489",
+    "checkedAt": "2026-09-12T05:48:03.356659+00:00",
+    "catalogMatches": [
+      {
+        "id": "fd57ae03-5547-4d41-9540-33059a7a42c5",
+        "name": "Nordic Chillout Radio",
+        "country": "LV"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

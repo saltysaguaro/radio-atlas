@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://stream.zeno.fm/5z5w8n4u4p8uv",
+    "checkedAt": "2026-09-10T21:10:36.873921+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/iwioelqe6qwtv",
+    "checkedAt": "2026-09-10T21:10:44.170429+00:00",
+    "catalogMatches": [
+      {
+        "id": "d931f97a-2136-41da-a4c5-7f2d66814bf4",
+        "name": "Rádio Voz da Guiné",
+        "country": "GW"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://stream.radio.co/sa70b464db/listen",
+    "checkedAt": "2026-09-10T19:08:39.713229+00:00",
+    "catalogMatches": [
+      {
+        "id": "93641447-cd25-435f-bb2e-3c7072336d0d",
+        "name": "Riduna-radio.com",
+        "country": "GG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live.akamaized.net/pool_904/live/ww/bbc_radio_guernsey/bbc_radio_guernsey.isml/bbc_radio_guernsey-audio=96000.norewind.m3u8",
+    "checkedAt": "2026-09-10T19:08:39.713298+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

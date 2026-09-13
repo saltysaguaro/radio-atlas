@@ -1,0 +1,77 @@
+[
+  {
+    "url": "https://stream.zeno.fm/c6cvywws538uv",
+    "checkedAt": "2026-09-13T06:05:09.833437+00:00",
+    "catalogMatches": [
+      {
+        "id": "e06f5e4b-3b17-4fe1-a4d4-5fe85131d580",
+        "name": "Ehlelradio",
+        "country": "MN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://c2.radioboss.fm/stream/394",
+    "checkedAt": "2026-09-13T06:05:09.833484+00:00",
+    "catalogMatches": [
+      {
+        "id": "b1aae7b8-8916-4016-b57a-c2bb08704510",
+        "name": "Family Radio FM",
+        "country": "MN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://lhttp-hw.qtfm.cn/live/20973/64k.mp3",
+    "checkedAt": "2026-09-13T06:05:09.833490+00:00",
+    "catalogMatches": [
+      {
+        "id": "83cd32c9-2461-468f-afe8-4be8e5a4ee23",
+        "name": "内蒙古草原之声 Inner Mongolia Voice of Grassland",
+        "country": "MN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/z3sbdspshrhvv",
+    "checkedAt": "2026-09-13T06:05:09.833561+00:00",
+    "catalogMatches": [
+      {
+        "id": "4bb00441-af54-46d4-9123-4a781743c3da",
+        "name": "Xadun 107.5",
+        "country": "MN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://a6.asurahosting.com:7210/radio.mp3",
+    "checkedAt": "2026-09-13T06:05:09.833576+00:00",
+    "catalogMatches": [
+      {
+        "id": "38f89730-fda4-4a95-b6d2-51201917080c",
+        "name": "Elgen Nutag",
+        "country": "MN"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

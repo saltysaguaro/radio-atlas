@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://28563.live.streamtheworld.com/KAN_BET.mp3",
+    "checkedAt": "2026-09-11T15:37:22.748426+00:00",
+    "catalogMatches": [
+      {
+        "id": "c2b724db-9ddb-41e2-b190-324014c55467",
+        "name": "Kan Bet",
+        "country": "IL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz",
+    "checkedAt": "2026-09-11T15:37:22.748497+00:00",
+    "catalogMatches": [
+      {
+        "id": "45700958-16ab-422a-85bb-d402722463f0",
+        "name": "Galgalatz",
+        "country": "IL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://jointil.com/stream-blues",
+    "checkedAt": "2026-09-11T15:37:22.748486+00:00",
+    "catalogMatches": [
+      {
+        "id": "13d86ff8-058f-44e6-ba21-ccd065fb5dca",
+        "name": "#joint radio Blues Rock",
+        "country": "IL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+    "checkedAt": "2026-09-11T15:37:22.748561+00:00",
+    "catalogMatches": [
+      {
+        "id": "91935dcb-e4fb-49fc-81d9-8b8f8e2549d5",
+        "name": "Radio 103FM",
+        "country": "IL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3",
+    "checkedAt": "2026-09-11T15:37:22.748555+00:00",
+    "catalogMatches": [
+      {
+        "id": "e8c19fc3-7409-4999-a9dd-b3d81cf934ed",
+        "name": "KAN Gimel כאן גימל",
+        "country": "IL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+    "checkedAt": "2026-09-11T15:37:22.748548+00:00",
+    "catalogMatches": [
+      {
+        "id": "3b20727f-de34-40b3-84ba-f7ba1ed9821b",
+        "name": "اذاعة الشمس - A-Shams",
+        "country": "IL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://glzwizzlv.bynetcdn.com/glz_mp3",
+    "checkedAt": "2026-09-11T15:37:22.748658+00:00",
+    "catalogMatches": [
+      {
+        "id": "962326cb-0601-11e8-ae97-52543be04c81",
+        "name": "Galei Zahal",
+        "country": "IL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://jointil.com/stream-beat",
+    "checkedAt": "2026-09-11T15:37:22.748640+00:00",
+    "catalogMatches": [
+      {
+        "id": "0324180d-596a-4b6b-a486-67e606e23d36",
+        "name": "#joint radio Beat Trance",
+        "country": "IL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://29073.live.streamtheworld.com/KAN_88.mp3",
+    "checkedAt": "2026-09-11T15:37:22.748645+00:00",
+    "catalogMatches": [
+      {
+        "id": "cf46c74f-1c46-4956-a3a5-245fbe7b4d6d",
+        "name": "88 FM",
+        "country": "IL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://glzicylv01.bynetcdn.com/glglz_mp3",
+    "checkedAt": "2026-09-11T15:37:22.748634+00:00",
+    "catalogMatches": [
+      {
+        "id": "8407749b-aa65-4aee-b503-bd6e196bea9d",
+        "name": "Galgalatz 91.8 FM",
+        "country": "IL"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

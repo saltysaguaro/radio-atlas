@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://radio.securenetsystems.net/v5/KUSG",
+    "checkedAt": "2026-09-10T17:07:36.351255+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://khmg.org/",
+    "checkedAt": "2026-09-10T17:07:36.351353+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://staging.example.invalid/guam",
+    "checkedAt": "2026-09-10T17:07:36.351442+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

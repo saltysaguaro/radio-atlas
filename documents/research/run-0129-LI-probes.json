@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://radiostream.radiobutler.com/7e9d5eb6-9249-4c7a-9f1c-6d4b9c7a48a8",
+    "checkedAt": "2026-09-12T10:50:03.953091+00:00",
+    "catalogMatches": [
+      {
+        "id": "0e837c0b-7b98-4e5c-b4e4-27b8b12c506d",
+        "name": "Radio Vaterland",
+        "country": "LI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

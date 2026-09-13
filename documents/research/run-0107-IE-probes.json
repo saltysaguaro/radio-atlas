@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://icecast.rte.ie/radio1",
+    "checkedAt": "2026-09-11T13:36:20.788712+00:00",
+    "catalogMatches": [
+      {
+        "id": "8643cfcb-a7bb-4c46-8391-fffe266bce16",
+        "name": "RTE1",
+        "country": "IE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://edge.audioxi.com/NT",
+    "checkedAt": "2026-09-11T13:36:20.788791+00:00",
+    "catalogMatches": [
+      {
+        "id": "d037031b-f31e-4298-b36e-654eaad6416e",
+        "name": "Newstalk",
+        "country": "IE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.audioxi.com/CLASSIC",
+    "checkedAt": "2026-09-11T13:36:20.788779+00:00",
+    "catalogMatches": [
+      {
+        "id": "7e75d295-da3d-41e9-9d69-757e7a281821",
+        "name": "Classic Hits 4FM",
+        "country": "IE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.audioxi.com/TD",
+    "checkedAt": "2026-09-11T13:36:20.788866+00:00",
+    "catalogMatches": [
+      {
+        "id": "d0a1da9f-46b3-11e9-aa55-52543be04c81",
+        "name": "Today FM",
+        "country": "IE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ec1.everestcast.host:1490/stream?xi1amefeqvksbquhue3jidp6boikushz",
+    "checkedAt": "2026-09-11T13:36:20.788847+00:00",
+    "catalogMatches": [
+      {
+        "id": "cfb55d7d-9576-4dc8-ac00-e8e912e10578",
+        "name": "Deephouse radio",
+        "country": "IE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.rte.ie/lyric",
+    "checkedAt": "2026-09-11T13:36:20.788837+00:00",
+    "catalogMatches": [
+      {
+        "id": "c96b0b99-6dc6-4b76-9971-b48a55c628ca",
+        "name": "RTÉ lyric fm",
+        "country": "IE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icy-zurich.mpbnl.nl/rrr",
+    "checkedAt": "2026-09-11T13:36:20.788934+00:00",
+    "catalogMatches": [
+      {
+        "id": "b370d015-aeb0-484a-b4e4-6bb8cc228eea",
+        "name": "Raidió Rí-Rá",
+        "country": "IE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.rte.ie/2fm",
+    "checkedAt": "2026-09-11T13:36:20.788929+00:00",
+    "catalogMatches": [
+      {
+        "id": "d1f3bbb8-bb22-4efd-9f23-0e22ad2ae209",
+        "name": "RTE 2 FM",
+        "country": "IE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live-bauerie.sharp-stream.com/NTAAC",
+    "checkedAt": "2026-09-11T13:36:20.788924+00:00",
+    "catalogMatches": [
+      {
+        "id": "52637865-3e18-49af-b28d-191f4ff201eb",
+        "name": "Newstalk Ireland AAC",
+        "country": "IE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://gemradionw.radioca.st/;stream.nsv",
+    "checkedAt": "2026-09-11T13:36:20.788917+00:00",
+    "catalogMatches": [
+      {
+        "id": "2e2e3729-2304-474c-a4d1-eeb91609f9bd",
+        "name": "Gem Radio New Wave",
+        "country": "IE"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

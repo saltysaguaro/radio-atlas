@@ -1,0 +1,107 @@
+[
+  {
+    "url": "https://stream.laut.fm/alive",
+    "checkedAt": "2026-09-11T14:37:22.791630+00:00",
+    "catalogMatches": [
+      {
+        "id": "9647b07f-0601-11e8-ae97-52543be04c81",
+        "name": "Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)",
+        "country": "IM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac",
+    "checkedAt": "2026-09-11T14:37:22.791701+00:00",
+    "catalogMatches": [
+      {
+        "id": "a1b1993f-49b1-11e8-b1b0-52543be04c81",
+        "name": "Manx Radio FM",
+        "country": "IM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ukwesta.streaming.broadcast.radio/energyfm",
+    "checkedAt": "2026-09-11T14:37:22.791690+00:00",
+    "catalogMatches": [
+      {
+        "id": "0b3b3d2e-da13-43ca-9063-880174892737",
+        "name": "EnergyFM",
+        "country": "IM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://play.radioking.io/ian-byrne",
+    "checkedAt": "2026-09-11T14:37:22.791756+00:00",
+    "catalogMatches": [
+      {
+        "id": "1cd0cfad-6dcf-4491-b9ec-d695ae763926",
+        "name": "Isle of Man Free Radio",
+        "country": "IM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ukwesta.streaming.broadcast.radio:15580/energyfm",
+    "checkedAt": "2026-09-11T14:37:22.791750+00:00",
+    "catalogMatches": [
+      {
+        "id": "bdbe7b6d-2d2b-41a8-ac38-bccf76aab9d8",
+        "name": "Energy FM (Isle Of Man)",
+        "country": "IM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://n07a-eu.rcs.revma.com/0kv9v43t87zuv",
+    "checkedAt": "2026-09-11T14:37:22.791742+00:00",
+    "catalogMatches": [
+      {
+        "id": "fd3cd8c1-d551-46da-8b09-e02060028ea8",
+        "name": "3FM (128Kbps MP3)",
+        "country": "IM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://n07a-eu.rcs.revma.com/s1q7dc4c0znwv",
+    "checkedAt": "2026-09-11T14:37:22.791805+00:00",
+    "catalogMatches": [
+      {
+        "id": "1167f32f-686b-470e-b97b-88f3057eb4dc",
+        "name": "3FM (48Kbps AAC+)",
+        "country": "IM"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

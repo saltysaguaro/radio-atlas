@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream",
+    "checkedAt": "2026-09-10T12:05:52.669814+00:00",
+    "catalogMatches": [
+      {
+        "id": "a0d83caf-a3c2-489c-af9d-f50c5b8e34c5",
+        "name": "GBC Radio Gibraltar",
+        "country": "GI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3",
+    "checkedAt": "2026-09-10T12:05:52.669920+00:00",
+    "catalogMatches": [
+      {
+        "id": "96484b03-0601-11e8-ae97-52543be04c81",
+        "name": "BFBS Gibraltar",
+        "country": "GI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice.fabricahost.com.br/alphafm1021",
+    "checkedAt": "2026-09-10T12:05:52.669928+00:00",
+    "catalogMatches": [
+      {
+        "id": "33ce75de-9b6c-4df9-b469-b98439a026e2",
+        "name": "Alpha FM",
+        "country": "GI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://enacast.com/radioseu/streams/HD",
+    "checkedAt": "2026-09-10T12:05:52.670022+00:00",
+    "catalogMatches": [
+      {
+        "id": "df9b3aa3-6c58-4fb7-863d-35a7277562fd",
+        "name": "RadioSeu",
+        "country": "GI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://s2.myradiostream.com/32910/listen.mp3",
+    "checkedAt": "2026-09-10T12:05:52.670013+00:00",
+    "catalogMatches": [
+      {
+        "id": "a9f842e9-b9aa-4e1b-a7f3-57a287314e21",
+        "name": "Radio Gibraltar Plus 100.5",
+        "country": "GI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://sh.uk.audio-stream.com/proxy/matorr00?mp=/stream",
+    "checkedAt": "2026-09-10T12:05:52.669995+00:00",
+    "catalogMatches": [
+      {
+        "id": "eb25de97-ae64-4dc6-b6f2-1ac60ffff541",
+        "name": "RadioGibraltar MW",
+        "country": "GI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

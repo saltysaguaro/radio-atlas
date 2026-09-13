@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://laotrafm.makrodigital.com/stream/laotrafmquito",
+    "checkedAt": "2026-09-09T14:50:20.734731+00:00",
+    "catalogMatches": [
+      {
+        "id": "133abe4f-85e5-4a3c-9752-d46efd03cad4",
+        "name": "Radio La Otra - 91.3 FM",
+        "country": "EC"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streamingecuador.com:7030/stream?1657848016283",
+    "checkedAt": "2026-09-09T14:50:20.734780+00:00",
+    "catalogMatches": [
+      {
+        "id": "e046653f-0b37-42b8-a52d-e8ae6ed6ab5f",
+        "name": "Radio América 104.5 FM",
+        "country": "EC"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-36.zeno.fm/as3xhhc0ts8uv?_=1",
+    "checkedAt": "2026-09-09T14:50:20.734787+00:00",
+    "catalogMatches": [
+      {
+        "id": "fdb17a21-7149-48a1-a12f-1acbf87655e6",
+        "name": "Radio Zaracay 100.5 FM",
+        "country": "EC"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streamingecuador.com:7051/stream",
+    "checkedAt": "2026-09-09T14:50:20.734853+00:00",
+    "catalogMatches": [
+      {
+        "id": "43003dc7-d9a2-4931-aeb0-2433a5fe10a7",
+        "name": "Los 40 Ecuador",
+        "country": "EC"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

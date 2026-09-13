@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://linuxfreelancer.com:8443/test.mp3",
+    "checkedAt": "2026-09-09T18:51:19.217518+00:00",
+    "catalogMatches": [
+      {
+        "id": "dd9900b9-2ce3-4231-a0f7-b80f95ee24d8",
+        "name": "Eritrean/Ethiopian music",
+        "country": "ER"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://linktr.ee/radioerena",
+    "checkedAt": "2026-09-09T18:51:19.217645+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://maezersemay.org/",
+    "checkedAt": "2026-09-09T18:51:19.217584+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.tingfm.com/radio/88654",
+    "checkedAt": "2026-09-09T18:51:19.217767+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

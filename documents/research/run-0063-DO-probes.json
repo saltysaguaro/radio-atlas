@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://stream-49.zeno.fm/y0br5ck4ququv?zs=2R5Njz6XShSzNF_ProbdIA",
+    "checkedAt": "2026-09-09T12:49:22.206300+00:00",
+    "catalogMatches": [
+      {
+        "id": "bb4c2226-6ccd-4470-b8b3-d6ba0f9ac353",
+        "name": "Ritmo 96.5 FM",
+        "country": "DO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/sse58hcighnvv?dist=los40-web-live_streaming_play",
+    "checkedAt": "2026-09-09T12:49:22.206376+00:00",
+    "catalogMatches": [
+      {
+        "id": "c7cbc7f7-1e5a-478f-adb6-424785835217",
+        "name": "Los 40 República Dominicana",
+        "country": "DO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a",
+    "checkedAt": "2026-09-09T12:49:22.206364+00:00",
+    "catalogMatches": [
+      {
+        "id": "962f1cda-0601-11e8-ae97-52543be04c81",
+        "name": "Radio Cimarrona",
+        "country": "DO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.z101digital.com/z101?cb=1779372229211",
+    "checkedAt": "2026-09-09T12:49:22.206430+00:00",
+    "catalogMatches": [
+      {
+        "id": "9736541a-14a6-4a36-a904-9f7d82412416",
+        "name": "La Z101 Fm",
+        "country": "DO"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

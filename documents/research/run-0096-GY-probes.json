@@ -1,0 +1,107 @@
+[
+  {
+    "url": "https://cast4.asurahosting.com/proxy/ncn1025/stream",
+    "checkedAt": "2026-09-11T02:22:16.648435+00:00",
+    "catalogMatches": [
+      {
+        "id": "782cffa5-b5a2-4a1d-bcc3-85a9a3c06ee7",
+        "name": "102.5 FM Voice of Guyana",
+        "country": "GY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.radio.co/s9668e2ab5/listen",
+    "checkedAt": "2026-09-11T02:22:16.648488+00:00",
+    "catalogMatches": [
+      {
+        "id": "4fecec89-df93-4bc7-ac73-5506ed313128",
+        "name": "Radio Guyana Inc - Georgetown 89.5 FM | Essequibo 89.3 FM | Berbice 89.7 FM",
+        "country": "GY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://a2.asurahosting.com:8010/radio.mp3",
+    "checkedAt": "2026-09-11T02:22:16.648496+00:00",
+    "catalogMatches": [
+      {
+        "id": "c887d2ed-419b-40f9-a741-e6574f8c6715",
+        "name": "GoMoseley Radio",
+        "country": "GY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://s2.radio.co/s77716fe53/listen",
+    "checkedAt": "2026-09-11T02:22:16.648562+00:00",
+    "catalogMatches": [
+      {
+        "id": "d69579b9-d9d0-4a09-ab95-213f1f979ecc",
+        "name": "88.5 Rock FM",
+        "country": "GY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.broadcastradio.com/brutal",
+    "checkedAt": "2026-09-11T02:22:16.648580+00:00",
+    "catalogMatches": [
+      {
+        "id": "d62a9816-aea5-40c9-b109-a538c57d693a",
+        "name": "97.5 FM MAAD",
+        "country": "GY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://auds1.intacs.com/ntnradio",
+    "checkedAt": "2026-09-11T02:22:16.648571+00:00",
+    "catalogMatches": [
+      {
+        "id": "96486b05-0601-11e8-ae97-52543be04c81",
+        "name": "NTN Radio 89.1 Georgetown",
+        "country": "GY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.chwitiweb.com/listen/chwitiweb/radio.mp3",
+    "checkedAt": "2026-09-11T02:22:16.648643+00:00",
+    "catalogMatches": [
+      {
+        "id": "e07256db-b061-4fd4-815f-b54563bb7801",
+        "name": "chwitiweb-new",
+        "country": "GY"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

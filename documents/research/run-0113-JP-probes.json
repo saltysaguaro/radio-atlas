@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://radio.gotanno.love/;",
+    "checkedAt": "2026-09-11T19:41:24.837360+00:00",
+    "catalogMatches": [
+      {
+        "id": "fdffc27f-a096-4be8-b3bf-2c51a943a1d1",
+        "name": "Gotanno FM 89.2",
+        "country": "JP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://quincy.torontocast.com:2020/stream.mp3",
+    "checkedAt": "2026-09-11T19:41:24.837435+00:00",
+    "catalogMatches": [
+      {
+        "id": "e0f2f4cb-d4c3-48ee-8668-333329e158e0",
+        "name": "Japan Hits - asia DREAM radio",
+        "country": "JP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/qpn8mkt8c4duv",
+    "checkedAt": "2026-09-11T19:41:24.837423+00:00",
+    "catalogMatches": [
+      {
+        "id": "1adf1539-e647-44c3-85d8-b437b768fb8c",
+        "name": "Anime Para Ti",
+        "country": "JP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3",
+    "checkedAt": "2026-09-11T19:41:24.837504+00:00",
+    "catalogMatches": [
+      {
+        "id": "9766d47a-68a3-4a30-8aec-c026f1ec6020",
+        "name": "Jazz Sakura (asia dream radio)",
+        "country": "JP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://play.streamafrica.net/japancitypop",
+    "checkedAt": "2026-09-11T19:41:24.837495+00:00",
+    "catalogMatches": [
+      {
+        "id": "30b09043-9b67-43d7-b9c6-b4401e5cb636",
+        "name": "BOX : Japan City Pop - 日本のシティポップ",
+        "country": "JP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://cast1.torontocast.com:2060/;.mp3",
+    "checkedAt": "2026-09-11T19:41:24.837487+00:00",
+    "catalogMatches": [
+      {
+        "id": "a36cb1a5-f9b5-4739-a86a-987d256b7d0e",
+        "name": "J-Club Club Bandstand",
+        "country": "JP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
+    "checkedAt": "2026-09-11T19:41:24.837542+00:00",
+    "catalogMatches": [
+      {
+        "id": "121df42c-e7a1-4a57-ab0b-a5149ae3956f",
+        "name": "Shonan Beach FM 78.9 湘南ビーチ",
+        "country": "JP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.radio.co/se4a8e6a93/listen",
+    "checkedAt": "2026-09-11T19:41:24.837550+00:00",
+    "catalogMatches": [
+      {
+        "id": "443a5e7e-4392-4930-bbed-10b9af54e32e",
+        "name": "羊飼いラジオ Hitsujikai Radio",
+        "country": "JP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream2.rcast.net/70945",
+    "checkedAt": "2026-09-11T19:41:24.837556+00:00",
+    "catalogMatches": [
+      {
+        "id": "1bca74bf-82e7-4631-87b6-1e96be3bae43",
+        "name": "SOUND UP STATION NFRS",
+        "country": "JP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.stereoanime.com/listen/stereoanime/128",
+    "checkedAt": "2026-09-11T19:41:24.837545+00:00",
+    "catalogMatches": [
+      {
+        "id": "138a0d94-617d-45c6-9164-fe393c140a88",
+        "name": "stereo anime",
+        "country": "JP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

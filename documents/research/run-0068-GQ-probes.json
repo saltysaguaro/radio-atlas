@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://minfopressyculturage.com/direccion-general-de-la-radio/",
+    "checkedAt": "2026-09-09T17:50:47.728172+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radiodirectory.com/Radio_Stations/Africa/Equatorial_Guinea/index.html",
+    "checkedAt": "2026-09-09T17:50:47.728264+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://www.radiomaria.gq/",
+    "checkedAt": "2026-09-09T17:50:47.728357+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radios-lusofonas.com/en/radio-stations/equatorial-guinea/",
+    "checkedAt": "2026-09-09T17:50:47.728424+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  }
+]

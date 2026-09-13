@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://cdn.radioplayer.kg:8443/obondoru64",
+    "checkedAt": "2026-09-12T03:47:02.995305+00:00",
+    "catalogMatches": [
+      {
+        "id": "01d60203-d360-4695-9496-97ee1300aead",
+        "name": "Кыргызстан Обондору (Kyrgyzstan Obondoru)",
+        "country": "KG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice.coldstar.online/low.mp3",
+    "checkedAt": "2026-09-12T03:47:02.995415+00:00",
+    "catalogMatches": [
+      {
+        "id": "4fea1367-c881-4e25-b50b-64591ba7b1b8",
+        "name": "ColdStar.Online Radio (Low quality)",
+        "country": "KG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.tumar.fm:8005/stream",
+    "checkedAt": "2026-09-12T03:47:02.995401+00:00",
+    "catalogMatches": [
+      {
+        "id": "7576f174-f13e-434d-8a91-9537cd8df0b7",
+        "name": "Радио Тумар FM (Radio Tumar FM)",
+        "country": "KG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://liveradio.utrk.kg/1radio",
+    "checkedAt": "2026-09-12T03:47:02.995459+00:00",
+    "catalogMatches": [
+      {
+        "id": "43f5812f-3431-4e82-b58f-ddd17d83a9b8",
+        "name": "Биринчи Radio",
+        "country": "KG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://cdn.radioplayer.kg:8443/suiunchu64",
+    "checkedAt": "2026-09-12T03:47:02.995474+00:00",
+    "catalogMatches": [
+      {
+        "id": "f73925ef-f89f-4959-a924-0b0f37e74e12",
+        "name": "Сүйүнчү FM (Suiunchu FM)",
+        "country": "KG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://ice.coldstar.online/high.ogg",
+    "checkedAt": "2026-09-12T03:47:02.995467+00:00",
+    "catalogMatches": [
+      {
+        "id": "33ecd479-837a-4e5b-bf3a-1d9d00f53e0d",
+        "name": "ColdStar.Online Radio (High quality)",
+        "country": "KG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://stm2.rthk.hk/radio2",
+    "checkedAt": "2026-09-11T06:28:49.771725+00:00",
+    "catalogMatches": [
+      {
+        "id": "2be788be-a558-428b-93b1-6cc6e4a768ff",
+        "name": "RTHK Radio 2",
+        "country": "HK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stm1.rthk.hk/radio1",
+    "checkedAt": "2026-09-11T06:28:49.771780+00:00",
+    "catalogMatches": [
+      {
+        "id": "0e495b97-0a3d-49cf-9476-8814450b4cd0",
+        "name": "RTHK Radio 1",
+        "country": "HK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://c23.radioboss.fm/stream/194",
+    "checkedAt": "2026-09-11T06:28:49.771787+00:00",
+    "catalogMatches": [
+      {
+        "id": "a34645cb-3c73-449b-9d3d-44db5570e8a2",
+        "name": "良友电台同行频道",
+        "country": "HK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/2uvcyzjw38ivv",
+    "checkedAt": "2026-09-11T06:28:49.771886+00:00",
+    "catalogMatches": [
+      {
+        "id": "7c426f02-1c08-409c-8068-3a0d82bb1ea3",
+        "name": "ZENO FM 良友同行频道",
+        "country": "HK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.universalhealthradio.org/uhr-yue.mp3",
+    "checkedAt": "2026-09-11T06:28:49.771880+00:00",
+    "catalogMatches": [
+      {
+        "id": "972524a9-3683-4000-9d80-43b402bb7481",
+        "name": "Universal Health Radio (粵語)",
+        "country": "HK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9",
+    "checkedAt": "2026-09-11T06:28:49.771867+00:00",
+    "catalogMatches": [
+      {
+        "id": "67238017-50b9-444b-8f6c-ae17d008f5e4",
+        "name": "Fing Radio",
+        "country": "HK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3",
+    "checkedAt": "2026-09-11T06:28:49.771948+00:00",
+    "catalogMatches": [
+      {
+        "id": "bcab3194-d497-453f-b3ac-644724a18345",
+        "name": "台山電台",
+        "country": "HK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.dripfeed.net/listen/radiolantau/radio.mp3",
+    "checkedAt": "2026-09-11T06:28:49.771942+00:00",
+    "catalogMatches": [
+      {
+        "id": "93b7ad6f-abdc-4a24-a947-f87dec018269",
+        "name": "大嶼山廣播電台 RADIO LANTAU",
+        "country": "HK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://hongkongstream.axr.online/",
+    "checkedAt": "2026-09-11T06:28:49.771935+00:00",
+    "catalogMatches": [
+      {
+        "id": "d4a4ca27-d864-4f0c-ac3a-4dd9d273cbb9",
+        "name": "AXR Hong Kong",
+        "country": "HK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://lhttp-hw.qtfm.cn/live/1272/64k.mp3",
+    "checkedAt": "2026-09-11T06:28:49.771925+00:00",
+    "catalogMatches": [
+      {
+        "id": "7b939313-e0fd-4570-bba6-bd0f832edb96",
+        "name": "深圳交通廣播",
+        "country": "HK"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

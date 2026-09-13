@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+    "checkedAt": "2026-09-10T16:06:42.833185+00:00",
+    "catalogMatches": [
+      {
+        "id": "ba41c7a6-d193-11e9-a861-52543be04c81",
+        "name": "Guadeloupe 1ère",
+        "country": "GP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-178.zeno.fm/pbnss8oxyluuv",
+    "checkedAt": "2026-09-10T16:06:42.833264+00:00",
+    "catalogMatches": [
+      {
+        "id": "7d827f0e-85bc-4601-80d4-77d4391f60cf",
+        "name": "📻 Radio Shatta Movement",
+        "country": "GP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://go.2stream.net/nostalgiegp",
+    "checkedAt": "2026-09-10T16:06:42.833250+00:00",
+    "catalogMatches": [
+      {
+        "id": "c3366c0f-2e83-430b-a277-dbd9501c4106",
+        "name": "Nostalgie Guadeloupe",
+        "country": "GP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://antillesmedia.pro-fhi.net/antillesmediakompa",
+    "checkedAt": "2026-09-10T16:06:42.833320+00:00",
+    "catalogMatches": [
+      {
+        "id": "7e9e4c3f-9692-4c62-af52-6437ad9cbbc1",
+        "name": "Antilles Média - Kompa Gold",
+        "country": "GP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radio.catholique-guadeloupe.org/radio-massabielle.mp3",
+    "checkedAt": "2026-09-10T16:06:42.833314+00:00",
+    "catalogMatches": [
+      {
+        "id": "0c0c7618-cfbd-45a3-ae7b-3396a6c0652d",
+        "name": "Massabielle",
+        "country": "GP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://n06a-eu.rcs.revma.com/a7qacprtpwzuv",
+    "checkedAt": "2026-09-10T16:06:42.833306+00:00",
+    "catalogMatches": [
+      {
+        "id": "41b89a99-cae5-46b2-8a4c-a68bf46cc78c",
+        "name": "Bel Radio Guadeloupe",
+        "country": "GP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://streaming.nrjaudio.fm/ou4w6dhtd2ko",
+    "checkedAt": "2026-09-10T16:06:42.833374+00:00",
+    "catalogMatches": [
+      {
+        "id": "4b337b11-44eb-4076-be7e-7f813492bd03",
+        "name": "NRJ guadeloupe",
+        "country": "GP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://n10-eu.rcs.revma.com/v4hf7bwspwzuv",
+    "checkedAt": "2026-09-10T16:06:42.833363+00:00",
+    "catalogMatches": [
+      {
+        "id": "6b0b20fc-386f-4842-a64f-558bb2b2a4f3",
+        "name": "RCI guadeloupe",
+        "country": "GP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://radiosofaia.ice.infomaniak.ch/radiosofaia-high.aac",
+    "checkedAt": "2026-09-10T16:06:42.833369+00:00",
+    "catalogMatches": [
+      {
+        "id": "f3e64320-2d23-4568-921a-c89164fdec8a",
+        "name": "Sofaia Altitude",
+        "country": "GP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://2stream.net/mfmradio-128",
+    "checkedAt": "2026-09-10T16:06:42.833357+00:00",
+    "catalogMatches": [
+      {
+        "id": "fd44260b-6a5f-4bcf-80ff-35793f974e7c",
+        "name": "Madras",
+        "country": "GP"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

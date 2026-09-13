@@ -1,0 +1,147 @@
+[
+  {
+    "url": "https://phoebe.streamerr.co:1400/isr/1/web",
+    "checkedAt": "2026-09-11T17:37:25.285311+00:00",
+    "result": {
+      "ok": false,
+      "reason": "unsafe_or_unresolvable_address"
+    },
+    "catalogMatches": [],
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.trace.tv/trace_fm_ci-midfi.aac",
+    "checkedAt": "2026-09-11T17:37:25.285419+00:00",
+    "catalogMatches": [
+      {
+        "id": "9622928a-0601-11e8-ae97-52543be04c81",
+        "name": "Trace FM Côte d’Ivoire",
+        "country": "CI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
+    "checkedAt": "2026-09-11T17:37:25.285485+00:00",
+    "catalogMatches": [
+      {
+        "id": "0d7c9963-2239-4384-8061-d2da2516bb68",
+        "name": "Africa Radio Abidjan",
+        "country": "CI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://icecast.skyrock.net/s/abidjan_aac_64k",
+    "checkedAt": "2026-09-11T17:37:25.285492+00:00",
+    "catalogMatches": [
+      {
+        "id": "f7a86f1f-df67-4e66-b5b4-f562a0efb9fd",
+        "name": "Skyrock Abidjan",
+        "country": "CI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://cast4.asurahosting.com/proxy/life/stream",
+    "checkedAt": "2026-09-11T17:37:25.285593+00:00",
+    "catalogMatches": [
+      {
+        "id": "739f485a-e8a2-4fcc-9fad-65ab509125cf",
+        "name": "Life radio Côte d’Ivoire",
+        "country": "CI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://listen.radioking.com/radio/61201/stream/98566",
+    "checkedAt": "2026-09-11T17:37:25.285562+00:00",
+    "catalogMatches": [
+      {
+        "id": "5529f18f-c425-452d-901b-0ba5eae89335",
+        "name": "Radio Jam",
+        "country": "CI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://listen.radioking.com/radio/397789/stream/449770",
+    "checkedAt": "2026-09-11T17:37:25.285552+00:00",
+    "catalogMatches": [
+      {
+        "id": "1a29a057-1127-4906-b93e-dd2a7bdb57bf",
+        "name": "Afrobeat international",
+        "country": "CI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream10.vestaradio.com/RadioAgonshu",
+    "checkedAt": "2026-09-11T17:37:25.285604+00:00",
+    "catalogMatches": [
+      {
+        "id": "e693045f-01e6-48d4-9b44-4dc7435eede5",
+        "name": "RadioAgonshu",
+        "country": "CI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://wavemaster.diskstation.me/listen/wavemaster_radio/radio.mp3",
+    "checkedAt": "2026-09-11T17:37:25.285613+00:00",
+    "catalogMatches": [
+      {
+        "id": "a9dd1769-5dd7-4221-8ac4-bf490ab3e7de",
+        "name": "WaveMaster Radio",
+        "country": "CI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://dreamsiteradiocp6.com/proxy/rmcosta?mp=/stream",
+    "checkedAt": "2026-09-11T17:37:25.285598+00:00",
+    "catalogMatches": [
+      {
+        "id": "196a749d-d9ce-4961-ba74-d9e416103ee5",
+        "name": "Radio Maria Ivory Coast",
+        "country": "CI"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

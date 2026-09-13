@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://stream.v3.network/proxy/easy/stream.mp3",
+    "checkedAt": "2026-09-12T19:55:38.767879+00:00",
+    "catalogMatches": [
+      {
+        "id": "5ae47396-1ba4-4b1d-92c7-bdc62d6f8879",
+        "name": "Bay Easy 100.2",
+        "country": "MT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.v3.network/proxy/897bay/stream.mp3",
+    "checkedAt": "2026-09-12T19:55:38.767959+00:00",
+    "catalogMatches": [
+      {
+        "id": "d509b24b-d833-4617-b278-88eba4ee8287",
+        "name": "89.7 Bay",
+        "country": "MT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://campusfm.radioca.st/campusfm_live",
+    "checkedAt": "2026-09-12T19:55:38.767948+00:00",
+    "catalogMatches": [
+      {
+        "id": "b93e26d9-306c-4522-b420-cc4d537fc196",
+        "name": "Campus 103.7",
+        "country": "MT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://s4.radio.co/sf3aa4c25a/listen",
+    "checkedAt": "2026-09-12T19:55:38.768041+00:00",
+    "catalogMatches": [
+      {
+        "id": "bc95a0d2-666d-400d-9d9b-bba9f50277b3",
+        "name": "Calypso Radio",
+        "country": "MT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.v3.network/proxy/897bay/stream.mp3?_=1",
+    "checkedAt": "2026-09-12T19:55:38.768024+00:00",
+    "catalogMatches": [
+      {
+        "id": "26df1ec1-d11b-4703-a4d2-07519b431b66",
+        "name": "Bay 89.7",
+        "country": "MT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://s4.voscast.com:8837/default",
+    "checkedAt": "2026-09-12T19:55:38.768005+00:00",
+    "catalogMatches": [
+      {
+        "id": "c1346103-8b8f-4960-bea9-5f86708a8ae8",
+        "name": "MALTIN BISS",
+        "country": "MT"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

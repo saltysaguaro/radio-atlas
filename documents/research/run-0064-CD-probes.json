@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3",
+    "checkedAt": "2026-09-09T13:48:47.547022+00:00",
+    "catalogMatches": [
+      {
+        "id": "351eaaf0-2d2a-446b-8288-9f850588ba47",
+        "name": "Top Congo FM",
+        "country": "CD"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/qe5g83upga0uv",
+    "checkedAt": "2026-09-09T13:48:47.547100+00:00",
+    "catalogMatches": [
+      {
+        "id": "877b1a8c-e403-4b98-9060-2f255884e53c",
+        "name": "Radio Mix Congolaise",
+        "country": "CD"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/n3sgwrm2mg8uv",
+    "checkedAt": "2026-09-09T13:48:47.547087+00:00",
+    "catalogMatches": [
+      {
+        "id": "02d4462b-fdee-43e7-bf96-777416c18a7f",
+        "name": "Gospel FM",
+        "country": "CD"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream-47.zeno.fm/xwx18us91k8uv?zs=D6hP5IeET_CVAjQuCUtmkg",
+    "checkedAt": "2026-09-09T13:48:47.547155+00:00",
+    "catalogMatches": [
+      {
+        "id": "526030ed-2361-4fcb-b221-d2d70ad27fb8",
+        "name": "Watoto Radio",
+        "country": "CD"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

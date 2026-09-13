@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://stream.otvoreni.hr/otvoreni",
+    "checkedAt": "2026-09-09T04:45:19.250424+00:00",
+    "catalogMatches": [
+      {
+        "id": "909693aa-3a65-4067-be27-7767626df624",
+        "name": "Otvoreni radio - Uživo",
+        "country": "HR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.yammat.fm/radio/8000/yammat.mp3",
+    "checkedAt": "2026-09-09T04:45:19.250480+00:00",
+    "catalogMatches": [
+      {
+        "id": "f3d4ad2c-7252-4447-9cf4-fc4543ec54c6",
+        "name": "Yammat FM",
+        "country": "HR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://c5.hostingcentar.com/streams/topradio/",
+    "checkedAt": "2026-09-09T04:45:19.250491+00:00",
+    "catalogMatches": [
+      {
+        "id": "82214351-bd2f-4826-9b4c-c8bc5459c789",
+        "name": "Top Radio",
+        "country": "HR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://28503.live.streamtheworld.com/PROGRAM1AAC_SC",
+    "checkedAt": "2026-09-09T04:45:19.250563+00:00",
+    "catalogMatches": [
+      {
+        "id": "961d713c-0601-11e8-ae97-52543be04c81",
+        "name": "HRT HR 1 - Prvi program",
+        "country": "HR"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

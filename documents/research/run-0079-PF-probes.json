@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://live.tiarefm.pf:8443/tiarefm",
+    "checkedAt": "2026-09-10T04:58:09.327792+00:00",
+    "catalogMatches": [
+      {
+        "id": "7e785439-4534-4d27-b8d9-5dbffc94281e",
+        "name": "Tiare FM",
+        "country": "PF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://n01.radiojar.com/u0yz7p0mb.mp3",
+    "checkedAt": "2026-09-10T04:58:09.327844+00:00",
+    "catalogMatches": [
+      {
+        "id": "c06d6586-9fa8-49cf-9731-7c582430a588",
+        "name": "Hiti FM",
+        "country": "PF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://live.radio1.pf:8443/radio1",
+    "checkedAt": "2026-09-10T04:58:09.327851+00:00",
+    "catalogMatches": [
+      {
+        "id": "11f87095-84e8-48cd-8060-554f6d9ca526",
+        "name": "Radio 1 PF",
+        "country": "PF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+    "checkedAt": "2026-09-10T04:58:09.327918+00:00",
+    "catalogMatches": [
+      {
+        "id": "ea360929-b30d-4c00-b7c4-a95e77e48eb7",
+        "name": "Polynésie 1ère",
+        "country": "PF"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://stream.zeno.fm/zyd9stmdlnlvv",
+    "checkedAt": "2026-09-13T20:10:42.285999+00:00",
+    "catalogMatches": [
+      {
+        "id": "536669d5-9b8e-4d4d-b462-caf9fdb9ab2a",
+        "name": "Afrobeats Gospel Radio",
+        "country": "NG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/3fmqr74a7f8uv",
+    "checkedAt": "2026-09-13T20:10:42.286075+00:00",
+    "catalogMatches": [
+      {
+        "id": "f8d499d5-e223-4a0c-b712-2fb374628e35",
+        "name": "Nigerian Gospel Music Radio (MP3)",
+        "country": "NG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zenolive.com/e9x2n97b9uduv",
+    "checkedAt": "2026-09-13T20:10:42.286062+00:00",
+    "catalogMatches": [
+      {
+        "id": "55ab608a-ecda-40bb-8d53-2e1aba5e3483",
+        "name": "Fresh 105.9 FM Ibadan",
+        "country": "NG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://go.webgateready.com/bondfm",
+    "checkedAt": "2026-09-13T20:10:42.286166+00:00",
+    "catalogMatches": [
+      {
+        "id": "fdfd32c3-7612-4d83-acf1-5f7f0bc887db",
+        "name": "Bond 92.9 FM",
+        "country": "NG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://go.webgateready.com/metrofm/radio.mp3",
+    "checkedAt": "2026-09-13T20:10:42.286175+00:00",
+    "catalogMatches": [
+      {
+        "id": "dc3c6b97-8f2d-42ba-94b3-effc96dcb49f",
+        "name": "METRO FM LAGOS",
+        "country": "NG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://agidigbostream.com.ng/radio/8000/radio.mp3",
+    "checkedAt": "2026-09-13T20:10:42.286170+00:00",
+    "catalogMatches": [
+      {
+        "id": "e0d49458-2a02-4b6f-9349-a2059b19dc24",
+        "name": "Agidigbo 88.7 FM",
+        "country": "NG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://edge.mixlr.com/channel/cfeki",
+    "checkedAt": "2026-09-13T20:10:42.286257+00:00",
+    "catalogMatches": [
+      {
+        "id": "f69afbf3-fc53-44d1-b0ec-69911f350705",
+        "name": "Splash FM 105.5",
+        "country": "NG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://nigeriainfofmlagos993-atunwadigital.streamguys1.com/nigeriainfofmlagos993",
+    "checkedAt": "2026-09-13T20:10:42.286240+00:00",
+    "catalogMatches": [
+      {
+        "id": "36d4a771-6a91-454d-a6e4-d55667aa6dd4",
+        "name": "Nigeria Info",
+        "country": "NG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://stream.zeno.fm/m9x6zr5trp8uv",
+    "checkedAt": "2026-09-13T20:10:42.286246+00:00",
+    "catalogMatches": [
+      {
+        "id": "92041a7e-33de-453a-9a52-e5c88a2d7cd5",
+        "name": "Splash FM Abeokuta",
+        "country": "NG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  },
+  {
+    "url": "https://a10.asurahosting.com:7120/radio.mp3",
+    "checkedAt": "2026-09-13T20:10:42.286229+00:00",
+    "catalogMatches": [
+      {
+        "id": "0bed2842-34a8-44aa-b6e2-2c08cd4a16e3",
+        "name": "Afrofusion Gospel Radio",
+        "country": "NG"
+      }
+    ],
+    "result": {
+      "skipped": "already_in_catalog"
+    },
+    "priorResearchFiles": []
+  }
+]
